@@ -1,0 +1,9 @@
+rank	count	Number of specimens
+
+1	24596	1
+2	10	2
+3	2	3
+4=	1	4
+4=	1	7
+
+24610	TOTAL

@@ -1,0 +1,9 @@
+rank	count	Family
+
+1	3311	Halictidae
+2	2087	Colletidae
+3	724	Megachilidae
+4	308	Apidae
+5	106	Stenotritidae
+
+6536	TOTAL

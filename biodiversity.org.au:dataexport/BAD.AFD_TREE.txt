@@ -1,0 +1,1218 @@
+REJECTED NAME: Ancistrosyllis cf. hartmanae	$	Pettibone, 1966	$	http://biodiversity.org.au/afd/taxa/4c32a19f-de57-4e74-abfb-4ea58ee854c7
+REJECTED NAME: Litocorsa sp. <em>&#39;arafura&#39;</em>	$	Hocknull & Glasby, 2009	$	http://biodiversity.org.au/afd/taxa/4599d82f-b8db-4fa5-af92-47df0462dd2b
+REJECTED NAME: Sigambra cf. robusta	$	(Ehlers, 1908)	$	http://biodiversity.org.au/afd/taxa/f4e0c2e1-cfa3-473e-98b1-04927878fa4b
+REJECTED NAME: Sigambra cf. tentaculata	$	(Treadwell, 1941)	$	http://biodiversity.org.au/afd/taxa/f4479888-8b82-4b5e-9cf1-70f01acd09bc
+REJECTED NAME: Sigambra sp. <em>arafura</em>&#39;	$	Hocknull & Glasby, 2009	$	http://biodiversity.org.au/afd/taxa/e3c80339-bc8f-4bf9-af90-fba64f325d70
+REJECTED NAME: Pionosyllis sp.	$	San Martin & Hutchings, 2006	$	http://biodiversity.org.au/afd/taxa/c1479ae9-974b-467c-b75b-1f5e170ed7c6
+ERROR: DUPLICATE %NAME_lsid for Erinaceusyllis horrockensis
+REJECTED NAME: Alcyonosyllis cf. exiliformis	$	(Imajima, 2003)	$	http://biodiversity.org.au/afd/taxa/f702cfa8-f401-4712-8315-b34042c59878
+REJECTED NAME: Haplosyllis cf. spongicola	$	Lattig, Martin & San Martin, 2010	$	http://biodiversity.org.au/afd/taxa/bec0bb40-9e20-483c-a236-c8dc8170875f
+REJECTED NAME: Trypanosyllis cf. foliosa	$	(Imajima, 2003)	$	http://biodiversity.org.au/afd/taxa/ca1f6290-d541-4ca5-860e-3adbe28757e5
+REJECTED NAME: Laonome sp.	$	Capa, 2007	$	http://biodiversity.org.au/afd/taxa/db9cf4c8-1f33-493f-a141-db6aeb02eff7
+REJECTED NAME: Megalomma cf. acrophthalmos	$		$	http://biodiversity.org.au/afd/taxa/4c1ec1b2-331f-4827-b174-199a868c35b3
+REJECTED NAME: Megalomma cf. miyukiae	$		$	http://biodiversity.org.au/afd/taxa/1676d87b-c538-42fc-9486-087552de6a85
+REJECTED NAME: Spirobranchus sp. 1 cf polytremus	$	Pillai, 2009	$	http://biodiversity.org.au/afd/taxa/7ebd6cdb-c5e2-49c4-893f-c5b3bbf5a443
+REJECTED NAME: Araneus comptus fuscocapitatus	$	Rainbow, 1916	$	http://biodiversity.org.au/afd/taxa/db52d265-3455-463e-b9cf-3d76722ad04d
+REJECTED NAME: Araneus dianiphus xanthostichus	$	Rainbow, 1916	$	http://biodiversity.org.au/afd/taxa/4d7a70c0-7d25-4300-9032-6a4d71b9e3da
+REJECTED NAME: Cyrtarachne latifrons atuberculata	$	Hogg, 1900	$	http://biodiversity.org.au/afd/taxa/60fcc26a-1c5f-45ad-9229-785649a631f1
+REJECTED NAME: Isopedella inola carinatula	$	(Strand, 1913)	$	http://biodiversity.org.au/afd/taxa/46795a20-b849-44f8-8e4b-bbf8fbe24e18
+REJECTED NAME: Indohya sp. A	$		$	http://biodiversity.org.au/afd/taxa/386d294f-582d-4e39-b621-85c6c1d9cbba
+REJECTED NAME: Indohya sp. B	$		$	http://biodiversity.org.au/afd/taxa/3c13f432-bb3c-446b-8bf6-b5c5ac8a9912
+REJECTED NAME: Paradraculoides sp.	$		$	http://biodiversity.org.au/afd/taxa/0d1352dc-70ae-4e5e-9ae1-211b506c62b6
+ERROR: DUPLICATE %NAME_lsid for Aetiopedes gracilis
+ERROR: DUPLICATE %NAME_lsid for Photis aina
+ERROR: DUPLICATE %NAME_lsid for Photis brevicaudata
+ERROR: DUPLICATE %NAME_lsid for Photis davei
+ERROR: DUPLICATE %NAME_lsid for Photis dolichommata
+ERROR: DUPLICATE %NAME_lsid for Photis pirloti
+REJECTED NAME: Tethygeneia aff. pacifica	$	(Schellenberg, 1938)	$	http://biodiversity.org.au/afd/taxa/4e719ca5-c774-453f-9a81-fdf2f4392267
+REJECTED NAME: Aegiochus cf. nohinohi	$	Bruce, 2009	$	http://biodiversity.org.au/afd/taxa/c9880827-ff15-4173-a24e-73c2dec4c2ce
+REJECTED NAME: Lanocira cf. anasicula	$	Jones, 1982	$	http://biodiversity.org.au/afd/taxa/a0c998b6-f50a-4bee-9566-e019dfb8dcdc
+REJECTED NAME: Gaetanus cf. tenuispinus	$	(Sars G.O., 1900)	$	http://biodiversity.org.au/afd/taxa/b68d0198-e18e-4b1c-ab67-a80e5003db9d
+REJECTED NAME: Boeckella robusta maxima	$	Bayly, 1964	$	http://biodiversity.org.au/afd/taxa/8b35aec3-ff5d-4822-8c07-185164744ee7
+REJECTED NAME: Calamoecia gibbosa newmannensis	$	Bayly, 1979	$	http://biodiversity.org.au/afd/taxa/2240246c-7029-4cee-80d7-fbf0921bdceb
+REJECTED NAME: Cornucalanus cf. indicus	$	Sewell, 1929	$	http://biodiversity.org.au/afd/taxa/6f432f4c-ebd4-49a5-b27d-60737dc6b643
+REJECTED NAME: Dryophilodes subcylindricus brunneus	$	Lea, 1924	$	http://biodiversity.org.au/afd/taxa/95474eed-1661-4496-ac81-94870ebddf61
+REJECTED NAME: Clada sp.	$		$	http://biodiversity.org.au/afd/taxa/f8037f57-9a0f-439f-b86e-c9f1d7bb116c
+REJECTED NAME: Derolathrus sp.	$		$	http://biodiversity.org.au/afd/taxa/66080b0d-de5b-4e9a-ab34-1dc7ba810348
+REJECTED NAME: Demelius aff. semirugosus	$	Waterhouse, 1874	$	http://biodiversity.org.au/afd/taxa/6d81b67b-b894-403f-83da-e6e04496da3f
+REJECTED NAME: Pachydissus s. rufipes	$	Aurivillius, 1917	$	http://biodiversity.org.au/afd/taxa/3397e39c-59d3-4324-a548-8535f6e3e1cf
+REJECTED NAME: Tragocerus s. bifasciatus	$	Guérin-Méneville, 1830	$	http://biodiversity.org.au/afd/taxa/8f025dd0-2a19-4feb-b619-828f365cd361
+ERROR: DUPLICATE %NAME_lsid for Uracanthus maculatus
+ERROR: DUPLICATE %NAME_lsid for Aporocera conjugata
+ERROR: DUPLICATE %NAME_lsid for Aporocera rufescens
+ERROR: DUPLICATE %NAME_lsid for Ditropidus latifrons
+ERROR: DUPLICATE %NAME_lsid for Arsipoda quadrimaculata
+ERROR: DUPLICATE %NAME_lsid for Unplaced verticalis
+ERROR: DUPLICATE %NAME_lsid for Unplaced tasmanicus
+ERROR: DUPLICATE %NAME_lsid for Unplaced australis
+REJECTED NAME: Helmoreus sp. A	$		$	http://biodiversity.org.au/afd/taxa/e665cd64-961a-4051-bb41-300188ae022f
+REJECTED NAME: Plesiobasis sp. A	$		$	http://biodiversity.org.au/afd/taxa/4928e498-838c-4ec2-aa89-0c880d0925c4
+REJECTED NAME: Cisanthribus sp. A	$		$	http://biodiversity.org.au/afd/taxa/a9014586-5491-418d-a272-787f682922e3
+REJECTED NAME: Deropygus sp. A	$		$	http://biodiversity.org.au/afd/taxa/99ca676c-920f-42ad-8004-01db4ff13372
+REJECTED NAME: Stenorhis sp. A	$		$	http://biodiversity.org.au/afd/taxa/a6568eb0-f93b-4fc9-9540-44b3de937f57
+REJECTED NAME: Neosebus Sp. 1	$		$	http://biodiversity.org.au/afd/taxa/cc4ddbf8-f1f1-4932-bfbf-a5cc0ed12632
+REJECTED NAME: Myrtonymus sp. A	$		$	http://biodiversity.org.au/afd/taxa/3633a776-fce2-4c44-8947-727b802d1748
+REJECTED NAME: Athor sp. A	$		$	http://biodiversity.org.au/afd/taxa/3a3a3009-6d6b-4416-81d0-a849b242c219
+REJECTED NAME: Mecysmoderes sp. A	$		$	http://biodiversity.org.au/afd/taxa/130ff126-44dc-4a29-ba81-69002a99e384
+REJECTED NAME: Agrilochilus sp. A	$		$	http://biodiversity.org.au/afd/taxa/c0e9a0f4-25b8-4f49-8fc1-bc849d0d504b
+REJECTED NAME: Choerorhinus sp. A	$		$	http://biodiversity.org.au/afd/taxa/09d24ae2-6010-402b-a214-cd3c812c9b8e
+REJECTED NAME: Exomesites sp. A	$		$	http://biodiversity.org.au/afd/taxa/79eac3b4-2322-4d1b-ac2f-caeba14b4b79
+REJECTED NAME: Himatium sp. A	$		$	http://biodiversity.org.au/afd/taxa/367c4473-9c60-43d5-9a31-f102128c6ecb
+REJECTED NAME: Microtribus sp. A	$		$	http://biodiversity.org.au/afd/taxa/2115e7e8-605d-49b7-acd8-6a35943c90a7
+REJECTED NAME: Morronella sp. A	$		$	http://biodiversity.org.au/afd/taxa/27cfb559-a7ca-4475-9797-b7acaafa09ca
+REJECTED NAME: Ochronanus sp. A	$		$	http://biodiversity.org.au/afd/taxa/3d04c9b8-9f4f-4938-a887-494c00356b26
+REJECTED NAME: Stenotrupis sp. A	$		$	http://biodiversity.org.au/afd/taxa/447fee84-ce63-4da5-8ce8-ec2bdcf1a153
+REJECTED NAME: Stilbocara sp. A	$		$	http://biodiversity.org.au/afd/taxa/d36309fb-ece9-41ff-903d-07b7c5c47a51
+REJECTED NAME: Toura sp. A	$		$	http://biodiversity.org.au/afd/taxa/46550487-f430-4857-bb6a-69d7487187cf
+REJECTED NAME: Unas sp. A	$		$	http://biodiversity.org.au/afd/taxa/0c3d9822-e714-4b80-9bed-9ff8a442c0d8
+REJECTED NAME: Tithene sp. A	$		$	http://biodiversity.org.au/afd/taxa/e774ca02-cd78-4a7c-b05a-413f916e769a
+REJECTED NAME: Cranopoeus sp. A	$		$	http://biodiversity.org.au/afd/taxa/aa6da30e-7f2a-4b07-b763-cec0077f2512
+ERROR: DUPLICATE %NAME_lsid for Unplaced australis
+REJECTED NAME: Hypsomus Sp. A	$		$	http://biodiversity.org.au/afd/taxa/24f94029-1044-4e3b-b7b3-ce93a9e1ab07
+REJECTED NAME: Tanymecus sp. A	$		$	http://biodiversity.org.au/afd/taxa/371fd466-31e2-445e-b87b-fc0444161941
+REJECTED NAME: Arecophaga sp. A	$		$	http://biodiversity.org.au/afd/taxa/3e2193d7-4fbd-45b3-8c5d-8ca20b4398e2
+REJECTED NAME: Hemicryphalus sp. A	$		$	http://biodiversity.org.au/afd/taxa/50f6dcc0-7ec4-477a-983e-b167cad012fe
+REJECTED NAME: Ptilopodius sp. A	$		$	http://biodiversity.org.au/afd/taxa/4c350a1d-a042-4055-8d0f-e71a40f98c2a
+REJECTED NAME: Dryocoetes sp. A	$		$	http://biodiversity.org.au/afd/taxa/3505ebc2-abf4-41cb-84d6-f6a6342f421b
+REJECTED NAME: Ozopemon sp. A	$		$	http://biodiversity.org.au/afd/taxa/f3b9befb-cc9c-407f-b97d-c0b09de7ba28
+REJECTED NAME: Xylechinus sp. A	$		$	http://biodiversity.org.au/afd/taxa/1d4f868d-8129-469a-b2cb-69fd26feebe7
+REJECTED NAME: Liparthrum sp. A	$		$	http://biodiversity.org.au/afd/taxa/963beb57-d755-4db1-ad5e-3139384db291
+REJECTED NAME: Tivicis sp. A	$		$	http://biodiversity.org.au/afd/taxa/b2457208-d00b-48a9-86f6-ef971e70e56a
+ERROR: DUPLICATE %NAME_lsid for Sagola brevipennis
+ERROR: DUPLICATE %NAME_lsid for Unplaced castanea
+REJECTED NAME: Odinia sp.	$		$	http://biodiversity.org.au/afd/taxa/d293135d-08d1-4de2-b245-bc5dd04cc2fe
+REJECTED NAME: Traginops sp.	$		$	http://biodiversity.org.au/afd/taxa/939cbb4c-4124-49ec-a9db-71e00eb85104
+ERROR: DUPLICATE %NAME_lsid for Unplaced australis
+'sp','Species',,&#39;'Ochlerotatus&#39; daliensis','(Taylor, 1916)',&#39;'Ochlerotatus&#39; daliensis (Taylor, 1916)',urn:lsid:biodiversity.org.au:afd.name:557567,urn:lsid:biodiversity.org.au:afd.taxon:c60b213a-b5cb-449e-b915-0e256bd6e9b5,urn:lsid:biodiversity.org.au:afd.taxon:c52619f7-b8c3-402e-a9bf-d39d6880ea81,,http://biodiversity.org.au/afd.name/557567,http://biodiversity.org.au/afd.taxon/c60b213a-b5cb-449e-b915-0e256bd6e9b5,http://biodiversity.org.au/afd.taxon/c52619f7-b8c3-402e-a9bf-d39d6880ea81,,http://biodiversity.org.au/afd/taxa/c60b213a-b5cb-449e-b915-0e256bd6e9b5,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/c60b213a-b5cb-449e-b915-0e256bd6e9b5,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) australiensis','(Theobald, 1910)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) australiensis (Theobald, 1910)',urn:lsid:biodiversity.org.au:afd.name:550965,urn:lsid:biodiversity.org.au:afd.taxon:aee89de9-2226-426e-a64c-de402f511cd6,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/550965,http://biodiversity.org.au/afd.taxon/aee89de9-2226-426e-a64c-de402f511cd6,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/aee89de9-2226-426e-a64c-de402f511cd6,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/aee89de9-2226-426e-a64c-de402f511cd6,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) biocellatus','(Taylor, 1914)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) biocellatus (Taylor, 1914)',urn:lsid:biodiversity.org.au:afd.name:554901,urn:lsid:biodiversity.org.au:afd.taxon:fe736639-66d3-4c05-9389-1ced80b87ff3,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/554901,http://biodiversity.org.au/afd.taxon/fe736639-66d3-4c05-9389-1ced80b87ff3,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/fe736639-66d3-4c05-9389-1ced80b87ff3,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/fe736639-66d3-4c05-9389-1ced80b87ff3,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) britteni','Marks & Hodgkin, 1958',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) britteni Marks & Hodgkin, 1958',urn:lsid:biodiversity.org.au:afd.name:550981,urn:lsid:biodiversity.org.au:afd.taxon:c30a13b9-bd8a-49ab-ade1-540f567a9c43,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/550981,http://biodiversity.org.au/afd.taxon/c30a13b9-bd8a-49ab-ade1-540f567a9c43,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/c30a13b9-bd8a-49ab-ade1-540f567a9c43,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/c30a13b9-bd8a-49ab-ade1-540f567a9c43,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) candidoscutellum','(Marks, 1947)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) candidoscutellum (Marks, 1947)',urn:lsid:biodiversity.org.au:afd.name:562881,urn:lsid:biodiversity.org.au:afd.taxon:eff53233-38d3-4142-a7c4-8dd86d482091,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/562881,http://biodiversity.org.au/afd.taxon/eff53233-38d3-4142-a7c4-8dd86d482091,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/eff53233-38d3-4142-a7c4-8dd86d482091,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/eff53233-38d3-4142-a7c4-8dd86d482091,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) keefei','(King & Hoogstraal, 1946)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) keefei (King & Hoogstraal, 1946)',urn:lsid:biodiversity.org.au:afd.name:558871,urn:lsid:biodiversity.org.au:afd.taxon:fa84314a-4217-4832-b899-31134fadcba3,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/558871,http://biodiversity.org.au/afd.taxon/fa84314a-4217-4832-b899-31134fadcba3,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/fa84314a-4217-4832-b899-31134fadcba3,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/fa84314a-4217-4832-b899-31134fadcba3,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) lauriei','Carter, 1921',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) lauriei Carter, 1921',urn:lsid:biodiversity.org.au:afd.name:546882,urn:lsid:biodiversity.org.au:afd.taxon:17f4b7f8-af6c-4c38-8875-622a096269d7,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/546882,http://biodiversity.org.au/afd.taxon/17f4b7f8-af6c-4c38-8875-622a096269d7,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/17f4b7f8-af6c-4c38-8875-622a096269d7,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/17f4b7f8-af6c-4c38-8875-622a096269d7,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) mallochi','(Taylor, 1944)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) mallochi (Taylor, 1944)',urn:lsid:biodiversity.org.au:afd.name:558872,urn:lsid:biodiversity.org.au:afd.taxon:736125de-5c32-4f30-a103-16e988b6475c,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/558872,http://biodiversity.org.au/afd.taxon/736125de-5c32-4f30-a103-16e988b6475c,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/736125de-5c32-4f30-a103-16e988b6475c,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/736125de-5c32-4f30-a103-16e988b6475c,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) monocellatus','(Marks, 1948)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) monocellatus (Marks, 1948)',urn:lsid:biodiversity.org.au:afd.name:553514,urn:lsid:biodiversity.org.au:afd.taxon:f6051c6a-087d-4dd6-a71d-48f583d4a9e4,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/553514,http://biodiversity.org.au/afd.taxon/f6051c6a-087d-4dd6-a71d-48f583d4a9e4,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/f6051c6a-087d-4dd6-a71d-48f583d4a9e4,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/f6051c6a-087d-4dd6-a71d-48f583d4a9e4,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) plagosus','(Marks, 1959)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) plagosus (Marks, 1959)',urn:lsid:biodiversity.org.au:afd.name:549593,urn:lsid:biodiversity.org.au:afd.taxon:18a793be-f7bc-44f9-848b-7b5e5a4b7dcd,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/549593,http://biodiversity.org.au/afd.taxon/18a793be-f7bc-44f9-848b-7b5e5a4b7dcd,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/18a793be-f7bc-44f9-848b-7b5e5a4b7dcd,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/18a793be-f7bc-44f9-848b-7b5e5a4b7dcd,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) quasirubithorax','(Theobald, 1910)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) quasirubithorax (Theobald, 1910)',urn:lsid:biodiversity.org.au:afd.name:556232,urn:lsid:biodiversity.org.au:afd.taxon:2cb0b48e-4f0c-48f3-b637-3c7f3e4d1f64,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/556232,http://biodiversity.org.au/afd.taxon/2cb0b48e-4f0c-48f3-b637-3c7f3e4d1f64,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/2cb0b48e-4f0c-48f3-b637-3c7f3e4d1f64,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/2cb0b48e-4f0c-48f3-b637-3c7f3e4d1f64,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) subauridorsum','(Marks, 1948)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) subauridorsum (Marks, 1948)',urn:lsid:biodiversity.org.au:afd.name:545534,urn:lsid:biodiversity.org.au:afd.taxon:f6836096-cff6-47ec-b828-69c2a37753a7,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/545534,http://biodiversity.org.au/afd.taxon/f6836096-cff6-47ec-b828-69c2a37753a7,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/f6836096-cff6-47ec-b828-69c2a37753a7,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/f6836096-cff6-47ec-b828-69c2a37753a7,
+'sp','Species',,&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) wasselli','(Marks, 1947)',&#39;'Ochlerotatus&#39; (&#39;Finlaya&#39;) wasselli (Marks, 1947)',urn:lsid:biodiversity.org.au:afd.name:549594,urn:lsid:biodiversity.org.au:afd.taxon:67ba4740-0d07-4a9c-b2b8-d2d353784229,urn:lsid:biodiversity.org.au:afd.taxon:d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd.name/549594,http://biodiversity.org.au/afd.taxon/67ba4740-0d07-4a9c-b2b8-d2d353784229,http://biodiversity.org.au/afd.taxon/d362a264-523d-46fc-8bf8-5433c09f70e0,,http://biodiversity.org.au/afd/taxa/67ba4740-0d07-4a9c-b2b8-d2d353784229,http://creativecommons.org/licenses/by/3.0/	,http://biodiversity.org.au/afd.taxon/67ba4740-0d07-4a9c-b2b8-d2d353784229,
+ERROR: DUPLICATE %NAME_lsid for Molophilus collessi
+REJECTED NAME: Scenopinus birói	$	Kertész, 1899	$	http://biodiversity.org.au/afd/taxa/0b1578ff-cc2b-4973-9149-64425dea3aaf
+REJECTED NAME: Calophya sp. a	$		$	http://biodiversity.org.au/afd/taxa/05d75ceb-6874-4f30-a20f-a2fc200240d8
+REJECTED NAME: Calophya sp. b	$		$	http://biodiversity.org.au/afd/taxa/4a0b1837-377d-4467-bc4e-2bb5427ef438
+REJECTED NAME: Macrohomotoma sp. a	$		$	http://biodiversity.org.au/afd/taxa/8b60a8a3-88f8-44e0-aadc-cdfd794d3257
+REJECTED NAME: Macrohomotoma sp. b	$		$	http://biodiversity.org.au/afd/taxa/ccf2350f-858e-4bef-bbc1-e7f54f17f045
+REJECTED NAME: Paurocephala sp.	$		$	http://biodiversity.org.au/afd/taxa/60311634-ed85-48be-afe9-175fed01384a
+REJECTED NAME: Pseudophacopteron sp. a	$		$	http://biodiversity.org.au/afd/taxa/2db01eb3-caf8-4cd3-afe7-e3b9bebdc6aa
+REJECTED NAME: Pseudophacopteron sp. b	$		$	http://biodiversity.org.au/afd/taxa/117ce840-6ad1-4e55-8cd7-6e60ae5eee07
+REJECTED NAME: Brinckitia sp.	$		$	http://biodiversity.org.au/afd/taxa/330c855d-7e07-4f7a-a82e-a09e79ddaf43
+REJECTED NAME: Colophorina sp. a	$		$	http://biodiversity.org.au/afd/taxa/04f65dfb-0874-43c0-82e2-dc4dd57305d5
+REJECTED NAME: Colophorina sp. b	$		$	http://biodiversity.org.au/afd/taxa/3d96cde6-fb43-455d-823e-9772f12b691e
+REJECTED NAME: Euryconus sp.	$		$	http://biodiversity.org.au/afd/taxa/99d79d20-760d-415a-9758-a679086b2ef1
+REJECTED NAME: Cacopsylla sp.	$		$	http://biodiversity.org.au/afd/taxa/69fb3a4e-ad13-4137-a64f-ee00f453a8fe
+REJECTED NAME: Trisetipsylla sp.	$		$	http://biodiversity.org.au/afd/taxa/75f9365c-969b-4457-af95-3c0c3ee07a41
+REJECTED NAME: Anomalopsylla sp. n	$		$	http://biodiversity.org.au/afd/taxa/be0bd633-3d31-4863-a0d6-09cf943b286d
+REJECTED NAME: Pauropsylla sp. a	$		$	http://biodiversity.org.au/afd/taxa/38412722-5d5f-4430-8824-4630990bccc5
+REJECTED NAME: Pauropsylla sp. b	$		$	http://biodiversity.org.au/afd/taxa/a08acfe1-a5e9-47d0-b12d-122b6c2eadd2
+ERROR: DUPLICATE %NAME_lsid for Exoneura rufa
+ERROR: DUPLICATE %NAME_lsid for Euryglossina clypearis
+ERROR: DUPLICATE %NAME_lsid for Euryglossina doddi
+ERROR: DUPLICATE %NAME_lsid for Lasioglossum froggatti
+ERROR: DUPLICATE %NAME_lsid for Meselatus fasciatipennis
+ERROR: DUPLICATE %NAME_lsid for Philotrypesis angela
+ERROR: DUPLICATE %NAME_lsid for Tachinaephagus australiensis
+ERROR: DUPLICATE %NAME_lsid for Euderus ovativentris
+ERROR: DUPLICATE %NAME_lsid for Notanisomorphella proserpinensis
+ERROR: DUPLICATE %NAME_lsid for Aprostocetus flavus
+ERROR: DUPLICATE %NAME_lsid for Aprostocetus flavus
+ERROR: DUPLICATE %NAME_lsid for Aprostocetus flavus
+ERROR: DUPLICATE %NAME_lsid for Aprostocetus fuscipennis
+ERROR: DUPLICATE %NAME_lsid for Aprostocetus viridithorax
+ERROR: DUPLICATE %NAME_lsid for Epichrysocharis fusca
+ERROR: DUPLICATE %NAME_lsid for Tetrastichus kurandensis
+ERROR: DUPLICATE %NAME_lsid for Ophelimus dei
+ERROR: DUPLICATE %NAME_lsid for Ophelimus gemma
+ERROR: DUPLICATE %NAME_lsid for Bruchophagus niger
+ERROR: DUPLICATE %NAME_lsid for Callitula flavipes
+ERROR: DUPLICATE %NAME_lsid for Callitula grotiusi
+ERROR: DUPLICATE %NAME_lsid for Sphegipterosemella unicolor
+ERROR: DUPLICATE %NAME_lsid for Anochetus paripungens
+REJECTED NAME: Elachyophthalma sp. A	$		$	http://biodiversity.org.au/afd/taxa/1e70782f-4a45-487b-bda1-9071e27e86b4
+REJECTED NAME: Neodiphthera sp. A	$		$	http://biodiversity.org.au/afd/taxa/a040ce72-9521-46c2-a701-b3f0aae48a97
+REJECTED NAME: Acria sp. A	$		$	http://biodiversity.org.au/afd/taxa/0ae7445e-8811-4034-ac9b-ca3b2bdad932
+REJECTED NAME: Filatima sp. A	$		$	http://biodiversity.org.au/afd/taxa/f7128d01-7c9c-4bb4-83a2-c61a66c7d08a
+REJECTED NAME: Unplaced homopolia (Machimia)	$	Turner, 1946	$	http://biodiversity.org.au/afd/taxa/d98bd43c-dd54-4903-9344-5554b5eacee1
+REJECTED NAME: [Pytinaea group] anticrossa	$	(Meyrick, 1915)	$	http://biodiversity.org.au/afd/taxa/affed59f-95d2-419b-a8a0-998c8fa62209
+REJECTED NAME: [Pytinaea group] pytinaea	$	(Meyrick, 1902)	$	http://biodiversity.org.au/afd/taxa/d073cdd1-6d0b-443e-b545-08904c8d1c2d
+REJECTED NAME: [Pytinaea group] schistopa	$	(Meyrick, 1902)	$	http://biodiversity.org.au/afd/taxa/c12604ab-7f4b-418f-b65a-5efc32301d39
+REJECTED NAME: [Sphaleropis group] adelphodes	$	(Lower, 1893)	$	http://biodiversity.org.au/afd/taxa/986d4020-200d-44ff-a7b1-67d05f39710c
+REJECTED NAME: [Sphaleropis group] sphaleropis	$	(Meyrick, 1902)	$	http://biodiversity.org.au/afd/taxa/24a168e1-f4ec-42d0-9f92-8b407e418c35
+REJECTED NAME: Ruttellerona sp. A	$		$	http://biodiversity.org.au/afd/taxa/6d8e3aa0-2026-4fca-acb8-6998a237796c
+REJECTED NAME: Fascellina sp. A	$		$	http://biodiversity.org.au/afd/taxa/7ae25a78-986d-4085-8a81-59cb01f8d6ea
+ERROR: DUPLICATE %NAME_lsid for Unplaced celaenephes
+REJECTED NAME: "Eucymatoge" scotodes	$	Turner, 1904	$	http://biodiversity.org.au/afd/taxa/7b48bbec-0a8f-42e4-993f-75856783b857
+REJECTED NAME: Unnamed Genus cumularia	$	Guenée, [1858]	$	http://biodiversity.org.au/afd/taxa/02f1a421-4aaf-4aa8-a003-acda5be30869
+REJECTED NAME: Unnamed Genus extraneata	$	Guenée, [1858]	$	http://biodiversity.org.au/afd/taxa/3e170b08-fa3a-426b-9970-3f5e654c1485
+REJECTED NAME: Unnamed Genus intenebrata	$	Walker, 1862	$	http://biodiversity.org.au/afd/taxa/f24d9fdf-78cb-405e-9214-2b4749919318
+REJECTED NAME: Unnamed Genus opertaria	$	Guenée, [1858]	$	http://biodiversity.org.au/afd/taxa/7efd1b10-ebcc-4cf8-abe2-200eacf7f014
+REJECTED NAME: "Cyclophora" lechriostropha	$	(Turner, 1941)	$	http://biodiversity.org.au/afd/taxa/75436059-e621-4cc8-9a7e-46ec55ef6080
+REJECTED NAME: "Cyclophora" leptopasta	$	Turner, 1908	$	http://biodiversity.org.au/afd/taxa/6a10ce37-89d3-461f-abe5-96e01d172700
+REJECTED NAME: "Cyclophora" perpunctulata	$	(Prout, 1938)	$	http://biodiversity.org.au/afd/taxa/249a0106-51ab-4e61-8d40-bb79c47a4c2d
+REJECTED NAME: "Cyclophora" rhodobapta	$	(Turner, 1941)	$	http://biodiversity.org.au/afd/taxa/77985c11-ab8e-471b-941c-a22cf2d9f17c
+REJECTED NAME: "Cyclophora" sciota	$	(Turner, 1908)	$	http://biodiversity.org.au/afd/taxa/f37a0b3f-948e-438c-8500-289c22a87999
+REJECTED NAME: "Cyclophora" sticta	$	(Turner, 1941)	$	http://biodiversity.org.au/afd/taxa/96aaeba1-1a44-48d6-a52b-0100476220a4
+REJECTED NAME: "Cyclophora" turneri	$	(Prout, 1920)	$	http://biodiversity.org.au/afd/taxa/9b409ce2-ef66-4ed7-8d3e-f72a6cbd609a
+REJECTED NAME: Chrysallactis sp. A	$		$	http://biodiversity.org.au/afd/taxa/dbddcfd5-b31e-45a2-8729-62826ba88b0b
+REJECTED NAME: Eugoa cf. dissozona	$	(Meyrick, 1889)	$	http://biodiversity.org.au/afd/taxa/c1be3208-97bb-4380-a7cf-aa74a8be30d5
+REJECTED NAME: Eugoa sp. A	$		$	http://biodiversity.org.au/afd/taxa/6e1ad581-7aff-4244-bb25-a34f011ab949
+REJECTED NAME: Licnoptera sp. A	$		$	http://biodiversity.org.au/afd/taxa/f10c12ec-bd9c-4339-836f-74ff70c8ad27
+REJECTED NAME: Arctornis sp. A	$		$	http://biodiversity.org.au/afd/taxa/cb10a9b5-141e-406a-b471-a84c2084ef8b
+REJECTED NAME: Dasychiroides sp. A	$		$	http://biodiversity.org.au/afd/taxa/9d4b19cc-655e-47cd-9781-f9d3fb4ed2b6
+REJECTED NAME: Mudaria sp. A	$		$	http://biodiversity.org.au/afd/taxa/90fec352-f9f0-4741-a3f0-4c4392c95f35
+ERROR: DUPLICATE %NAME_lsid for Unplaced cremnodes
+REJECTED NAME: Attatha sp. A	$		$	http://biodiversity.org.au/afd/taxa/4993f39c-159b-4c6e-8566-4b1e3a1503d4
+REJECTED NAME: Belciana sp. A	$		$	http://biodiversity.org.au/afd/taxa/b6d2be83-6ed1-4d52-a0c7-d37735475ac4
+REJECTED NAME: Hirsutopalpis sp. A	$		$	http://biodiversity.org.au/afd/taxa/4ee5feaa-3c22-49e2-881a-2ce3f1e3f55f
+REJECTED NAME: Maguda sp. A	$		$	http://biodiversity.org.au/afd/taxa/abd6d867-d9f5-4e1b-a513-013c14b8af35
+ERROR: DUPLICATE %NAME_lsid for Unplaced acroleuca
+REJECTED NAME: Microcrambus sp. A	$		$	http://biodiversity.org.au/afd/taxa/32e43dd5-495e-4312-9332-7f9c20946e73
+REJECTED NAME: Thopeutis sp. A	$		$	http://biodiversity.org.au/afd/taxa/fc6269f5-79a4-462b-9040-3bf250cc76bb
+REJECTED NAME: Aulacoptera sp. A	$		$	http://biodiversity.org.au/afd/taxa/7f0b9e49-3769-4e3d-beba-a729b4b4d1de
+REJECTED NAME: Luma sp. A	$		$	http://biodiversity.org.au/afd/taxa/07082247-09a6-4ae9-b585-2e182f469070
+REJECTED NAME: Massepha sp. A	$		$	http://biodiversity.org.au/afd/taxa/1b857f67-7480-462d-bf64-710f4bbed674
+REJECTED NAME: Perisyntrocha sp. A	$		$	http://biodiversity.org.au/afd/taxa/ff01ff74-7b54-4b1b-95a9-f30c309abf56
+REJECTED NAME: Preneopogon sp. A	$		$	http://biodiversity.org.au/afd/taxa/65a18430-b5cf-493e-90fd-8f66f5878a28
+REJECTED NAME: Synclera sp. A	$		$	http://biodiversity.org.au/afd/taxa/6850b4c8-efad-4ede-8490-46b01657d800
+REJECTED NAME: Guastica sp. A	$		$	http://biodiversity.org.au/afd/taxa/396b8103-d762-4d02-90c7-cec5fccab294
+REJECTED NAME: Pseudodavara sp. A	$		$	http://biodiversity.org.au/afd/taxa/0439a319-fda2-424a-a31f-0519e5418a6b
+REJECTED NAME: Spatulipalpia sp. A	$		$	http://biodiversity.org.au/afd/taxa/121a060b-122c-4b52-bc7e-f0f52bcd4ec1
+REJECTED NAME: Cryptarthria sp. A	$		$	http://biodiversity.org.au/afd/taxa/69f91a8f-5608-4429-8143-7d54ac40a63b
+REJECTED NAME: Ctenomedes sp. A	$		$	http://biodiversity.org.au/afd/taxa/21393d12-4222-48d0-a0ea-5fe2017e7336
+REJECTED NAME: Nonambesa sp. A	$		$	http://biodiversity.org.au/afd/taxa/fc70695e-5399-4f36-ae61-9701fb4d57cc
+REJECTED NAME: Rambutaneia sp. A	$		$	http://biodiversity.org.au/afd/taxa/470b3c06-1eca-4896-9671-85f14ecc4492
+REJECTED NAME: Thylacoptila sp. A	$		$	http://biodiversity.org.au/afd/taxa/fec0e913-96ca-44c9-b8dd-02efff1d5309
+REJECTED NAME: Volobilis sp. A	$		$	http://biodiversity.org.au/afd/taxa/ba481fa7-0532-49e4-ad07-e5539fdc9726
+REJECTED NAME: Embryoglossa sp. A	$		$	http://biodiversity.org.au/afd/taxa/5ad3aca3-4525-4704-a733-142158d9b6d4
+REJECTED NAME: Lixa sp. A	$		$	http://biodiversity.org.au/afd/taxa/77b44fd0-bb58-466a-80f9-29ff34253a4d
+REJECTED NAME: Perula sp. A	$		$	http://biodiversity.org.au/afd/taxa/ecd5752a-23b9-495f-8b19-f05e25bfc016
+REJECTED NAME: Tanyethira sp. A	$		$	http://biodiversity.org.au/afd/taxa/295e211f-1c45-4051-9273-0551fa3e2411
+REJECTED NAME: Metrernis Sp. A	$	[Tuck], 1981	$	http://biodiversity.org.au/afd/taxa/2cb18565-3472-4afb-a13b-09114f21ff2e
+REJECTED NAME: Picroxena Sp. A	$	[Tuck], 1981	$	http://biodiversity.org.au/afd/taxa/5c5f4d14-fd57-43fa-9345-4ce4cc68f712
+REJECTED NAME: Planostocha sp. A	$		$	http://biodiversity.org.au/afd/taxa/0832b197-813b-4332-ba78-a55bc74d9aed
+REJECTED NAME: Sobriana GROUP alysidina	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/2b00c67d-5172-4ede-9a11-8ee2a6f75641
+REJECTED NAME: Sobriana GROUP arcaria	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/5aa4dfce-99f8-49fc-b594-98c50151cef7
+REJECTED NAME: Sobriana GROUP dyschroa	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/f3a04cdc-b9ca-4d5a-b8ec-d19e4a2fee41
+REJECTED NAME: Sobriana GROUP haplopolia	$	(Turner, 1939)	$	http://biodiversity.org.au/afd/taxa/eb2ef319-a51a-4b53-bff1-379d9e779d73
+REJECTED NAME: Sobriana GROUP mnemosynana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/9bc1dd17-9718-4896-ab46-01d544912d5b
+REJECTED NAME: Sobriana GROUP ophiodesma	$	(Lower, 1902)	$	http://biodiversity.org.au/afd/taxa/ee68efb5-c003-4da3-9015-80e009a778cd
+REJECTED NAME: Sobriana GROUP oressinoma	$	(Turner, 1925)	$	http://biodiversity.org.au/afd/taxa/341f268d-ad34-4b87-a51f-3be18f1ec644
+REJECTED NAME: Sobriana GROUP sobriana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/48131e04-a2a3-452d-b819-21512143b420
+REJECTED NAME: Sobriana GROUP stigmatias	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/50a56296-a645-42a2-86b3-7a6bfc30546d
+REJECTED NAME: Standishana GROUP concolorana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/878c13c5-e16a-4781-8bc2-eac03c2fdc3d
+REJECTED NAME: Standishana GROUP standishana	$	(Newman, 1856)	$	http://biodiversity.org.au/afd/taxa/8958c1ff-1b68-4f7f-8e22-ae7ec9c5ac98
+REJECTED NAME: Technitis GROUP agrypna	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/4da9eeea-9e9f-4c27-bff3-7cb35bc894f6
+REJECTED NAME: Technitis GROUP amoenana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/c152c456-54b6-4268-96b6-98ca4e1c25bd
+REJECTED NAME: Technitis GROUP campylosema	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/2e4f35b1-a1ec-4d4e-8a3d-439f2247b336
+REJECTED NAME: Technitis GROUP campylosticha	$	(Turner, 1939)	$	http://biodiversity.org.au/afd/taxa/ab580f03-47d5-4f2e-8cdf-05657e88d1f2
+REJECTED NAME: Technitis GROUP cataractis	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/ce8dd04f-347e-44fc-a0c4-bec3bb1e653e
+REJECTED NAME: Technitis GROUP desmotana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/12659ba5-8f0d-4e82-a474-9d7d780e7a1e
+REJECTED NAME: Technitis GROUP eusticha	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/efa44058-8295-4f62-89e4-b2c5b0a6394a
+REJECTED NAME: Technitis GROUP humerellus	$	(Walker, 1866)	$	http://biodiversity.org.au/afd/taxa/359244ef-216f-4bf1-944e-7127eedfb2ee
+REJECTED NAME: Technitis GROUP hydractis	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/2d045643-4eac-4ecc-bf51-1b684fed517c
+REJECTED NAME: Technitis GROUP oriarcha	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/3bbe8ea9-8ec6-4359-b871-1dd590d02076
+REJECTED NAME: Technitis GROUP phaeoneura	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/f97b52fb-86bc-4ce8-93c3-8b50aa71be97
+REJECTED NAME: Technitis GROUP polyphrica	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/010cb9a1-1f4f-422d-a8e6-a5e9442ee765
+REJECTED NAME: Technitis GROUP procapna	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/d79effc5-c42c-4cd8-8a9c-e40450a0fa06
+REJECTED NAME: Technitis GROUP technica	$	(Turner, 1939)	$	http://biodiversity.org.au/afd/taxa/cce3b3c0-b6e1-4d02-91fd-7a998204815f
+REJECTED NAME: Technitis GROUP technitis	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/2be8b93d-5155-4ee3-807b-dd9630149c6e
+REJECTED NAME: Technitis GROUP telephanta	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/01a5509f-8fbf-4e34-ae54-645437593a61
+REJECTED NAME: Technitis GROUP tephrodes	$	(Turner, 1916)	$	http://biodiversity.org.au/afd/taxa/cc99f5ad-6631-4269-a30e-812a24979dc5
+REJECTED NAME: Technitis GROUP tessulatana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/d3ee0e28-60af-486c-9607-33764cb87a02
+REJECTED NAME: Clarana GROUP acrita	$	(Turner, 1916)	$	http://biodiversity.org.au/afd/taxa/2c495e03-12a9-4423-aa48-fb9673b69e61
+REJECTED NAME: Clarana GROUP arrosta	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/217f9967-8528-4d4e-a0e7-888e16d295cf
+REJECTED NAME: Clarana GROUP arrythmodes	$	(Turner, 1946)	$	http://biodiversity.org.au/afd/taxa/900a9816-62ce-4ffb-93cb-66d9445428f0
+REJECTED NAME: Clarana GROUP atristrigana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/64b0b64e-e486-4a1e-9bb4-e874096a539d
+REJECTED NAME: Clarana GROUP clarana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/eb73616a-9b0c-4a98-93be-a3e72bf1bef7
+REJECTED NAME: Clarana GROUP hyperetana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/8c8db2c1-ef25-479d-b4fc-6813b3d3f8fc
+REJECTED NAME: Clarana GROUP parastactis	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/56315684-94bf-4abd-812f-7eadd7be4d79
+REJECTED NAME: Clarana GROUP thermaterimma	$	(Lower, 1893)	$	http://biodiversity.org.au/afd/taxa/ecef3ce6-2686-4c59-bdf4-0e7460d29a72
+REJECTED NAME: Constrictana GROUP catharia	$	(Turner, 1926)	$	http://biodiversity.org.au/afd/taxa/c78021ad-5cd7-4f86-a53c-7d71346341f2
+REJECTED NAME: Constrictana GROUP constrictana	$	(Walker, 1866)	$	http://biodiversity.org.au/afd/taxa/f4c2299a-0cc8-4a83-ac1d-eef4705bdefb
+REJECTED NAME: Constrictana GROUP ephedra	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/48749936-804a-46c1-9003-23f3ef23afa4
+REJECTED NAME: Constrictana GROUP ischnomorpha	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/671eef8c-70d4-4186-9dbc-ad52ad678057
+REJECTED NAME: Constrictana GROUP leptospila	$	(Lower, 1901)	$	http://biodiversity.org.au/afd/taxa/a24e2df2-51a9-4cf9-b717-2ac9a80fa2aa
+REJECTED NAME: Constrictana GROUP montanana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/773e3977-d662-4223-b689-87b23a9edf48
+REJECTED NAME: Constrictana GROUP notograpta	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/3957ba36-ae92-42ba-b6e0-a85d0fe5135f
+REJECTED NAME: Constrictana GROUP ophthalmias	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/4525b308-0b25-4d82-b6ae-f3de3620aa08
+REJECTED NAME: Constrictana GROUP oxygona	$	(Lower, 1899)	$	http://biodiversity.org.au/afd/taxa/c0de19ac-2a32-4aee-9364-842c69ab2553
+REJECTED NAME: Constrictana GROUP plagiomochla	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/3875b1c0-a611-47b1-85cb-29c938a32954
+REJECTED NAME: Cosmoplaca GROUP cosmoplaca	$	(Lower, 1903)	$	http://biodiversity.org.au/afd/taxa/57bafa6b-a1b2-46f8-9bad-1fcd82626cb6
+REJECTED NAME: Euryochra GROUP cerophanes	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/a363c18c-22b5-44b9-8231-38d253fc2126
+REJECTED NAME: Euryochra GROUP euryochra	$	(Turner, 1914)	$	http://biodiversity.org.au/afd/taxa/bb008e58-7b8c-4005-967b-864f7f106b1e
+REJECTED NAME: Euryochra GROUP naias	$	(Turner, 1916)	$	http://biodiversity.org.au/afd/taxa/dd19aefa-a5dd-456e-95e1-efc7503398e2
+REJECTED NAME: Phryctora GROUP deuterastis	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/962469ea-5661-4f25-a309-37c03c0a9284
+REJECTED NAME: Phryctora GROUP hedyma	$	(Turner, 1915)	$	http://biodiversity.org.au/afd/taxa/acce6c70-7be4-4af4-93bd-c37253333530
+REJECTED NAME: Phryctora GROUP leucobela	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/6d0f45eb-bbb7-477b-a341-39220674e75c
+REJECTED NAME: Phryctora GROUP phaeosema	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/31b682e3-1473-403b-9e79-ad0200c544f4
+REJECTED NAME: Phryctora GROUP phryctora	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/d5a72249-3030-4991-b543-701263661271
+REJECTED NAME: Phryctora GROUP tapinopis	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/6dbe3a80-9ddf-454e-9f9f-7de1da84eaac
+REJECTED NAME: Rupicolana GROUP argyrocosma	$	(Turner, 1925)	$	http://biodiversity.org.au/afd/taxa/f019326a-5acb-4db1-90ef-1423ce6039ad
+REJECTED NAME: Rupicolana GROUP bleptodora	$	(Turner, 1925)	$	http://biodiversity.org.au/afd/taxa/3261d25e-ca40-4623-8f88-ee5a6eb53cb0
+REJECTED NAME: Rupicolana GROUP camacinana	$	(Meyrick, 1882)	$	http://biodiversity.org.au/afd/taxa/fc2d422d-47f8-4064-8ed1-89fe9fe50e85
+REJECTED NAME: Rupicolana GROUP catarrapha	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/1bc7905a-8e33-40ff-a53f-555fb29a48eb
+REJECTED NAME: Rupicolana GROUP celatrix	$	(Turner, 1916)	$	http://biodiversity.org.au/afd/taxa/41f23228-2ff9-410f-82ad-92e7b3667550
+REJECTED NAME: Rupicolana GROUP contortula	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/486da368-f780-4c2e-9c22-ec9d27509d03
+REJECTED NAME: Rupicolana GROUP crotala	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/6d5d11a8-bac4-46e1-ba2a-3752ab0c7ca8
+REJECTED NAME: Rupicolana GROUP gnophodryas	$	(Lower, 1902)	$	http://biodiversity.org.au/afd/taxa/874a0f79-495c-4084-9ea4-f166a38dc523
+REJECTED NAME: Rupicolana GROUP lenoea	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/05d29773-fc59-4905-b71b-23fb01121275
+REJECTED NAME: Rupicolana GROUP mermera	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/841995d7-aed7-4a6d-80cf-59a069fad3c6
+REJECTED NAME: Rupicolana GROUP orthias	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/d5ce0460-8d3b-4351-9803-8a4540bb3aca
+REJECTED NAME: Rupicolana GROUP phosphora	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/3b9c9afe-d0ee-43f7-8cb7-07a47646be09
+REJECTED NAME: Rupicolana GROUP polymicta	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/1ca086fb-5a64-491f-8c06-439e3fbceaca
+REJECTED NAME: Rupicolana GROUP refluana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/47803ff0-bdbd-464d-a375-691d20bf3d19
+REJECTED NAME: Rupicolana GROUP rupicolana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/61ec130e-2432-4174-8c17-7061642cbb0c
+REJECTED NAME: Rupicolana GROUP serena	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/f70a7d7b-d8ac-4ee5-acf6-9cf5e4159cb2
+REJECTED NAME: Rupicolana GROUP stereodes	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/3272690d-d2b2-4e81-ac2d-4a7164c5fccd
+REJECTED NAME: Rupicolana GROUP thiopasta	$	(Turner, 1915)	$	http://biodiversity.org.au/afd/taxa/b74342a0-30bb-40bd-8b8c-ec7a438f4f2a
+REJECTED NAME: Rupicolana GROUP tribolana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/40c30e19-0d88-41a6-beb6-0dcba6a37a99
+REJECTED NAME: Tarachota GROUP adynata	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/676cc0f7-7995-4c35-ace1-067e93e53f78
+REJECTED NAME: Tarachota GROUP asemantica	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/2b60880c-59c9-4fcf-8464-9c9b4fcaa523
+REJECTED NAME: Tarachota GROUP ceramica	$	(Lower, 1908)	$	http://biodiversity.org.au/afd/taxa/4c0916be-5d87-4131-af8f-587ccf921fd4
+REJECTED NAME: Tarachota GROUP cnaphalodes	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/0c391984-4647-42fb-96b2-4806f1f0ce0f
+REJECTED NAME: Tarachota GROUP dryina	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/7c697a61-4eaa-47ea-9028-923d44f81c81
+REJECTED NAME: Tarachota GROUP eugrapta	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/dd5c697f-573e-4219-a453-95e942e334a7
+REJECTED NAME: Tarachota GROUP hemicosmana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/98062123-4443-4253-ad67-e3133da22d15
+REJECTED NAME: Tarachota GROUP leucospila	$	(Lower, 1893)	$	http://biodiversity.org.au/afd/taxa/603bb9d3-b93a-4930-aa85-278de11db91d
+REJECTED NAME: Tarachota GROUP mersana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/8a17ca8d-1e73-4e27-ad57-e0c9b9c69f7a
+REJECTED NAME: Tarachota GROUP multistriata	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/d38bf61d-1301-4cba-aa69-9dcb8ed74901
+REJECTED NAME: Tarachota GROUP notopasta	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/8a9609e4-bef6-4a1d-92ca-37c8121e1cb4
+REJECTED NAME: Tarachota GROUP poliobaphes	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/5b00ba9b-28bb-4507-8331-da06eaddb530
+REJECTED NAME: Tarachota GROUP scaphosema	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/4283248b-6a55-43cc-91c1-b22f3e6953ee
+REJECTED NAME: Tarachota GROUP tarachota	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/94422d00-e466-4f6c-a189-4ea3d625a382
+REJECTED NAME: Protopterna sp. A	$		$	http://biodiversity.org.au/afd/taxa/ebfd53ca-8e89-44fb-9cf4-25bfca2b4acd
+REJECTED NAME: Debiliana GROUP debiliana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/8ff21448-35e3-4fc9-898a-8aa404ac2fe2
+REJECTED NAME: Debiliana GROUP pentazona	$	(Lower, 1901)	$	http://biodiversity.org.au/afd/taxa/8179c120-004c-4e80-8fe8-c8251c46d7e0
+REJECTED NAME: Debiliana GROUP symphonica	$	(Turner, 1945)	$	http://biodiversity.org.au/afd/taxa/01339df9-28ac-411b-9ae8-8f02d7c10b60
+REJECTED NAME: Disputana GROUP disputana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/4e8fe443-95f3-4ec9-8c4b-c1bf600952dd
+REJECTED NAME: Euphona GROUP ammochroa	$	(Lower, 1893)	$	http://biodiversity.org.au/afd/taxa/a72635d8-e4a9-47ad-862e-5990521eaa26
+REJECTED NAME: Euphona GROUP decolorana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/d007942f-2c39-4e50-84e2-c18186ff6568
+REJECTED NAME: Euphona GROUP dyslecta	$	(Turner, 1926)	$	http://biodiversity.org.au/afd/taxa/52aa9426-adaf-45c7-9749-38316ba1c482
+REJECTED NAME: Euphona GROUP euphona	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/c804068f-d2dd-4b90-b7db-90bd6eb4b010
+REJECTED NAME: Euphona GROUP oxygrammana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/dc2b16c1-1faa-438f-90b3-e89c9814fb7d
+REJECTED NAME: Euphona GROUP plathanana	$	(Meyrick, 1881)	$	http://biodiversity.org.au/afd/taxa/0e13e515-e71a-4fbd-a413-6f7e5da4d969
+REJECTED NAME: Euphona GROUP pseudarcha	$	(Meyrick, 1910)	$	http://biodiversity.org.au/afd/taxa/da054837-bf05-4d95-9728-eb0ceca6c2c6
+REJECTED NAME: Fuscicepsana GROUP cirrhoptera	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/55b6ff76-22a9-4fa6-ada6-bc3d5b6e2988
+REJECTED NAME: Fuscicepsana GROUP fuscicepsana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/d4d0bb3a-e751-4e75-a236-f46ea02bbe0d
+REJECTED NAME: Subfurcatana GROUP schematica	$	(Turner, 1927)	$	http://biodiversity.org.au/afd/taxa/e957eee6-cf77-4c66-85aa-43d0703cde6a
+REJECTED NAME: Subfurcatana GROUP subfurcatana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/f8d917cc-b141-422e-a180-911010c72821
+REJECTED NAME: Vacuana GROUP vacuana	$	(Walker, 1863)	$	http://biodiversity.org.au/afd/taxa/e6b2ad0c-4064-4f63-ad0e-f1b84f36bcb5
+REJECTED NAME: Micronia sp. A	$		$	http://biodiversity.org.au/afd/taxa/37d863c5-c859-469b-b2de-bdd302ffeca8
+REJECTED NAME: Antispila sp. A	$		$	http://biodiversity.org.au/afd/taxa/5a91c3b0-a0bf-41c7-96b9-c8b37d3b8e7a
+REJECTED NAME: Pogonomys sp.	$		$	http://biodiversity.org.au/afd/taxa/85d277bc-d6ea-498c-af84-834e2ca372d5
+ERROR: DUPLICATE %NAME_lsid for Euphyllia divisa
+ERROR: DUPLICATE %NAME_lsid for Platytrochus hastatus
+REJECTED NAME: Galaxea cf. astreata	$	(Lamarck, 1816)	$	http://biodiversity.org.au/afd/taxa/f5315507-c049-4ba4-aca1-094457a8485e
+REJECTED NAME: Fungiacyathus pusillus pacificus	$	Cairns, 1995	$	http://biodiversity.org.au/afd/taxa/387709ae-2089-4d92-9e36-afb513949e20
+REJECTED NAME: Clavularia inflata Schenk var. luzoniana	$	May, 1899	$	http://biodiversity.org.au/afd/taxa/72857564-43be-4344-89e6-63b68b646408
+REJECTED NAME: Telestula new species	$	Alderslade, 2003	$	http://biodiversity.org.au/afd/taxa/430d3a0c-badb-4d91-90b2-671fe407246f
+REJECTED NAME: Anthomastus cf muscaroides	$	Kükenthal, 1910	$	http://biodiversity.org.au/afd/taxa/8a9c5922-71ed-4a7f-ada6-3563528258c1
+REJECTED NAME: Anthomastus cf tahinodus	$	D&#39;Hondt, 1988	$	http://biodiversity.org.au/afd/taxa/de8ad751-5c97-49d7-ae5b-998497f1aee4
+REJECTED NAME: Cladiella sphaerophora Klunzinger	$	(Var AustraliensisThorpe, 1928)	$	http://biodiversity.org.au/afd/taxa/076cc2a7-494e-44e5-9847-872daf591e5e
+REJECTED NAME: Cladiella sphaerophora var	$	(Littoralis Thorpe, 1928)	$	http://biodiversity.org.au/afd/taxa/eee7f84f-b2b4-411c-95eb-5e06280563bf
+REJECTED NAME: Eleutherobia cf. grayi	$	(Thomson & Dean, 1931)	$	http://biodiversity.org.au/afd/taxa/6038c784-84f4-4ace-ba71-b8b78ba9fc13
+REJECTED NAME: Inflatocalyx new species	$	Alderslade, 2006	$	http://biodiversity.org.au/afd/taxa/890a0650-c150-4ac6-bc19-48d5ebfadef5
+REJECTED NAME: Lobophytum cf batarum	$	Moser, 1919	$	http://biodiversity.org.au/afd/taxa/90ba6b66-dd3c-4059-b16c-17a80a9d2a89
+REJECTED NAME: Sinularia conferta var. gracilis	$	Macfadyen, 1936	$	http://biodiversity.org.au/afd/taxa/71c9d2f4-d4b0-45b2-a5ea-3553143c8cf6
+REJECTED NAME: Chromonephthea cf. fruticosa	$	van Ofwegen, 2005	$	http://biodiversity.org.au/afd/taxa/2a2b1da2-3030-47e8-9171-7e46e99c0204
+REJECTED NAME: Dendronephthya michaelseni var laevis	$	Kükenthal, 1910	$	http://biodiversity.org.au/afd/taxa/cb99dd48-6e8f-4ea7-90e0-cff55e96d4f7
+REJECTED NAME: Dendronephthya nigrescens Kukenthal var abrolhosa	$	Thorpe, 1928	$	http://biodiversity.org.au/afd/taxa/562e68a8-a2d1-4d84-bcd5-c1c0081f731f
+REJECTED NAME: Dendronephthya studeri var laevior	$	(Ridley, 1884)	$	http://biodiversity.org.au/afd/taxa/cea53617-ede8-4786-82df-3cedaadb0524
+REJECTED NAME: Lemnalia cf tenuis	$	Verseveldt, 1969	$	http://biodiversity.org.au/afd/taxa/b9de9ac1-1922-4f17-9e19-eeb5dd975047
+REJECTED NAME: Scleronephthya cf gracillima	$	(Kükenthal, 1906)	$	http://biodiversity.org.au/afd/taxa/80736189-62ba-4935-a735-6821fc7a4f28
+REJECTED NAME: Cespitularia cf exigua	$	Verseveldt, 1970	$	http://biodiversity.org.au/afd/taxa/7995d763-a475-4009-81c5-b6e5a000f53f
+REJECTED NAME: Xenia blumi Schenk var pelsarti	$	Thorpe, 1928	$	http://biodiversity.org.au/afd/taxa/3eaea5da-800f-450a-977a-2b3c756b6234
+REJECTED NAME: Xenia cf macrospiculata	$	Gohar, 1940	$	http://biodiversity.org.au/afd/taxa/bed01d30-4a96-423c-9e75-9fd31db41ee7
+REJECTED NAME: Xenia cf ternatana	$	Schenk, 1896	$	http://biodiversity.org.au/afd/taxa/2191cfa8-70d3-48d2-99ae-69273d6c3c95
+REJECTED NAME: Xenia depressa var Kukenthali	$	Thorpe, 1928	$	http://biodiversity.org.au/afd/taxa/8c11655a-4505-4bee-9408-aef0988e92a8
+REJECTED NAME: Xenia ternatana Schenk var littoralis	$	Thorpe, 1928	$	http://biodiversity.org.au/afd/taxa/c3de97cb-3f80-46d6-99db-aa7908ddd60b
+REJECTED NAME: Chrysogorgia cf rigida	$	Versluys, 1902	$	http://biodiversity.org.au/afd/taxa/794ecc0a-cceb-4498-9a78-f07c2c9a5cd1
+REJECTED NAME: Chrysogorgia cf. geniculata	$	Wright & Studer, 1889	$	http://biodiversity.org.au/afd/taxa/1df396e4-8724-47d3-b2a9-1324aeaba951
+REJECTED NAME: Pleurogorgia new species	$	Alderslade, 2008	$	http://biodiversity.org.au/afd/taxa/d1591611-7d96-48cd-b523-8495908cbb32
+REJECTED NAME: Heliania cf. spinescens	$	Gray, 1860	$	http://biodiversity.org.au/afd/taxa/8a654c83-e11d-4425-9584-d420c928a41a
+REJECTED NAME: Verrucella cf flaviflora	$	Nutting, 1910	$	http://biodiversity.org.au/afd/taxa/bbdd607e-903b-4fed-8d6f-6e93a49fa991
+REJECTED NAME: Isidella (undifferentiated)	$	Alderslade, 2007	$	http://biodiversity.org.au/afd/taxa/d9badd5b-2323-4626-a265-607556c75838
+REJECTED NAME: Keratoisis (undifferentiated)	$	Alderslade, 2007	$	http://biodiversity.org.au/afd/taxa/fe32098c-208e-4e8e-888b-4546c51825ba
+REJECTED NAME: Lepidisis (undifferentiated)	$	Alderslade, 2007	$	http://biodiversity.org.au/afd/taxa/b4df6397-cec1-4442-b2d2-77b0fc1a5787
+REJECTED NAME: Echinisis cf eltanin	$	Bayer, 1987	$	http://biodiversity.org.au/afd/taxa/757ed490-f1bb-4da6-b1a7-b32b02b0a6fb
+REJECTED NAME: Minuisis new species A	$	Alderslade, 2003	$	http://biodiversity.org.au/afd/taxa/f19548ee-cc04-4c0e-b746-4489f3c265f6
+REJECTED NAME: Minuisis new species B	$	Alderslade, 2006	$	http://biodiversity.org.au/afd/taxa/c5d2cd64-18c8-4e00-9662-3347746f66d6
+REJECTED NAME: Fanellia new species	$	Alderslade, 2011	$	http://biodiversity.org.au/afd/taxa/7644323d-731f-424d-afa3-bb5a933fd223
+REJECTED NAME: Narella cf. parva	$	(Versluys), 1906	$	http://biodiversity.org.au/afd/taxa/8c4a4393-98b1-47bd-84d8-283e4101636c
+REJECTED NAME: Paracalyptrophora cf. mariae	$	(Versluys, 1906)	$	http://biodiversity.org.au/afd/taxa/b68102bd-154c-46c7-8377-c047f43d0980
+REJECTED NAME: Thouarella cf laxa	$	Versluys, 1906	$	http://biodiversity.org.au/afd/taxa/dcae5061-9822-4d58-8b63-1baa6554aae9
+REJECTED NAME: Keroeides cf erythraea	$	(Kukenthal, 1913)	$	http://biodiversity.org.au/afd/taxa/af4a1ee0-814e-4810-87a0-3a98f39c0127
+REJECTED NAME: Keroeides cf. pallida	$	Hiles, 1899	$	http://biodiversity.org.au/afd/taxa/4ed9eee3-3a57-41e5-9611-77902e6f9077
+REJECTED NAME: Bebryce cf. studeri	$	Whitelegge, 1897	$	http://biodiversity.org.au/afd/taxa/334e3ed3-d355-410b-b2da-2acbd5bd59ac
+REJECTED NAME: Menella praelonga var cinera	$	(Ridley, 1884)	$	http://biodiversity.org.au/afd/taxa/6c5ecd09-4b9c-4cea-aa2b-f3f5f235eb36
+REJECTED NAME: Paramuricea cf. grandis	$	(Verrill, 1883)	$	http://biodiversity.org.au/afd/taxa/6f8427b0-427c-48ec-936c-72b332e8722c
+REJECTED NAME: Solenocaulon cf. sterroclonium	$	Germanos, 1895	$	http://biodiversity.org.au/afd/taxa/f009abe8-cc10-48e6-8645-bcc9b487f2ba
+REJECTED NAME: Briareum cf stechei	$	(Kükenthal, 1908)	$	http://biodiversity.org.au/afd/taxa/3e717aac-0694-401e-ba55-255545a4316c
+REJECTED NAME: Melithaea cf dubia	$	(Broch, 1916)	$	http://biodiversity.org.au/afd/taxa/6d65ce42-b5b1-4d9e-b727-1c3eceda8ee4
+REJECTED NAME: Mopsella cf planiloca	$	Ridley, 1888	$	http://biodiversity.org.au/afd/taxa/881a520c-39d8-4f82-9a5c-4bd0c4b99595
+REJECTED NAME: Paragorgia cf aotearoa	$	Sanchez, 2005	$	http://biodiversity.org.au/afd/taxa/6658be05-07c8-431c-8c3d-79c35111e432
+REJECTED NAME: Paragorgia cf maunga	$	Sanchez, 2005	$	http://biodiversity.org.au/afd/taxa/f5397a96-575d-4abe-8704-73919346199e
+REJECTED NAME: Echinoptilum cf machintoshii	$	Hubrecht, 1885	$	http://biodiversity.org.au/afd/taxa/9dce2308-ad17-4057-80f1-1ca8be7c50a5
+REJECTED NAME: Pennatula cf. murrayi	$	Kölliker, 1880	$	http://biodiversity.org.au/afd/taxa/f5d44844-a263-4c0d-9684-08ad5e1a8ff5
+REJECTED NAME: Pteroeides cf. timorese	$	Hickson, 1916	$	http://biodiversity.org.au/afd/taxa/7bec6fdc-92b6-43ac-8e65-8c782c0c20f3
+REJECTED NAME: Protoptilum new species	$	Alderslade, unpublished	$	http://biodiversity.org.au/afd/taxa/4ed7957c-e840-4744-a84c-e3f1899fbc34
+REJECTED NAME: Acanthoptilum new species A	$	Alderslade, 2005	$	http://biodiversity.org.au/afd/taxa/fca00190-fac2-4a83-855b-92421389149d
+REJECTED NAME: Acanthoptilum new species B	$	Alderslade, 2005	$	http://biodiversity.org.au/afd/taxa/a37ff5ce-de2f-49e5-97ba-061c44ca5358
+REJECTED NAME: Virgularia cf. halisceptrum	$	Broch, 1910	$	http://biodiversity.org.au/afd/taxa/d40ec330-59f1-4b2a-8e0b-c20e7c4cc222
+REJECTED NAME: Sertularella quadridens quadridens	$	(Bale, 1884)	$	http://biodiversity.org.au/afd/taxa/a00a69d3-4875-445e-9f39-978777d7eaaf
+REJECTED NAME: Symplectoscyphus johnstoni johnstoni	$	(Gray, 1843)	$	http://biodiversity.org.au/afd/taxa/d4e4ac49-ded4-49bd-9b95-6fc8edcd1744
+REJECTED NAME: Ikeda sp.	$		$	http://biodiversity.org.au/afd/taxa/f9eba6fd-bb3b-47bd-947c-65e070600f18
+REJECTED NAME: Neodasys cf. uchidai	$	Remane, 1961	$	http://biodiversity.org.au/afd/taxa/2fdbe411-e66a-4677-b9bb-7f8c2a6c2850
+REJECTED NAME: Austrognathia cf. christianae	$	Farris, 1977	$	http://biodiversity.org.au/afd/taxa/8143cd50-a63f-4307-94da-9eb1250e5578
+REJECTED NAME: Gnathostomula cf. maorica	$	Sterrer, 1991	$	http://biodiversity.org.au/afd/taxa/2fe5d80e-53dd-4e5a-985b-190211596657
+ERROR: DUPLICATE %NAME_lsid for Hamacuna hamata
+REJECTED NAME: Fulvia sp.	$		$	http://biodiversity.org.au/afd/taxa/e6f68f33-fbdf-4c31-92a5-df141ad44a8f
+REJECTED NAME: Acrosterigma sp.	$		$	http://biodiversity.org.au/afd/taxa/3fbacdad-f0a4-4315-9654-1c8b7429fe39
+REJECTED NAME: Lima sp.	$		$	http://biodiversity.org.au/afd/taxa/5643d7b5-466b-4908-b29c-d124c59b483d
+REJECTED NAME: Limaria sp.	$		$	http://biodiversity.org.au/afd/taxa/ab21b67e-861d-4028-b8ae-7a8392089d2c
+REJECTED NAME: Limaria sp.	$		$	http://biodiversity.org.au/afd/taxa/abb96abe-4d51-4ca9-a427-db32546561c8
+REJECTED NAME: Limatula sp.	$		$	http://biodiversity.org.au/afd/taxa/0b527a7d-35d0-402b-9255-d5334d87fcdb
+REJECTED NAME: Limatula sp.	$		$	http://biodiversity.org.au/afd/taxa/1351cdea-82ad-44ad-a1fa-95a7ab72f154
+ERROR: DUPLICATE %NAME_lsid for Starkeyna cancellata
+REJECTED NAME: Laubierina sp. B	$		$	http://biodiversity.org.au/afd/taxa/2d9e6067-9e5d-4a9c-8776-c546ed9c0736
+REJECTED NAME: Colubraria species1	$		$	http://biodiversity.org.au/afd/taxa/061e62be-1fbb-4cb9-ad84-b0fb6030c5d7
+REJECTED NAME: Colubraria species2	$		$	http://biodiversity.org.au/afd/taxa/6d7288f3-ce63-483d-b962-9a1b420ff67d
+REJECTED NAME: Colubraria species3	$		$	http://biodiversity.org.au/afd/taxa/b6edb54f-ecbf-41dd-8f54-baea64def22a
+ERROR: DUPLICATE %NAME_lsid for Chicomurex laciniatus
+ERROR: DUPLICATE %NAME_lsid for Chicomurex superbus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus cornucervi
+ERROR: DUPLICATE %NAME_lsid for Chicoreus ramosus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus capucinus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus pliciferoides
+ERROR: DUPLICATE %NAME_lsid for Chicoreus axicornis
+ERROR: DUPLICATE %NAME_lsid for Chicoreus banksii
+ERROR: DUPLICATE %NAME_lsid for Chicoreus brunneus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus cervicornis
+ERROR: DUPLICATE %NAME_lsid for Chicoreus damicornis
+ERROR: DUPLICATE %NAME_lsid for Chicoreus denudatus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus longicornis
+ERROR: DUPLICATE %NAME_lsid for Chicoreus microphyllus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus palmarosae
+ERROR: DUPLICATE %NAME_lsid for Chicoreus ryosukei
+ERROR: DUPLICATE %NAME_lsid for Chicoreus strigatus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus territus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus torrefactus
+ERROR: DUPLICATE %NAME_lsid for Chicoreus trivialis
+ERROR: DUPLICATE %NAME_lsid for Haustellum dolichourus
+ERROR: DUPLICATE %NAME_lsid for Haustellum haustellum
+ERROR: DUPLICATE %NAME_lsid for Haustellum kiiensis
+ERROR: DUPLICATE %NAME_lsid for Haustellum multiplicatus
+ERROR: DUPLICATE %NAME_lsid for Haustellum tweedianus
+ERROR: DUPLICATE %NAME_lsid for Haustellum wilsoni
+ERROR: DUPLICATE %NAME_lsid for Murex acanthostephes
+ERROR: DUPLICATE %NAME_lsid for Murex brevispina
+ERROR: DUPLICATE %NAME_lsid for Murex coppingeri
+ERROR: DUPLICATE %NAME_lsid for Murex kerslakae
+ERROR: DUPLICATE %NAME_lsid for Murex pecten
+ERROR: DUPLICATE %NAME_lsid for Murex queenslandicus
+ERROR: DUPLICATE %NAME_lsid for Murex tenuirostrum
+ERROR: DUPLICATE %NAME_lsid for Murex ternispina
+ERROR: DUPLICATE %NAME_lsid for Murex tribulus
+ERROR: DUPLICATE %NAME_lsid for Naquetia barclayi
+ERROR: DUPLICATE %NAME_lsid for Naquetia cumingii
+ERROR: DUPLICATE %NAME_lsid for Naquetia triqueter
+REJECTED NAME: Microhedyle cf. cornuta	$	(Challis, 1968)	$	http://biodiversity.org.au/afd/taxa/149f02f4-bd50-40fd-8009-fcfc98e8b135
+REJECTED NAME: Aplysia cf. extraordinaria	$	Allan, 1932	$	http://biodiversity.org.au/afd/taxa/ac4dedd4-ee5e-4f43-a831-8e6b54498427
+REJECTED NAME: Aplysia cf. reticulata	$	Eales, 1960	$	http://biodiversity.org.au/afd/taxa/c9877d6c-5a5d-45dd-ade5-06b4666877a5
+REJECTED NAME: Aplysia cf. sowerbyi	$	Pilsbry, 1895	$	http://biodiversity.org.au/afd/taxa/8db14a9f-70cc-429f-9950-2076f4a8fcfe
+REJECTED NAME: Chelidonura cf. sandrana	$	Rudman, 1973	$	http://biodiversity.org.au/afd/taxa/cfe139da-036a-47a1-b312-cf34cdcf38df
+REJECTED NAME: Tornatina cf. decorata	$	Pilsbry, 1904	$	http://biodiversity.org.au/afd/taxa/15cd39bc-99dc-45db-94f0-6e899623c7d0
+REJECTED NAME: Philine cf. aperta	$	(Linnaeus, 1767)	$	http://biodiversity.org.au/afd/taxa/08d2394c-57ff-4106-a35a-5c8d117ceca1
+REJECTED NAME: Cratena cf. affinis	$	(Baba, 1949)	$	http://biodiversity.org.au/afd/taxa/0a16901d-021c-46df-9ead-95f9c0f642e1
+REJECTED NAME: Trinchesia cf. ornata	$	Baba, 1937	$	http://biodiversity.org.au/afd/taxa/34102550-e58e-4859-924a-3081a3980d47
+REJECTED NAME: Melibe cf. australis	$	(Angas, 1864)	$	http://biodiversity.org.au/afd/taxa/4966f8dd-8278-40c4-92f9-905c44505048
+REJECTED NAME: Melibe cf. pilosa	$	Pease, 1860	$	http://biodiversity.org.au/afd/taxa/fd7a321d-b5db-45cf-bd39-863ccc035d50
+REJECTED NAME: Marionia cf. distincta	$	Bergh, 1905	$	http://biodiversity.org.au/afd/taxa/89851389-1716-45d7-884c-fa1dc841b8cc
+REJECTED NAME: Paratritonia cf. lutea	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/885bf7e0-10d4-4e4f-9e27-05d5e22927ff
+REJECTED NAME: Doto cf. pita	$	Er. Marcus, 1955	$	http://biodiversity.org.au/afd/taxa/d3dc17c6-dbcb-443f-9dad-001630b4072a
+REJECTED NAME: Madrella cf. ferruginosa	$	Alder & Hancock, 1984	$	http://biodiversity.org.au/afd/taxa/d5a5b621-2442-4005-8dfe-ed7a97b9dceb
+REJECTED NAME: Janolus cf. hyalinus	$	(Alder & Hancock, 1854)	$	http://biodiversity.org.au/afd/taxa/e8c8bebb-c17c-400f-8db4-6994d60eae8a
+REJECTED NAME: Plocamopherus cf. maculatus	$	(Pease, 1860)	$	http://biodiversity.org.au/afd/taxa/0b088767-bc9c-464a-bc2c-bb460ab88a68
+REJECTED NAME: Plocamopherus cf. tilesii	$	Bergh, 1877	$	http://biodiversity.org.au/afd/taxa/6f1d487e-1f3b-4a01-9b1f-e611e0f98c4a
+REJECTED NAME: Chromodoris cf. africana	$	Eliot, 1904	$	http://biodiversity.org.au/afd/taxa/9f86f388-e636-47a0-b19c-3e8e466b53cb
+REJECTED NAME: Chromodoris cf. aspersa	$	(Gould, 1852)	$	http://biodiversity.org.au/afd/taxa/24c01657-12d5-4453-9599-4d6eec817e0d
+REJECTED NAME: Chromodoris cf. reticulata	$	(Rüppell & Keuckart, 1828)	$	http://biodiversity.org.au/afd/taxa/b840ccc2-e19e-4e48-b4f1-72422ae13d84
+REJECTED NAME: Chromodoris cf. roboi	$	Gosliner & Behrens, 1998	$	http://biodiversity.org.au/afd/taxa/103e8a5d-32dc-4c5f-863c-abd710d0589c
+REJECTED NAME: Chromodoris cf. tasmaniensis	$	Bergh, 1905	$	http://biodiversity.org.au/afd/taxa/2275fc95-785f-4d17-a84b-34d11d969c91
+REJECTED NAME: Chromodoris cf. verrieri	$	(Crosse, 1875)	$	http://biodiversity.org.au/afd/taxa/8ec3b52b-cb28-43ab-b50c-4a6b821f5cca
+REJECTED NAME: Glossodoris cf. averni	$	Rudman, 1985	$	http://biodiversity.org.au/afd/taxa/7fbaeef8-b97b-4a6a-9cd9-e4b552b01d07
+REJECTED NAME: Hypselodoris cf. bertschi	$	Gosliner & Johnson, 1999	$	http://biodiversity.org.au/afd/taxa/2e61be52-de90-49a4-af85-83037560dddf
+REJECTED NAME: Hypselodoris cf. bullocki	$	Collingwood, 1881	$	http://biodiversity.org.au/afd/taxa/22938e21-f4b6-4662-a1c2-df7e14d2a5d5
+REJECTED NAME: Hypselodoris cf. carnea	$	(Bergh, 1889)	$	http://biodiversity.org.au/afd/taxa/6ff630fc-ac0a-416b-8e02-4a0b5d60c1cd
+REJECTED NAME: Hypselodoris cf. maculosa	$	(Pease, 1871)	$	http://biodiversity.org.au/afd/taxa/760bb107-ed7d-4309-8d49-ae9c038232e8
+REJECTED NAME: Hypselodoris cf. nigrostriata	$	(Eliot, 1904)	$	http://biodiversity.org.au/afd/taxa/96446cdf-d89a-48ad-acf7-46d94b228ab2
+REJECTED NAME: Hypselodoris cf. purpureomaculosa	$	Hamatani, 1995	$	http://biodiversity.org.au/afd/taxa/67e4fbd5-41e1-44a6-a642-f7f0b8e6dd5c
+REJECTED NAME: Noumea cf. varians	$	Pease, 1871	$	http://biodiversity.org.au/afd/taxa/61705bf0-8440-4d51-8384-9e5c69788c05
+REJECTED NAME: Thorunna cf. halourga	$	Johnson & Gosliner, 2001	$	http://biodiversity.org.au/afd/taxa/44aacfee-1182-47d8-9eb3-c9c6c09f52e2
+REJECTED NAME: Discodoris cf. crawfordi	$	Burn, 1969	$	http://biodiversity.org.au/afd/taxa/011d77e8-0054-49bc-8fe0-dcab3ff5fb79
+REJECTED NAME: Discodoris cf. mauritiana	$	(Bergh, 1889)	$	http://biodiversity.org.au/afd/taxa/4d143fcf-d741-4622-96a3-f580b43c2e79
+REJECTED NAME: Jorunna cf. pantherina	$	(Angas, 1864)	$	http://biodiversity.org.au/afd/taxa/231222f6-21b1-45e8-8cba-235daf2c8d40
+REJECTED NAME: Platydoris cf. formosa	$	(Alder & Hancock, 1864)	$	http://biodiversity.org.au/afd/taxa/f67e0a0f-04a8-4b7e-8e3c-e9da8c69bdab
+REJECTED NAME: Sclerodoris cf. apiculata	$	(Alder & Hancock, 1864)	$	http://biodiversity.org.au/afd/taxa/3f9be1ac-89d7-440f-bd8e-6247e1e7c558
+REJECTED NAME: Sclerodoris cf. coriacea	$	Eliot, 1904	$	http://biodiversity.org.au/afd/taxa/9523b8df-7be9-42d6-a0ee-86eaf6204700
+REJECTED NAME: Aphelodoris cf. lawsae	$	Burn, 1966	$	http://biodiversity.org.au/afd/taxa/0f7d56cb-e19c-44e8-8ed9-5a3b2857b8e0
+REJECTED NAME: Doris sp. 8	$		$	http://biodiversity.org.au/afd/taxa/8e15291f-e2e2-434d-9545-27592024c1d6
+REJECTED NAME: Halgerda cf. carlsoni	$	Rudman, 1978	$	http://biodiversity.org.au/afd/taxa/6ecf81ce-d85a-4fba-8800-7c230b57fe09
+REJECTED NAME: Halgerda cf. graphicaone	$	Basedow & Hedley, 1905	$	http://biodiversity.org.au/afd/taxa/63918e6e-3779-4bba-8d66-d7f7460b7989
+REJECTED NAME: Halgerda cf. graphicatwo	$	Basedow & Hedley, 1905	$	http://biodiversity.org.au/afd/taxa/adbeec2d-e9e4-4884-992d-1e27bb338898
+REJECTED NAME: Halgerda cf. willeyi	$	Eliot, 1903	$	http://biodiversity.org.au/afd/taxa/3919c028-ee3c-4025-ad68-d37ecc79ec81
+REJECTED NAME: Goniodoris cf. felis	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/50713ec2-7521-496d-8e53-cfaf0105a8fd
+REJECTED NAME: Goniodoris cf. violacea	$	Risbec, 1928	$	http://biodiversity.org.au/afd/taxa/0c6c7aae-a317-456f-8d22-04d3c957326e
+REJECTED NAME: Trapania cf. aurata	$	Rudman, 1987	$	http://biodiversity.org.au/afd/taxa/54b6a725-0ae1-478c-b46a-1813be6cefe1
+REJECTED NAME: Notodoris cf. minor	$	Eliot, 1904	$	http://biodiversity.org.au/afd/taxa/3cf2e310-be0b-4fe1-a0f0-1e159f43b8af
+REJECTED NAME: Gymnodoris cf. citrina	$	(Bergh, 1877)	$	http://biodiversity.org.au/afd/taxa/cb853d95-f337-49c5-80bd-a49769dc6093
+REJECTED NAME: Gymnodoris cf. nigricolor	$	Baba, 1960	$	http://biodiversity.org.au/afd/taxa/4dfac287-ccfd-4ed3-9eb6-1583eb1abae2
+REJECTED NAME: Gymnodoris cf. okinawae	$	Baba, 1936	$	http://biodiversity.org.au/afd/taxa/f240862a-b67c-4638-a631-b7af5b265bd3
+REJECTED NAME: Gymnodoris cf. subflava	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/6d631196-d627-4388-831a-d0d559083ec3
+REJECTED NAME: Kaloplocamus cf. dokte	$	Valdés & Gosliner, 2006	$	http://biodiversity.org.au/afd/taxa/bb81c4a9-19da-4770-b4f0-e635dc759263
+REJECTED NAME: Nembrotha cf. kubaryana	$	Bergh, 1877	$	http://biodiversity.org.au/afd/taxa/63d76600-ea3a-483f-9eb9-b2067c35f898
+REJECTED NAME: Nembrotha cf. lineolata	$	Bergh, 1905	$	http://biodiversity.org.au/afd/taxa/d17958a7-6594-4df7-9031-4e57645f3f18
+REJECTED NAME: Polycera cf. japonica	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/611659db-66d9-4ba1-b3cb-4937cfccfaba
+REJECTED NAME: Polycera cf. picta	$	Risbec, 1928	$	http://biodiversity.org.au/afd/taxa/66467035-6f0f-45bf-9f08-cba1794cf8d0
+REJECTED NAME: Roboastra cf. rubroocellata	$	(Bergh, 1905)	$	http://biodiversity.org.au/afd/taxa/c8a15d4d-9097-4eb7-a86f-472aa63e06b7
+REJECTED NAME: Tambja cf. morosa	$	Bergh, 1877	$	http://biodiversity.org.au/afd/taxa/95c7df0c-e7a2-4f4e-a7e1-6e6d4c2d5e3b
+REJECTED NAME: Tambja cf. verconis	$	(Basedow & Hedley, 1905)	$	http://biodiversity.org.au/afd/taxa/54c68025-d870-4106-b9e0-eb6e2fb867f5
+REJECTED NAME: Dendrodoris cf. fumata	$	(Rüppell & Leuckart, 1830)	$	http://biodiversity.org.au/afd/taxa/d8469520-db74-4440-a1be-81b27acc4492
+REJECTED NAME: Dendrodoris cf. rainfordi	$	Allan, 1932	$	http://biodiversity.org.au/afd/taxa/e3295263-5dc7-4fba-96b4-67c12d7d950d
+REJECTED NAME: Doriopsilla cf. areolata	$	Bergh, 1880	$	http://biodiversity.org.au/afd/taxa/4a4c9264-5d18-4c76-98d4-0c1d2fa170ee
+REJECTED NAME: Phyllidia cf. elegans	$	Bergh, 1869	$	http://biodiversity.org.au/afd/taxa/7b1a329e-a684-4203-90eb-b878844b8dc5
+REJECTED NAME: Phyllidia cf. varicosa	$	Lamarck, 1801	$	http://biodiversity.org.au/afd/taxa/f79855bd-75ed-4351-8781-04f5a4d4cf09
+REJECTED NAME: Phyllidiopsis cf. krempfi	$	Pruvot-Fol, 1957	$	http://biodiversity.org.au/afd/taxa/a5eccb8f-56b2-491b-97ca-d0a4fcc4fcfd
+REJECTED NAME: Armina cf. cygnea	$	(Bergh, 1876)	$	http://biodiversity.org.au/afd/taxa/4408fe97-07be-4370-8462-fda3da6af689
+REJECTED NAME: Dermatobranchus cf. fortunata	$	(Bergh, 1888)	$	http://biodiversity.org.au/afd/taxa/09596755-f7e0-4635-9e67-c0efe121911e
+REJECTED NAME: Dermatobranchus cf. nigropunctatus	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/9b00e4f9-6df0-4bde-9868-336f4ad3abd7
+REJECTED NAME: Pleurobranchus cf. forskalii	$	Rüppell & Leuckart, 1828	$	http://biodiversity.org.au/afd/taxa/ae32b71f-12f4-4ef6-8db7-fa6459877be7
+REJECTED NAME: Cyerce cf. pavonina	$	Bergh, 1888	$	http://biodiversity.org.au/afd/taxa/f7f44ad0-217e-4db5-ba93-1cbfff176663
+REJECTED NAME: Berthelinia cf. rottnesti	$	Jensen, 1993	$	http://biodiversity.org.au/afd/taxa/5a99f5df-edd1-4a1d-924f-1e484864c1f3
+REJECTED NAME: Elysia cf. arena	$	Carlson & Hoff, 1977	$	http://biodiversity.org.au/afd/taxa/9bd90d93-ea33-4e31-902e-734ace8eeb5d
+REJECTED NAME: Elysia cf. furvacauda	$	Burn, 1958	$	http://biodiversity.org.au/afd/taxa/7265c374-9987-4104-9195-ac8eec82df04
+REJECTED NAME: Elysia cf. maoria	$	Powell, 1937	$	http://biodiversity.org.au/afd/taxa/d2c28974-67c5-4686-9eb8-7e86d4530251
+REJECTED NAME: Elysia cf. tormentosa	$	Jensen, 1997	$	http://biodiversity.org.au/afd/taxa/cb569063-641b-4522-a3e3-4b0733879708
+REJECTED NAME: Elysia cf. trisinuata	$	Baba, 1949	$	http://biodiversity.org.au/afd/taxa/1b2cb387-1544-436b-83d9-eb474fb3c939
+ERROR: DUPLICATE %NAME_lsid for Chrysallida australis
+ERROR: DUPLICATE %NAME_lsid for Turbonilla iredalei
+REJECTED NAME: Achromadora sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6b2-22ea-e044-00144f3b4a43
+REJECTED NAME: Atrochromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/ad37ca89-8f78-4ab6-abe0-151ddece4b31
+REJECTED NAME: Chromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f5793cc3-459f-4cbb-be44-45510be0a732
+REJECTED NAME: Chromadorella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/242d3bc7-7a4e-4097-bfd0-7bcb31cac702
+REJECTED NAME: Chromadorina sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/3102c18e-4a3c-4c8f-936f-18b18d1274f2
+REJECTED NAME: Chromadorina sp. "b"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b5a787d8-f6bd-4305-ba90-8a5c0686256e
+REJECTED NAME: Prochromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8639-0ab8-e044-00144f3b4a43
+REJECTED NAME: Actinonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/03b59ca0-3845-479a-9c3e-17c7e680834b
+REJECTED NAME: Actinonema sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f08b-13df-e044-00144f3b4a43
+REJECTED NAME: Actinonema sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e62306b9-6bad-4b93-90ea-84e6ccc46288
+REJECTED NAME: Actinonema sp. "F"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8276ebfc-a5c7-4548-8390-dfda109bab1a
+REJECTED NAME: Actinonema sp. "G"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/285ef7c3-d883-4742-a465-bd093a4b13d5
+REJECTED NAME: Actinonema sp. "H"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e30b168c-0cb0-4523-afa1-18ca76d2b298
+REJECTED NAME: Actinonema sp. "I"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8339-0ab8-e044-00144f3b4a43
+REJECTED NAME: Actinonema sp. "K"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d24370f4-ddba-4bb5-a43f-234cecf5b6c9
+REJECTED NAME: Euchromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f1db-13df-e044-00144f3b4a43
+REJECTED NAME: Euchromadora sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-847d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Euchromadora sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8480-0ab8-e044-00144f3b4a43
+REJECTED NAME: Parapinnanema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85f7-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhips sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8672-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhips sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8675-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhips sp. "I"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8678-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhips sp. "K"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-867b-0ab8-e044-00144f3b4a43
+REJECTED NAME: Steineridora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f42a-13df-e044-00144f3b4a43
+REJECTED NAME: Trochamus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/5f27d903-2fa9-44bc-b40f-8684acb545e3
+REJECTED NAME: Trochamus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/fe865b96-f828-47df-a5cb-293d78be4486
+REJECTED NAME: Trochamus sp. "A1"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/315db24c-6d6c-4691-8a78-aa62edab00d9
+REJECTED NAME: Trochamus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f9f225ed-2d18-4209-bb22-a27d1f81d340
+REJECTED NAME: Chromadorita sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f109-13df-e044-00144f3b4a43
+REJECTED NAME: Chromadorita sp. "a"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/7ff0a073-c19c-4348-a954-f60a792f675f
+REJECTED NAME: Chromadorita sp. "b"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e3eb66f9-1178-427f-a267-4b38f57d6af2
+REJECTED NAME: Chromadorita sp. "c"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83b1-0ab8-e044-00144f3b4a43
+REJECTED NAME: Dichromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f163-13df-e044-00144f3b4a43
+REJECTED NAME: Dichromadora sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a516-22ea-e044-00144f3b4a43
+REJECTED NAME: Dichromadora sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/38a6a612-3078-4d96-b487-882aedc497be
+REJECTED NAME: Dichromadora sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/87a69c20-de32-479b-882e-cd5a7a80b365
+REJECTED NAME: Graphonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/5625cbaf-bfa9-4539-9d9a-b5825aafd715
+REJECTED NAME: Hypodontolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84ce-0ab8-e044-00144f3b4a43
+REJECTED NAME: Innocuonema sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a519-22ea-e044-00144f3b4a43
+REJECTED NAME: Neochromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8567-0ab8-e044-00144f3b4a43
+REJECTED NAME: Neochromadora sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/28882133-eaeb-4775-96ca-ae5d34fb05dd
+REJECTED NAME: Neochromadora sp. 2	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/a7cd3ed3-c13f-4296-a94b-a5b43a5489fb
+REJECTED NAME: Ptycholaimellus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-865d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Spilophorella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f424-13df-e044-00144f3b4a43
+REJECTED NAME: Biarmifer sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/dcf5cb68-96d5-4539-8ce5-95cca4bdba1f
+REJECTED NAME: Cyatholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83d5-0ab8-e044-00144f3b4a43
+REJECTED NAME: Longicyatholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84e9-0ab8-e044-00144f3b4a43
+REJECTED NAME: Marylynnia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84f5-0ab8-e044-00144f3b4a43
+REJECTED NAME: Metacyatholaimus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/f88a947b-6cfc-4198-bfed-97cd0232de6c
+REJECTED NAME: Nannolaimoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/3f09b548-ac15-49b3-9db6-89f5acfb663f
+REJECTED NAME: Paracyatholaimoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c116f2a8-8e29-461c-9efb-0e3ff0f6d1df
+REJECTED NAME: Phyllolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8618-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pomponema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c37cc1f7-153f-4786-bcd8-596838653517
+REJECTED NAME: Pomponema sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b0b5ec17-195b-417c-b945-9ce48798db4d
+REJECTED NAME: Pomponema sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/905b784a-a7be-46f2-8379-04960ddbea7a
+REJECTED NAME: Pomponema sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/e9aaf86e-69d8-4358-9f6d-ffde27838c88
+REJECTED NAME: Pomponema sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/28fa1836-618c-4693-90c6-2a01e64e5180
+REJECTED NAME: Pomponema sp. 2	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/8d09e03b-1fd0-4dfd-af37-fb1d07304e23
+REJECTED NAME: Praeacanthonchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/3ddc3379-f4bc-4171-8fd2-9ec3c2150ed6
+REJECTED NAME: Propomponema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c4ba699f-04e7-4e56-9d8c-d4c8295c733d
+REJECTED NAME: Xyzzors sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/26ef3b70-8e4a-4727-8573-eff72587b9d7
+REJECTED NAME: Xyzzors sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b10535ea-91bb-4609-aafa-bfd0646ad984
+REJECTED NAME: Xyzzors sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d82b0aed-7c73-4546-860d-b140dd576239
+REJECTED NAME: Paracanthonchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85d0-0ab8-e044-00144f3b4a43
+REJECTED NAME: Paracanthonchus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f334-13df-e044-00144f3b4a43
+REJECTED NAME: Paracanthonchus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85d6-0ab8-e044-00144f3b4a43
+REJECTED NAME: Paracyatholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f340-13df-e044-00144f3b4a43
+REJECTED NAME: Ethmolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-846e-0ab8-e044-00144f3b4a43
+REJECTED NAME: Ethmolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a573-22ea-e044-00144f3b4a43
+REJECTED NAME: Comesa sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/371fcadd-1272-45f2-ac96-52e1eb50c8b0
+REJECTED NAME: Gomphionema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8495-0ab8-e044-00144f3b4a43
+REJECTED NAME: Neotonchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-856a-0ab8-e044-00144f3b4a43
+REJECTED NAME: Acanthopharynx sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c8fe3722-4a44-40b4-9149-db35cb464cae
+REJECTED NAME: Desmodora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a612a669-f474-4b80-a515-0753c6120d21
+REJECTED NAME: Desmodora sp.	$	(Nicholas <i>et al</i>, 2012)	$	http://biodiversity.org.au/afd/taxa/c31c758c-d47d-4248-af33-95a9657509e9
+REJECTED NAME: Desmodora sp. "A"	$	(Nicholas <i>et al</i>, 2012)	$	http://biodiversity.org.au/afd/taxa/57726b3c-fb8d-4c8d-8076-c77b49d79796
+REJECTED NAME: Desmodora sp. "B"	$	(Nicholas <i>et al</i>, 2012)	$	http://biodiversity.org.au/afd/taxa/d54e2337-ec3a-4573-8593-db15da8dbe0c
+REJECTED NAME: Desmodora sp. "long"	$	(Nicholas <i>et al</i>, 2012)	$	http://biodiversity.org.au/afd/taxa/d7553267-886e-4f14-9d8e-febf8ae1b432
+REJECTED NAME: Desmodora sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/ad15a4cf-3c44-4c22-abe7-3e000214488c
+REJECTED NAME: Desmodora sp. 3	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/97e899ef-e1b6-4528-86b9-8a671a9807da
+REJECTED NAME: Paradesmodora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85e2-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pseudochromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8654-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pseudodesmodora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-865a-0ab8-e044-00144f3b4a43
+REJECTED NAME: Molgolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/10794635-7232-41e0-9084-31d4d3b53e41
+REJECTED NAME: Chromaspirina sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83b4-0ab8-e044-00144f3b4a43
+REJECTED NAME: Metachromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8519-0ab8-e044-00144f3b4a43
+REJECTED NAME: Metachromadora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/173e9595-7e54-4f23-a542-daf6c3605671
+REJECTED NAME: Metachromadora sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/741b250a-0a65-4a0e-9aaf-4876369eb601
+REJECTED NAME: Metachromadora sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/1becac48-3fba-45d1-a7f6-78dba8cd8b17
+REJECTED NAME: Onyx sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85a9-0ab8-e044-00144f3b4a43
+REJECTED NAME: Onyx sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85ac-0ab8-e044-00144f3b4a43
+REJECTED NAME: Onyx sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85b2-0ab8-e044-00144f3b4a43
+REJECTED NAME: Onyx sp. "barnetti"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f304-13df-e044-00144f3b4a43
+REJECTED NAME: Sigmophoranema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f412-13df-e044-00144f3b4a43
+REJECTED NAME: Spirinia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-86c6-0ab8-e044-00144f3b4a43
+REJECTED NAME: Spirinia sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/d9eb6ca6-1994-4810-a26b-0b5b201cd81f
+REJECTED NAME: Leptonemella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/4f31442f-8c17-412a-a7e4-40ffdbcc5760
+REJECTED NAME: Draconema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/15551530-e306-4d37-b33c-a5fbe8dac1cd
+REJECTED NAME: Paradraconema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/96d70f4d-a1a1-4a9d-ba4b-47f450fb50ff
+REJECTED NAME: Metepsilonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f45463e4-44c0-4b01-90c9-514b8ecf6d37
+REJECTED NAME: Perepsilonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/4258ec68-2c40-4a39-8bf5-38834eeed6d1
+REJECTED NAME: Acanthomicrolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/516e32c8-6442-43de-8a92-27a71f7edb14
+REJECTED NAME: Bolbolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d570cca7-6f31-4407-9b72-0b20ee8e12e4
+REJECTED NAME: Calomicrolaimus sp. "long"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9c068562-4cff-4bc2-a7ed-b64190cab630
+REJECTED NAME: Microlaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8543-0ab8-e044-00144f3b4a43
+REJECTED NAME: Microlaimus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8546-0ab8-e044-00144f3b4a43
+REJECTED NAME: Microlaimus sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8549-0ab8-e044-00144f3b4a43
+REJECTED NAME: Microlaimus sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-854c-0ab8-e044-00144f3b4a43
+REJECTED NAME: Microlaimus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/3e4e1882-0855-4cb2-91c1-9db36c0e20d1
+REJECTED NAME: Nudora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8576-0ab8-e044-00144f3b4a43
+REJECTED NAME: Desmoscolex sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83f6-0ab8-e044-00144f3b4a43
+REJECTED NAME: Desmoscolex sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83f9-0ab8-e044-00144f3b4a43
+REJECTED NAME: Desmoscolex sp. "new"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83fc-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pareudesmoscolex sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8600-0ab8-e044-00144f3b4a43
+REJECTED NAME: Calligyrus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/515c564b-7647-4744-ac91-71cdd81765c4
+REJECTED NAME: Greeffiella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/bc12fd44-c075-4306-b3c8-74ae4db2dd03
+REJECTED NAME: Quadricoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f7f49409-c9fb-450a-9d3b-6ad3f03fdb72
+REJECTED NAME: Quadricoma sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/11381479-fbf8-4dd3-90ff-c2aeea12fbf3
+REJECTED NAME: Tricoma cf. brevirostris	$	(Southern, 1914)	$	http://biodiversity.org.au/afd/taxa/e5ca0c80-71f2-4417-a0d2-1cbec4a633eb
+REJECTED NAME: Tricoma cf. platapophysa	$	Decraemer, 1978	$	http://biodiversity.org.au/afd/taxa/bb0d4b02-61da-4a45-b060-9d18668eb65f
+REJECTED NAME: Tricoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/15e170d5-e9af-47c3-abd2-b29be6987463
+REJECTED NAME: Tricoma sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9c799c26-645b-4f47-bbc3-75f22f9aa5d4
+REJECTED NAME: Tricoma sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b84601ee-56f6-4c11-b1b6-abb3fc42b52e
+REJECTED NAME: Choanolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/90e23dcc-c124-4f4d-9524-276ad7db6ba9
+REJECTED NAME: Gammanema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/ca80d248-c9e9-4eac-b110-b1ac9f9bba03
+REJECTED NAME: Halichoanolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/fafa6b6c-e336-4b3d-b917-2ff30f1ccbfc
+REJECTED NAME: Latronema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9a657f8c-93e9-425a-bd36-8a9e2141ae1d
+REJECTED NAME: Cheironchus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/6dd57690-34d3-419f-8bef-152e412c9d77
+REJECTED NAME: Ascolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/90886712-3aca-4d7e-a326-c4fab68d920e
+REJECTED NAME: Axonolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/38be029b-4a27-4413-8b4c-82b3267b3d45
+REJECTED NAME: Axonolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6f2-22ea-e044-00144f3b4a43
+REJECTED NAME: Odontophora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/df854e74-204a-41e5-8223-51295b03f753
+REJECTED NAME: Parodontophora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8d66843f-dbd8-44c4-932d-228e0c09528d
+REJECTED NAME: Minolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/98dd7015-1475-46a4-9008-7cbd81a3f78b
+REJECTED NAME: Paracomesoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85d9-0ab8-e044-00144f3b4a43
+REJECTED NAME: Dorylaimopsis sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f175-13df-e044-00144f3b4a43
+REJECTED NAME: Hopperia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/783fc67f-f6e2-4c92-9960-d68c32ac7562
+REJECTED NAME: Cervonema sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/fd613b9e-17e0-4396-a29e-eb8a6169d966
+REJECTED NAME: Cervonema sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/11910bbf-3e29-41fe-93e6-9d60663c75be
+REJECTED NAME: Pierrickia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-861b-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pierrickia sp. nov.	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/67196420-fcf2-46b0-bfad-aa174ee59783
+REJECTED NAME: Sabatieria sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/bc73ec58-5c53-4c1a-8862-450c1f2338b7
+REJECTED NAME: Sabatieria sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/0a362199-5ad8-461c-89ce-f1a12c8a4df4
+REJECTED NAME: Sabatieria sp. 4	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/310cb32d-65d1-4199-8fba-476fd91a85a3
+REJECTED NAME: Coninckia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f124-13df-e044-00144f3b4a43
+REJECTED NAME: Araeolaimoides sp. "new"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a26ded2e-e1c1-4a49-8859-0474bfb3bda3
+REJECTED NAME: Diplopeltula sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/cbde12fb-26db-41e8-8e42-373b8f2085b7
+REJECTED NAME: Terschellingia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f32c9836-e42e-47fa-bf9d-ee2adcccb6e6
+REJECTED NAME: Terschellingia sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/c04b12ab-1b4c-449c-b884-f61f76986df4
+REJECTED NAME: Terschellingia sp. 2	$	tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/6aa2309c-f193-4468-9e61-bdd5898596be
+REJECTED NAME: Eleutherolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8423-0ab8-e044-00144f3b4a43
+REJECTED NAME: Anticyclus sp. "round tail"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/789e1ae9-f26d-4a35-8504-11c993f0019d
+REJECTED NAME: Metalinhomoeus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e03462ab-cf1a-4add-81ef-9151cda8bde2
+REJECTED NAME: Metalinhomoeus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/e84153b6-04bd-4269-9d37-13ac95b261b3
+REJECTED NAME: Paralinhomoeus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/08091f9f-243f-4611-93c9-29beeedf5be8
+REJECTED NAME: Siphonolaimus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/d0535495-8032-4e13-9c36-6c54e9ad64cc
+REJECTED NAME: Diplolaimella sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5ca-22ea-e044-00144f3b4a43
+REJECTED NAME: Diplolaimelloides sp. "new"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/64bde278-649a-4cc1-a88e-c9f9c28a67ea
+REJECTED NAME: Eumonhystera sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5cd-22ea-e044-00144f3b4a43
+REJECTED NAME: Eumonhystera sp. 6	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5d0-22ea-e044-00144f3b4a43
+REJECTED NAME: Monhystera sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/1e2e678a-7b9d-4cf3-9fb9-462636151499
+REJECTED NAME: Monhystera sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5d3-22ea-e044-00144f3b4a43
+REJECTED NAME: Doliolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/942995b3-7863-4811-8a8e-4c6e7828b9e3
+REJECTED NAME: Metasphaerolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/cb655983-6c6f-43cf-b060-f709f02a4a8d
+REJECTED NAME: Sphaerolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/57fbba2e-a43e-4d52-9634-b7114f0fd281
+REJECTED NAME: Subsphaerolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/ee51b3da-71a0-40ca-a510-65129c2bb50b
+REJECTED NAME: Subsphaerolaimus sp. nov.	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/fc752b7a-f3a0-4d4c-b99b-f7b75f128d05
+REJECTED NAME: Scaptrella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-86ae-0ab8-e044-00144f3b4a43
+REJECTED NAME: Cobbia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f11b-13df-e044-00144f3b4a43
+REJECTED NAME: Coronseparabilis sp. "tenuis"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-856d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4a4-72ea-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4b3-72ea-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp. "big mouth"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4a7-72ea-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp. "fat tail"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4aa-72ea-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp. "long tail"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4ad-72ea-e044-00144f3b4a43
+REJECTED NAME: Daptonema sp. "small mouth"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c12aa6-a4b0-72ea-e044-00144f3b4a43
+REJECTED NAME: Elzalia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8426-0ab8-e044-00144f3b4a43
+REJECTED NAME: Gonionchus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-849e-0ab8-e044-00144f3b4a43
+REJECTED NAME: Gonionchus sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84a1-0ab8-e044-00144f3b4a43
+REJECTED NAME: Linhystera sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84e6-0ab8-e044-00144f3b4a43
+REJECTED NAME: Metadesmolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f28c-13df-e044-00144f3b4a43
+REJECTED NAME: Metadesmolaimus sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/1b24d5fd-8afc-45e8-9ebe-cb3d7a245a92
+REJECTED NAME: Metadesmolaimus sp. 2	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/382807c8-ef50-49bd-8e39-75fdb8dde88b
+REJECTED NAME: Omicronema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8591-0ab8-e044-00144f3b4a43
+REJECTED NAME: Paramonohystera sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f355-13df-e044-00144f3b4a43
+REJECTED NAME: Prorhynchonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8648-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8684-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8687-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-868a-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-868d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f3f1-13df-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "E"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8693-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "F"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8696-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "G"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8699-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "H"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-869c-0ab8-e044-00144f3b4a43
+REJECTED NAME: Rhynchonema sp. "brouleense"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-867e-0ab8-e044-00144f3b4a43
+REJECTED NAME: Theristus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/2fd8e127-f6f9-493e-98ca-e9494a924a57
+REJECTED NAME: Theristus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c3247177-a0b0-4068-9128-c16870f54022
+REJECTED NAME: Theristus sp. "a"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/102b4989-fd30-4dba-99ec-a61170efb36b
+REJECTED NAME: Theristus sp. "b"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/20e33bd7-f9a9-42dc-b035-85e0d635364c
+REJECTED NAME: Theristus sp. "long tail"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/62b47245-532b-4eb4-ab69-05f26cddf826
+REJECTED NAME: Theristus sp. "long"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/1fd5b9d4-9092-40f2-976b-ae42550f9a88
+REJECTED NAME: Theristus sp. "short"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/73559c8f-825d-4809-ba21-6c47af71dcac
+REJECTED NAME: Theristus sp. "whip tail"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/972616eb-3dec-45c4-a120-ca3b2596ecf8
+REJECTED NAME: Theristus sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/2ecb8433-77ac-426b-b921-7960700b190a
+REJECTED NAME: Theristus sp. 17	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/72c2bdf2-49e9-4795-aa98-ae5eab511b73
+REJECTED NAME: Theristus sp. 2	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/ae4b7035-d46b-49ae-9c4d-77cecafdfe39
+REJECTED NAME: Theristus sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/109bc38e-b130-41d9-a782-95d11d1c52c2
+REJECTED NAME: Theristus sp. 4	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/e7da088a-6ca2-4940-958c-74532ca7c776
+REJECTED NAME: Theristus sp. 5	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/f86dcf7e-91e6-4c50-8f48-925d73850160
+REJECTED NAME: Theristus sp. 8	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/fc520f87-d9ed-4d1d-a877-f68e3c6841ae
+REJECTED NAME: Trichotheristus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a280c73c-bbc9-439a-afba-9284e17ef4e5
+REJECTED NAME: Xenolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c9a598e4-d294-42b5-b6cf-31748a24c61f
+REJECTED NAME: Xyala sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a863106c-46ba-44d5-be77-588dc3038a5e
+REJECTED NAME: Ceramonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/2264d42b-6963-4b1a-8204-315fa39388e4
+REJECTED NAME: Ceramonema sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c54f8fa5-626f-415f-b0e2-6e35706fbf72
+REJECTED NAME: Ceramonema sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/ace26a7e-a7e9-4863-b4d8-e1821e50d491
+REJECTED NAME: Dasynemella sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d97a8a46-3ee6-4ab9-b50d-3f54014059a7
+REJECTED NAME: Dasynemoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/996a53c4-0b99-4f00-b2ba-087cb5db012c
+REJECTED NAME: Metadasynemoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8528-0ab8-e044-00144f3b4a43
+REJECTED NAME: Tarvaia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/60cb647a-eb08-45eb-9435-31330d0f76fc
+REJECTED NAME: Aphanolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8a44670f-a976-4b72-81d2-e44053b0ac35
+REJECTED NAME: Paraphanolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a585-22ea-e044-00144f3b4a43
+REJECTED NAME: Dagda sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-83db-0ab8-e044-00144f3b4a43
+REJECTED NAME: Halaphanolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84bc-0ab8-e044-00144f3b4a43
+REJECTED NAME: Leptolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84dd-0ab8-e044-00144f3b4a43
+REJECTED NAME: Leptolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a57c-22ea-e044-00144f3b4a43
+REJECTED NAME: Leptolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a57f-22ea-e044-00144f3b4a43
+REJECTED NAME: Paraplectonema sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a588-22ea-e044-00144f3b4a43
+REJECTED NAME: Stephanolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f0452094-15ae-4adb-aa64-fda23291ae51
+REJECTED NAME: Haliplectus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f226-13df-e044-00144f3b4a43
+REJECTED NAME: Camacolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d37983ae-2a79-49ad-9be6-95d49a965343
+REJECTED NAME: Cynura sp. "hepta"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/85886bd2-3269-4607-b1e4-0e2b1b72ee69
+REJECTED NAME: Euteratocephalus sp. "B"	$	Nicholas <i>et al.</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8581aed0-b378-4678-861f-134a05455a19
+REJECTED NAME: Plectus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-861e-0ab8-e044-00144f3b4a43
+REJECTED NAME: Macrolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a513-22ea-e044-00144f3b4a43
+REJECTED NAME: Parasitodiplogaster sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/90475176-b83f-4bf1-b482-9ab12a6403b4
+REJECTED NAME: Micoletzkya sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/1919dae5-c91e-4628-9164-49333bbdbaf2
+REJECTED NAME: Micoletzkya sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/95fd3135-8bee-418e-b564-1a4b5e765a06
+REJECTED NAME: Mononchoides sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/14a6a83b-ee26-477c-99f7-cf2428008abb
+REJECTED NAME: Pristionchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a52e-22ea-e044-00144f3b4a43
+REJECTED NAME: Rhabditolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/3f9cdd4e-9553-4d9f-98b2-746ee8c034bb
+REJECTED NAME: Diplogasteroides sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a531-22ea-e044-00144f3b4a43
+REJECTED NAME: Aphelenchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d40590b9-a54d-4772-9278-d8f728c03d77
+REJECTED NAME: Aphelenchus sp. a	$		$	http://biodiversity.org.au/afd/taxa/561e187e-7992-4a84-9bb0-f41587b7aebf
+REJECTED NAME: Aphelenchus sp. h	$		$	http://biodiversity.org.au/afd/taxa/4bcbf702-5e4d-4612-9797-5961921d6c14
+REJECTED NAME: Aphelenchus sp. i	$		$	http://biodiversity.org.au/afd/taxa/755b41a7-3579-49bd-9e1d-64c2a2d80384
+REJECTED NAME: Anomyctus sp.	$	Sauer, 1970	$	http://biodiversity.org.au/afd/taxa/023fac3f-9d8b-4901-85e7-93fe29bb888b
+REJECTED NAME: Aphelenchoides sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/3e8cd725-108c-4fab-9bd7-29e369b67a7c
+REJECTED NAME: Aphelenchoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/5c016bc4-5deb-4734-bddf-d559132ff074
+REJECTED NAME: Aphelenchoides sp. e	$	Hodda, Stewart, FitzGibbon, Longstaff, Reid, Packer, 1998	$	http://biodiversity.org.au/afd/taxa/f82bb4c6-146e-444c-872b-7307aba18f0a
+REJECTED NAME: Bursaphelenchus sp. a	$	Colbran, 1967	$	http://biodiversity.org.au/afd/taxa/1d0bb8fa-7ca8-4bb8-bc72-a6e5ad37d233
+REJECTED NAME: Papuaphelenchus sp.	$	Hodda, 2000	$	http://biodiversity.org.au/afd/taxa/201848f6-0a8d-4eae-841e-0a3c3d5e1207
+REJECTED NAME: Seinura sp. b	$	Hodda, Stewart, FitzGibbon, Longstaff, Reid, Packer, 1998	$	http://biodiversity.org.au/afd/taxa/5cab7306-3f8c-42b5-910a-4b8aaabe1168
+REJECTED NAME: Paraphelenchus sp. a	$	Hodda, Stewart, FitzGibbon, Reid, Longstaff, Packer, 1998	$	http://biodiversity.org.au/afd/taxa/16d4edcd-0bba-4a42-b271-6348ea1a89d7
+REJECTED NAME: Acrobeles sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/dbebac00-3a00-4ab5-9bca-8ffcacac79fe
+REJECTED NAME: Acrobeloides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d55e6303-cc2e-4697-992f-0bb57e5f99a9
+REJECTED NAME: Zeldia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/308a3d52-2693-4bb0-a15c-d9329f036ce5
+REJECTED NAME: Eucephalobus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8471-0ab8-e044-00144f3b4a43
+REJECTED NAME: Heterocephalobus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84c8-0ab8-e044-00144f3b4a43
+REJECTED NAME: Heterocephalobus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a722-22ea-e044-00144f3b4a43
+REJECTED NAME: Steinernema morphospecies 1	$	Lloyd & Davies	$	http://biodiversity.org.au/afd/taxa/ed93cde7-9c24-4a7e-9b73-ef19fa4b03cb
+REJECTED NAME: Steinernema morphospecies 2	$	Lloyd & Davies	$	http://biodiversity.org.au/afd/taxa/b6b33b0a-d149-4611-a370-c8dff9e8a986
+REJECTED NAME: Steinernema morphospecies 3	$	Lloyd & Davies	$	http://biodiversity.org.au/afd/taxa/04c32eb4-4325-4151-895c-2b144017111e
+REJECTED NAME: Alloionema sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/17ae64b6-163c-4a43-b06c-5d0c53364b2e
+REJECTED NAME: Panagrolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-85ca-0ab8-e044-00144f3b4a43
+REJECTED NAME: Panagrolaimus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f32e-13df-e044-00144f3b4a43
+REJECTED NAME: Rhabdias sp.	$	Barton, 1994	$	http://biodiversity.org.au/afd/taxa/5ccd3138-078b-42fa-bbac-08baf4ddb716
+REJECTED NAME: Parastrongyloides sp.	$	Smales, Miller & Obendorf, 1990	$	http://biodiversity.org.au/afd/taxa/b234f936-b20d-3686-e044-00144f3b4a43
+REJECTED NAME: Strongyloides sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-95fd-1327-e044-00144f3b4a43
+REJECTED NAME: Anguina sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-0f6e-0b3b-e044-00144f3b4a43
+REJECTED NAME: Ditylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-0f86-0b3b-e044-00144f3b4a43
+REJECTED NAME: Nothotylenchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/ee955164-63e5-4ac2-9f34-e929630ff9aa
+REJECTED NAME: Pseudhalenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/2d65bd0c-85fe-4865-aea6-fef57ff84c73
+REJECTED NAME: Pseudhalenchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6c4-22ea-e044-00144f3b4a43
+REJECTED NAME: Criconema sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/8b962bea-606b-4216-83d7-a1b6c7d15e87
+ERROR: DUPLICATE %NAME_lsid for Ogma australis
+REJECTED NAME: Discocriconemella sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/52f3a812-159b-445f-bc23-2ee12c63e919
+REJECTED NAME: Hemicriconemoides sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-0fc2-0b3b-e044-00144f3b4a43
+REJECTED NAME: Macroposthonia sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-0fe3-0b3b-e044-00144f3b4a43
+REJECTED NAME: Hemicycliophora sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/2e763477-3d43-48a0-8d53-4e46902f7f23
+REJECTED NAME: Hemicycliophora sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a576-22ea-e044-00144f3b4a43
+REJECTED NAME: Paratylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/1364827c-9e33-4e81-80a0-0669f9dec5b9
+REJECTED NAME: Paratylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/134a5dc3-510d-4ef7-844a-651f4161a978
+REJECTED NAME: Sphaeronema sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1037-0b3b-e044-00144f3b4a43
+REJECTED NAME: Trophotylenchulus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1046-0b3b-e044-00144f3b4a43
+REJECTED NAME: Tylenchulus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-104c-0b3b-e044-00144f3b4a43
+REJECTED NAME: Contortylenchus spp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/98beae19-d265-4993-8bd1-a23499c1f2d4
+REJECTED NAME: Fergusobia sp "colbrani"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/53df248a-39fc-4881-8902-185d149db82e
+REJECTED NAME: Fergusobia sp "cosmophyllae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/d1eeca3e-6d69-4c0f-9bf2-16a04b7ebe1a
+REJECTED NAME: Fergusobia sp "delegatensae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/7be84f7a-c55c-4422-98df-7208ed671eb0
+REJECTED NAME: Fergusobia sp "diversifoliae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/838622f7-a850-4d57-86fc-af40653d5bd1
+REJECTED NAME: Fergusobia sp "floribundae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/20137e2e-b5a8-404e-a1ba-d56b55a1848f
+REJECTED NAME: Fergusobia sp "microcarpae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/d2002f3e-c1c7-4cf1-9ec2-c104ff008823
+REJECTED NAME: Fergusobia sp "minimus"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/a6d7dc08-be2e-4ab5-b040-8e67d3d70743
+REJECTED NAME: Fergusobia sp "pimpanensis"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/0ab95636-1270-47fd-af74-593bd11f6af2
+REJECTED NAME: Fergusobia sp "porosae"	$	Davies, 2012	$	http://biodiversity.org.au/afd/taxa/cc75cf54-e4e7-4288-821a-8adf576aa571
+REJECTED NAME: Deladenus spp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/15c72328-1266-41f5-b9e6-9c29393a0094
+REJECTED NAME: Hexatylus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/716af0c9-e1ab-4c0d-80d5-d4cf7fa4ee10
+REJECTED NAME: Hexatylus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1058-0b3b-e044-00144f3b4a43
+REJECTED NAME: Paurodontus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/fecfdba5-d0b6-4631-9580-36a0a7746a58
+REJECTED NAME: Prothallonema sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-106a-0b3b-e044-00144f3b4a43
+REJECTED NAME: Eutylenchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6ef-22ea-e044-00144f3b4a43
+REJECTED NAME: Belonolaimus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1070-0b3b-e044-00144f3b4a43
+REJECTED NAME: Carphodorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1076-0b3b-e044-00144f3b4a43
+REJECTED NAME: Morulaimus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1091-0b3b-e044-00144f3b4a43
+REJECTED NAME: Basiria sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/c4ed4411-8a6c-4914-987e-89f1af1baffd
+REJECTED NAME: Basiria sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a67b-22ea-e044-00144f3b4a43
+REJECTED NAME: Boleodorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/ded68919-043e-4a63-8ff1-3cfc4dc721fa
+REJECTED NAME: Neopsilenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/f1ccbce8-b151-4edb-aff0-4602779cba57
+REJECTED NAME: Thada sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/3f701359-baef-46a9-ad09-e7eefbea9965
+REJECTED NAME: Dolichodorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1097-0b3b-e044-00144f3b4a43
+REJECTED NAME: Neodolichodorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10a0-0b3b-e044-00144f3b4a43
+REJECTED NAME: Ecphyadophora sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10a3-0b3b-e044-00144f3b4a43
+REJECTED NAME: Cryphodera sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10af-0b3b-e044-00144f3b4a43
+REJECTED NAME: Globodera sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10b8-0b3b-e044-00144f3b4a43
+REJECTED NAME: Hoplolaimus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10d6-0b3b-e044-00144f3b4a43
+REJECTED NAME: Scutellonema sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-10ee-0b3b-e044-00144f3b4a43
+REJECTED NAME: Helicotylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-110c-0b3b-e044-00144f3b4a43
+REJECTED NAME: Rotylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/7c428933-90b5-481e-81ae-01553ce528f5
+REJECTED NAME: Meloidogyne sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-112a-0b3b-e044-00144f3b4a43
+REJECTED NAME: Pratylenchus sp "quasitereoides"	$	Hodda, 2012	$	http://biodiversity.org.au/afd/taxa/b99c4687-a613-22ea-e044-00144f3b4a43
+REJECTED NAME: Pratylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1160-0b3b-e044-00144f3b4a43
+REJECTED NAME: Pratylenchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f394-13df-e044-00144f3b4a43
+REJECTED NAME: Zygotylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-116c-0b3b-e044-00144f3b4a43
+REJECTED NAME: Hoplotylus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1181-0b3b-e044-00144f3b4a43
+REJECTED NAME: Pratylenchoides sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1187-0b3b-e044-00144f3b4a43
+REJECTED NAME: Radopholus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11ae-0b3b-e044-00144f3b4a43
+REJECTED NAME: Psilenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11c0-0b3b-e044-00144f3b4a43
+REJECTED NAME: Acontylus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11c3-0b3b-e044-00144f3b4a43
+REJECTED NAME: Rotylenchulus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11cf-0b3b-e044-00144f3b4a43
+REJECTED NAME: Macrotrophurus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11d2-0b3b-e044-00144f3b4a43
+REJECTED NAME: Paratrophurus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11ea-0b3b-e044-00144f3b4a43
+REJECTED NAME: Sauertylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-11f9-0b3b-e044-00144f3b4a43
+REJECTED NAME: Trophurus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1202-0b3b-e044-00144f3b4a43
+REJECTED NAME: Tylenchorhynchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-121d-0b3b-e044-00144f3b4a43
+REJECTED NAME: Filenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-125f-0b3b-e044-00144f3b4a43
+REJECTED NAME: Sakia sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1268-0b3b-e044-00144f3b4a43
+REJECTED NAME: Tylenchus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9d50d6a7-38f2-4917-aa89-4627cf35806c
+REJECTED NAME: Mesorhabditis sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9727a69b-bd72-4f70-a3e0-3fd7304cfac5
+REJECTED NAME: Syrphonema sp.	$	Davies & Lloyd, 1996	$	http://biodiversity.org.au/afd/taxa/31b6ae24-a446-4e6a-8de1-b655503430f9
+REJECTED NAME: Caenorhabditis spp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/3571c624-a2a1-4bd8-aa4f-4aeab00e9c6a
+REJECTED NAME: Cruznema sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/ac240aa2-b81e-42ed-ae81-869fc18f2d65
+REJECTED NAME: Oscheius spp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/92b24779-0e71-4584-8926-b221e64f5c3b
+REJECTED NAME: Rhabditis sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a65d-22ea-e044-00144f3b4a43
+REJECTED NAME: Rhabditis sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a660-22ea-e044-00144f3b4a43
+REJECTED NAME: Rhabditis sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/af499a56-2f61-447b-8b4e-d048173a71af
+REJECTED NAME: Kalicephalus sp.	$	Pichelin et al, 1999	$	http://biodiversity.org.au/afd/taxa/62c6c837-89af-401f-8c7b-84926ff6fbb1
+REJECTED NAME: Labiostrongylus sp.	$	Smales, 2006	$	http://biodiversity.org.au/afd/taxa/ceb4cf10-6ca7-4a9a-b062-53b69571e7cf
+REJECTED NAME: Labiostrongylus sp. 1	$	Smales, 1995	$	http://biodiversity.org.au/afd/taxa/f408523e-8cdf-40ab-b8f9-e186f3d2e752
+REJECTED NAME: Labiostrongylus sp. 2	$	Smales, 1995	$	http://biodiversity.org.au/afd/taxa/d2dc9298-8d61-44c7-8196-f6680aeafdfd
+REJECTED NAME: Labiostrongylus sp. 3	$	Smales, 1995	$	http://biodiversity.org.au/afd/taxa/a56cb45c-8878-4c60-a3bc-63392e893bfc
+REJECTED NAME: Labiostrongylus sp. 4	$	Smales, 1995	$	http://biodiversity.org.au/afd/taxa/68dbb485-20ec-4bcd-9d29-ecf3b65a40d1
+REJECTED NAME: Syngamus sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/ecdf35ab-5415-477f-ac79-17af25cc5343
+REJECTED NAME: Austrostrongylus sp.	$	Mawson, 1960	$	http://biodiversity.org.au/afd/taxa/86380d8c-7ad1-495c-9979-168478fb1388
+REJECTED NAME: Nicollina sp.	$	Mawson, 1960	$	http://biodiversity.org.au/afd/taxa/8946e8d7-d368-43bf-bedb-a5f28abb37ec
+REJECTED NAME: Amidostomum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/4ce947f1-3595-4da3-84b4-09819638de55
+REJECTED NAME: Epomidiostomum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/cc5432cc-23ac-4fa3-b1cd-fe54f5524203
+REJECTED NAME: Pseudamidostomum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/f293922b-8a2e-403f-9bb2-38165a646c08
+REJECTED NAME: Peramelistrongylus sp. A.	$	Smales <em>et al</em>., 2004	$	http://biodiversity.org.au/afd/taxa/57561d4b-8220-42e3-9e61-1fd555c10146
+REJECTED NAME: Agamonema sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/688e0d23-71ae-4cf5-9724-1215be08ccd5
+REJECTED NAME: Anisakis sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/6547c25d-ea63-4296-b5e3-9b907b5e0687
+REJECTED NAME: Anisakis sp.	$	Johnston & Mawson, 1942	$	http://biodiversity.org.au/afd/taxa/96d8cde2-1446-4453-afd0-3d912defc62f
+REJECTED NAME: Anisakis sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/c9b6b491-306f-499f-a58b-69f3e523cae0
+REJECTED NAME: Anisakis sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/73b9a640-0943-4e3a-9088-a1e99f6f2143
+REJECTED NAME: Sulcascaris sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/204c55b0-08d6-4902-8ef9-6cd587c7dca1
+REJECTED NAME: Terranova sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/bab9da9f-2a71-4135-a255-55af27fe223e
+REJECTED NAME: Terranova spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/2d073929-2d8b-442b-8049-978c5bcbc848
+REJECTED NAME: Contracaecum sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/d7084ded-45e1-4d92-af72-180349d26d7f
+REJECTED NAME: Contracaecum sp.	$	Johnston & Mawson, 1947	$	http://biodiversity.org.au/afd/taxa/ec9bea3b-f48a-4fd7-b536-50f201d287cd
+REJECTED NAME: Contracaecum sp.	$	Mawson, 1968	$	http://biodiversity.org.au/afd/taxa/3f424b69-3619-4025-9034-a9809120e305
+REJECTED NAME: Contracaecum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/73525ace-1661-4ddb-b9c1-6aa1bdd40b77
+REJECTED NAME: Contracaecum sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/04526f9e-38b3-48db-a071-cc4d0435f7f4
+REJECTED NAME: Contracaecum spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/1593d36c-19a1-4bb7-b08e-c3a68f148aa1
+REJECTED NAME: Phocascaris sp.	$	Johnston & Mawson, 1942	$	http://biodiversity.org.au/afd/taxa/b286ff0e-966d-1327-e044-00144f3b4a43
+REJECTED NAME: Goezia sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/82f58c0f-0174-4ada-9469-896fd8f21ec2
+REJECTED NAME: Ophidascaris sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/eabc4272-505a-4148-8aa6-c95ce240cad4
+REJECTED NAME: Polydelphis sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/608fa9a8-c136-45a7-b086-c8d03a2c0c9a
+REJECTED NAME: Ascaris sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/2ac7cec3-4c02-44a9-98bd-39629ba6d4ae
+REJECTED NAME: Ascaris spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/c39b40f8-4522-4cad-b5a5-388c7ee62b2d
+REJECTED NAME: Baylisascaris sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9670-1327-e044-00144f3b4a43
+REJECTED NAME: Porrocaecum sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/c0c7415c-c1a9-4193-b72a-c65a5cfd0392
+REJECTED NAME: Porrocaecum sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/0f711a5a-f14a-4675-b490-3ca67a1ba693
+REJECTED NAME: Porrocaecum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/95e6fbbc-7879-48f6-bfb8-d8e99e4ce4ed
+REJECTED NAME: Paranisakis sp.	$	<em>Beumer et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/8101bdb3-e38c-4b4d-b8c5-dbad4fe5a9a0
+REJECTED NAME: Hysterothylacium sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/b4335569-2571-4d0b-81a2-0b57b8a6e33a
+REJECTED NAME: Thynnascaris spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/7cbdb5c6-e493-443a-a8a9-1d6d8e0fca29
+REJECTED NAME: Unknown sp. 1	$	Barton, 1994	$	http://biodiversity.org.au/afd/taxa/a22bbc9b-a8f7-4868-94aa-3ce0fdc0a965
+REJECTED NAME: Maxvachonia sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/9c8947d7-b167-42a2-a8fa-885ad173c2a7
+REJECTED NAME: Ascaridia sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-96de-1327-e044-00144f3b4a43
+REJECTED NAME: Heterakis sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-96c0-1327-e044-00144f3b4a43
+REJECTED NAME: Cucullanus sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/fba5fdda-5798-4932-ad35-00273bbaf043
+REJECTED NAME: Cucullanus sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/d121c112-108a-4c8b-95d0-b5c01f72c87c
+REJECTED NAME: Dichelyne sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/a88d560d-a30d-4baf-983b-f810b268f0c0
+REJECTED NAME: Linstowinema sp. 1	$	Smales, 1999	$	http://biodiversity.org.au/afd/taxa/b234f936-b7c6-3686-e044-00144f3b4a43
+REJECTED NAME: Linstowinema sp. 2	$	Smales, 1999	$	http://biodiversity.org.au/afd/taxa/b234f936-b7c9-3686-e044-00144f3b4a43
+REJECTED NAME: Linstowinema sp. 3	$	Smales, 1999	$	http://biodiversity.org.au/afd/taxa/b234f936-b7cc-3686-e044-00144f3b4a43
+REJECTED NAME: Skrjabinura sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-96a8-1327-e044-00144f3b4a43
+REJECTED NAME: Skrjabinelazia sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/ce20be6b-5b73-49b5-ac84-4f55d7bb1476
+REJECTED NAME: Allodapa sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-96ec-1327-e044-00144f3b4a43
+REJECTED NAME: Dracunculus sp.	$	Jones, 2007	$	http://biodiversity.org.au/afd/taxa/9ce1a2c7-3c64-4554-9da0-bf5c33867e9d
+REJECTED NAME: Philometra sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/8002822e-38de-48d3-bae4-667d1ff4d915
+REJECTED NAME: Philometra spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/c787affe-f669-4dc2-9c4a-0a2866d74eb3
+REJECTED NAME: Philometroides sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/011f2e6f-63d1-4e13-9fbc-b6c9c8eaaab5
+REJECTED NAME: Phlyctainophora sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/1a01780a-7efa-4e74-9d9a-6133c8a55cb2
+REJECTED NAME: Echinocephalus sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/5e5da085-e7f9-4293-89f5-94910d3e36cb
+REJECTED NAME: Oxyuris sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/1c9d8598-d0b9-4d85-abc3-08f31fbd3a29
+REJECTED NAME: Parapharyngodon sp.	$	Pichelin <em>et al</em>, 1999	$	http://biodiversity.org.au/afd/taxa/5809a9eb-1e8d-473d-9c9f-6257d5c1bf1c
+REJECTED NAME: Parathelandros spp.	$	Barton, 1994	$	http://biodiversity.org.au/afd/taxa/55750851-45fe-4259-817a-765e7fd65f97
+REJECTED NAME: Acuaria sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/ae7a8f2f-1e12-4eba-829d-c585348a9c2d
+REJECTED NAME: Acuaria sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/d7bc3a24-938f-4bd2-a38c-5aad75af6818
+REJECTED NAME: Chevreuxia sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-97f5-1327-e044-00144f3b4a43
+REJECTED NAME: Echinuria sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9806-1327-e044-00144f3b4a43
+REJECTED NAME: Skrjabinocerca sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-980c-1327-e044-00144f3b4a43
+REJECTED NAME: Skrjabinoclava sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9817-1327-e044-00144f3b4a43
+REJECTED NAME: Skrjabinoclava sp.	$	Munday & Green, 1972	$	http://biodiversity.org.au/afd/taxa/b286ff0e-981a-1327-e044-00144f3b4a43
+REJECTED NAME: Syncuaria sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9824-1327-e044-00144f3b4a43
+REJECTED NAME: Synhimantus sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9843-1327-e044-00144f3b4a43
+REJECTED NAME: Synhimantus sp.	$	Johnston & Mawson, 1942	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9846-1327-e044-00144f3b4a43
+REJECTED NAME: Synhimantus sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9849-1327-e044-00144f3b4a43
+REJECTED NAME: Ancyracanthopsis sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9888-1327-e044-00144f3b4a43
+REJECTED NAME: Schistogendra sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9894-1327-e044-00144f3b4a43
+REJECTED NAME: Schistogendra sp. 1	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-988b-1327-e044-00144f3b4a43
+REJECTED NAME: Schistogendra sp. 2	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-988e-1327-e044-00144f3b4a43
+REJECTED NAME: Schistogendra sp. 3	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9891-1327-e044-00144f3b4a43
+REJECTED NAME: Schistorophus sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98a1-1327-e044-00144f3b4a43
+REJECTED NAME: Sciadiocara sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98a8-1327-e044-00144f3b4a43
+REJECTED NAME: Viktorocara sp.	$	Mawson, 1968	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98b1-1327-e044-00144f3b4a43
+REJECTED NAME: Stegophorus sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-986d-1327-e044-00144f3b4a43
+REJECTED NAME: Streptocara sp.	$	Johnston & Mawson, 1942	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9882-1327-e044-00144f3b4a43
+REJECTED NAME: Streptocara sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-987f-1327-e044-00144f3b4a43
+REJECTED NAME: Streptocara sp.	$	Munday & Green, 1972	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9885-1327-e044-00144f3b4a43
+REJECTED NAME: Aprocta sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9921-1327-e044-00144f3b4a43
+REJECTED NAME: Lissonema sp.	$	Bain & Mawson, 1981	$	http://biodiversity.org.au/afd/taxa/b286ff0e-992b-1327-e044-00144f3b4a43
+REJECTED NAME: Lissonema sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-992e-1327-e044-00144f3b4a43
+REJECTED NAME: Desmidocercella sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/2aeed3e9-b89d-4f43-b933-1c3e73f11958
+REJECTED NAME: Camallanus sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/8e3fa426-2a70-4884-b560-64774a4ebc4e
+REJECTED NAME: Procamallanus sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/985666ff-a08c-4915-9101-0cc19e211a30
+REJECTED NAME: Procamallanus sp.	$	Roubal, 1990	$	http://biodiversity.org.au/afd/taxa/d910ec12-5117-41e3-8c62-23656f8df6b8
+REJECTED NAME: Abbreviata sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/596f90e3-bd09-4733-bacc-c587540e5e01
+REJECTED NAME: Kreisiella sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/bd39453b-94b9-4849-bfad-c9ca7cdb048f
+REJECTED NAME: Physaloptera sp.	$	Barton, 1994	$	http://biodiversity.org.au/afd/taxa/85a75070-da21-45a6-82aa-792bcb5ccccb
+REJECTED NAME: Physaloptera sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/399de3c8-3e1e-4dd9-b3ec-53c829cc08bb
+REJECTED NAME: Physaloptera sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/e7c3c68b-b27a-45e0-8dbd-806b8023621f
+REJECTED NAME: Physaloptera sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/266849aa-22d5-427b-8dd5-ff3a9caf2c1a
+REJECTED NAME: Skrjabinoptera sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/ccffac7a-3e3d-4f3c-a347-1a95f81f3ac3
+REJECTED NAME: Hamatospiculum sp.	$	Johnston & Mawson, 1941	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9902-1327-e044-00144f3b4a43
+REJECTED NAME: Hamatospiculum sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9905-1327-e044-00144f3b4a43
+REJECTED NAME: Diplotriaena sp.	$	Mackerras, 1962	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98e7-1327-e044-00144f3b4a43
+REJECTED NAME: Diplotriaena sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98f0-1327-e044-00144f3b4a43
+REJECTED NAME: Diplotriaena sp.	$	Munday & Green, 1972	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98ea-1327-e044-00144f3b4a43
+REJECTED NAME: Diplotriaena sp.	$	Ogden, 1967	$	http://biodiversity.org.au/afd/taxa/b286ff0e-98ed-1327-e044-00144f3b4a43
+REJECTED NAME: Filaria spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/37b3be5d-f70f-477f-9586-bebf66b0c05c
+REJECTED NAME: Eufilaria sp.	$	Mawson, 1969	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9945-1327-e044-00144f3b4a43
+REJECTED NAME: Breinlia sp.	$	Spratt, 2011	$	http://biodiversity.org.au/afd/taxa/b234f936-b6e7-3686-e044-00144f3b4a43
+REJECTED NAME: Breinlia sp.	$	(Spratt & Varughese, 1975)	$	http://biodiversity.org.au/afd/taxa/b234f936-b6f2-3686-e044-00144f3b4a43
+REJECTED NAME: Breinlia sp.	$	Spratt, 2011	$	http://biodiversity.org.au/afd/taxa/b234f936-b6f6-3686-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Bancroft, 1889	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9958-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Breinl, 1913	$	http://biodiversity.org.au/afd/taxa/b286ff0e-995b-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Cleland & Johnston, 1910	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9964-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Cleland & Johnston, 1912	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9967-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Cleland, 1915	$	http://biodiversity.org.au/afd/taxa/b286ff0e-995e-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Cleland, 1922	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9961-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Johnston, 1910	$	http://biodiversity.org.au/afd/taxa/b286ff0e-996a-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Johnston, 1912	$	http://biodiversity.org.au/afd/taxa/b286ff0e-996d-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Johnston, 1916	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9970-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Mackerras, 1962	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9973-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9955-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Plimmer, 1912	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9976-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Plimmer, 1914	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9979-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Plimmer, 1915	$	http://biodiversity.org.au/afd/taxa/b286ff0e-997c-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Plimmer, 1916	$	http://biodiversity.org.au/afd/taxa/b286ff0e-997f-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Scott, 1926	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9982-1327-e044-00144f3b4a43
+REJECTED NAME: Microfilaria sp.	$	Scott, 1927	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9985-1327-e044-00144f3b4a43
+REJECTED NAME: Oswaldofilaria sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/25421ea6-32d0-4b46-9d83-8e5898a631fc
+REJECTED NAME: Splendidofilaria sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-994f-1327-e044-00144f3b4a43
+REJECTED NAME: Ascarophis sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/edf576b2-f91d-400e-a28d-db16ae4d204e
+REJECTED NAME: Spinitectus sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/c29b185c-6aa9-4e97-9bb2-2b6c9e3bdcac
+REJECTED NAME: Procyrnea sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9746-1327-e044-00144f3b4a43
+REJECTED NAME: Torquatoides sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9767-1327-e044-00144f3b4a43
+REJECTED NAME: Viguiera sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-975a-1327-e044-00144f3b4a43
+REJECTED NAME: Hedruris sp.	$	Barton, 1994	$	http://biodiversity.org.au/afd/taxa/c049b206-c234-4b87-b270-fb70508255e8
+REJECTED NAME: Geopetitia sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9773-1327-e044-00144f3b4a43
+REJECTED NAME: Microtetrameres sp.	$	Mawson, 1977	$	http://biodiversity.org.au/afd/taxa/b286ff0e-998b-1327-e044-00144f3b4a43
+REJECTED NAME: Microtetrameres sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-998e-1327-e044-00144f3b4a43
+REJECTED NAME: Tetrameres sp.	$	Johnston & Mawson, 1942	$	http://biodiversity.org.au/afd/taxa/b286ff0e-97ce-1327-e044-00144f3b4a43
+REJECTED NAME: Tetrameres sp.	$	Mawson, 1969	$	http://biodiversity.org.au/afd/taxa/b286ff0e-97cb-1327-e044-00144f3b4a43
+REJECTED NAME: Tetrameres sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-97d1-1327-e044-00144f3b4a43
+REJECTED NAME: Tetrameres sp.	$	Munday & Green, 1972	$	http://biodiversity.org.au/afd/taxa/b286ff0e-97c8-1327-e044-00144f3b4a43
+REJECTED NAME: Hartertia sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-9721-1327-e044-00144f3b4a43
+REJECTED NAME: Protospirura sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/751cf140-3cf9-4da5-b703-b7c35e422fdb
+REJECTED NAME: Oxyspirura sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/24c60c56-5642-450c-a84c-e2e7542a154a
+REJECTED NAME: Thelazia sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/93b7e18e-c132-436e-a6d9-a11afb92c552
+REJECTED NAME: Lanceimermis sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/20216ad7-c6f9-4a2e-bd5e-c4fd1b2e91de
+REJECTED NAME: Limnomermis sp.	$	Davies, 2011	$	http://biodiversity.org.au/afd/taxa/6b8b80b7-aadd-4569-9812-2d53eedd9102
+REJECTED NAME: Psammomermis sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5c7-22ea-e044-00144f3b4a43
+REJECTED NAME: Anatonchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6c1-22ea-e044-00144f3b4a43
+REJECTED NAME: Comiconchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5d6-22ea-e044-00144f3b4a43
+REJECTED NAME: Mononchus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5d9-22ea-e044-00144f3b4a43
+REJECTED NAME: Paramononchus sp.	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5dc-22ea-e044-00144f3b4a43
+REJECTED NAME: Actinolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c89d309c-98f9-4a6b-a22d-7332f716842d
+REJECTED NAME: Actinca sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6b5-22ea-e044-00144f3b4a43
+REJECTED NAME: Egtitis sp. 1	$	Hodda, 2003	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6b8-22ea-e044-00144f3b4a43
+REJECTED NAME: Neoactinolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6bb-22ea-e044-00144f3b4a43
+REJECTED NAME: Paractinolaimus sp. 1	$		$	http://biodiversity.org.au/afd/taxa/b99c4687-a6be-22ea-e044-00144f3b4a43
+REJECTED NAME: Trachypleurosum sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a675-22ea-e044-00144f3b4a43
+REJECTED NAME: Amphibelondira sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6f5-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimellus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a707-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimellus sp. 0	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a701-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimellus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a70a-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimellus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a704-22ea-e044-00144f3b4a43
+REJECTED NAME: Oxydirus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a710-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/009d9c11-1429-4936-b4f4-93d771d4dd96
+REJECTED NAME: Aporcelaimellus sp. 0	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6c7-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6dc-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 3	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6ca-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 5	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6cd-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 6	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6d0-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 7	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6d3-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 8	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6d6-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimellus sp. 9	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6d9-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimium sp "australis"	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6df-22ea-e044-00144f3b4a43
+REJECTED NAME: Aporcelaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e1283129-bd58-4033-be4a-050e4ff0afb9
+REJECTED NAME: Sectonema sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6e6-22ea-e044-00144f3b4a43
+REJECTED NAME: Sectonema sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6e9-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimus sp.	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a549-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-841a-0ab8-e044-00144f3b4a43
+REJECTED NAME: Dorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a543-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a546-22ea-e044-00144f3b4a43
+REJECTED NAME: Afrodorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a537-22ea-e044-00144f3b4a43
+REJECTED NAME: Afrodorylaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a53a-22ea-e044-00144f3b4a43
+REJECTED NAME: Amphidorylaimus sp.	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a570-22ea-e044-00144f3b4a43
+REJECTED NAME: Amphidorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/faef3b82-b6aa-4a38-a6fe-9e9cd1f74816
+REJECTED NAME: Amphidorylaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/65821518-688a-4b4a-a548-534c6534b104
+REJECTED NAME: Drepanodorylaimus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a54c-22ea-e044-00144f3b4a43
+REJECTED NAME: Mesodorylaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-850d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Mesodorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a552-22ea-e044-00144f3b4a43
+REJECTED NAME: Mesodorylaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a555-22ea-e044-00144f3b4a43
+REJECTED NAME: Prodorylaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-863c-0ab8-e044-00144f3b4a43
+REJECTED NAME: Opisthodorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a55e-22ea-e044-00144f3b4a43
+REJECTED NAME: Thornenema sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a56d-22ea-e044-00144f3b4a43
+REJECTED NAME: Oriverutus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5fd-22ea-e044-00144f3b4a43
+REJECTED NAME: Longidorella sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5fa-22ea-e044-00144f3b4a43
+REJECTED NAME: Enchodelus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5f7-22ea-e044-00144f3b4a43
+REJECTED NAME: Enchodelus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5f4-22ea-e044-00144f3b4a43
+REJECTED NAME: Chrysonema sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a61c-22ea-e044-00144f3b4a43
+REJECTED NAME: Discolaimium sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a623-22ea-e044-00144f3b4a43
+REJECTED NAME: Discolaimium sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-840b-0ab8-e044-00144f3b4a43
+REJECTED NAME: Discolaimus sp.	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a63b-22ea-e044-00144f3b4a43
+REJECTED NAME: Discolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f16f-13df-e044-00144f3b4a43
+REJECTED NAME: Discolaimus sp. 0	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a632-22ea-e044-00144f3b4a43
+REJECTED NAME: Discolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a635-22ea-e044-00144f3b4a43
+REJECTED NAME: Lordellonema sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a648-22ea-e044-00144f3b4a43
+REJECTED NAME: Ecumenicus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a63e-22ea-e044-00144f3b4a43
+REJECTED NAME: Eudorylaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8483-0ab8-e044-00144f3b4a43
+REJECTED NAME: Eudorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a645-22ea-e044-00144f3b4a43
+REJECTED NAME: Labronema sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a54f-22ea-e044-00144f3b4a43
+REJECTED NAME: Microdorylaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a64b-22ea-e044-00144f3b4a43
+REJECTED NAME: Microdorylaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a64e-22ea-e044-00144f3b4a43
+REJECTED NAME: Microdorylaimus sp. 3	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a651-22ea-e044-00144f3b4a43
+REJECTED NAME: Thonus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a654-22ea-e044-00144f3b4a43
+REJECTED NAME: Thonus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a657-22ea-e044-00144f3b4a43
+REJECTED NAME: Thornia sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a65a-22ea-e044-00144f3b4a43
+REJECTED NAME: Longidoroides sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5a9-22ea-e044-00144f3b4a43
+REJECTED NAME: Longidorus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5c1-22ea-e044-00144f3b4a43
+REJECTED NAME: Longidorus sp. "securus"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84ec-0ab8-e044-00144f3b4a43
+REJECTED NAME: Paralongidorus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5c4-22ea-e044-00144f3b4a43
+REJECTED NAME: Paralongidorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/0640532d-be6b-4359-8e79-0d5f98ccd08a
+REJECTED NAME: Xiphinema sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6ac-22ea-e044-00144f3b4a43
+REJECTED NAME: Xiphinema sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-0f5f-0b3b-e044-00144f3b4a43
+REJECTED NAME: Xiphinema sp. 0	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a6a9-22ea-e044-00144f3b4a43
+REJECTED NAME: Meylis sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a597-22ea-e044-00144f3b4a43
+REJECTED NAME: Proleptonchus sp "rhizophorus"	$	Hodda, 2012	$	http://biodiversity.org.au/afd/taxa/b99c4687-a59a-22ea-e044-00144f3b4a43
+REJECTED NAME: Proleptonchus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a59d-22ea-e044-00144f3b4a43
+REJECTED NAME: Proleptonchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/54cb56ae-a42c-436e-a756-dcb8fa70c72b
+REJECTED NAME: Doryllium sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a591-22ea-e044-00144f3b4a43
+REJECTED NAME: Tylencholaimellus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5a3-22ea-e044-00144f3b4a43
+REJECTED NAME: Tylencholaimellus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f48a-13df-e044-00144f3b4a43
+REJECTED NAME: Tylencholaimellus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5a0-22ea-e044-00144f3b4a43
+REJECTED NAME: Tyleptus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5a6-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimoides sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5eb-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimoides sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5df-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimoides sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5e5-22ea-e044-00144f3b4a43
+REJECTED NAME: Dorylaimoides sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a5e8-22ea-e044-00144f3b4a43
+REJECTED NAME: Mumtazium sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a681-22ea-e044-00144f3b4a43
+REJECTED NAME: Promumtazium sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a684-22ea-e044-00144f3b4a43
+REJECTED NAME: Tylencholaimus sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a691-22ea-e044-00144f3b4a43
+REJECTED NAME: Tylencholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/7d997940-1053-44d5-8841-bd6d270562cc
+REJECTED NAME: Tylencholaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a694-22ea-e044-00144f3b4a43
+REJECTED NAME: Xiphinemella sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a69a-22ea-e044-00144f3b4a43
+REJECTED NAME: Xiphinemella sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/d3591241-505e-418a-9270-f0ec6c82ec86
+REJECTED NAME: Scapidens sp.	$	Colbran, 1996	$	http://biodiversity.org.au/afd/taxa/b99c4687-a603-22ea-e044-00144f3b4a43
+REJECTED NAME: Laevides sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a606-22ea-e044-00144f3b4a43
+REJECTED NAME: Eustrongylides sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/b286ff0e-95fa-1327-e044-00144f3b4a43
+REJECTED NAME: Eustrongylides spp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/e440fcd6-8ecf-42b1-96ab-2ef05e41b992
+REJECTED NAME: Durikainema sp.	$	Spratt, 1984	$	http://biodiversity.org.au/afd/taxa/b234f936-b1fb-3686-e044-00144f3b4a43
+REJECTED NAME: Capillaria sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/8fe55c6a-a4ac-430d-8c7d-a340f569ec5d
+REJECTED NAME: Capillaria sp.	$	Johnston & Mawson, 1945	$	http://biodiversity.org.au/afd/taxa/199c946a-d846-44f5-9b90-345528de337f
+REJECTED NAME: Capillaria sp.	$	Johnston & Mawson, 1949	$	http://biodiversity.org.au/afd/taxa/9f251abc-9004-43ec-911d-ed68e64ae456
+REJECTED NAME: Capillaria sp.	$	Mawson, Angel & Edmonds, 1986	$	http://biodiversity.org.au/afd/taxa/f7c47325-2dec-4ad2-9b42-3a332c76d70f
+REJECTED NAME: Capillaria sp.	$	Munday & Green, 1972	$	http://biodiversity.org.au/afd/taxa/11c615b0-6575-4575-b635-d68638acfdac
+REJECTED NAME: Capillaria sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/1d407e0f-9688-47b2-afc0-4484f5188758
+REJECTED NAME: Eucoleus sp.	$	Oakwood & Spratt, 2000	$	http://biodiversity.org.au/afd/taxa/b234f936-b192-3686-e044-00144f3b4a43
+REJECTED NAME: Eucoleus sp. 1	$	Spratt, 2006	$	http://biodiversity.org.au/afd/taxa/b234f936-b1bb-3686-e044-00144f3b4a43
+REJECTED NAME: Eucoleus sp. 2	$	Spratt, 2006	$	http://biodiversity.org.au/afd/taxa/b234f936-b1be-3686-e044-00144f3b4a43
+REJECTED NAME: Eucoleus sp. 3	$	Spratt, 2006	$	http://biodiversity.org.au/afd/taxa/b234f936-b1c1-3686-e044-00144f3b4a43
+REJECTED NAME: Dioctowittus sp.	$	Pichelin <em>et al</em>., 1999	$	http://biodiversity.org.au/afd/taxa/dda19140-c45d-47f1-801b-9bd197ddabc7
+REJECTED NAME: Trichuris sp.	$	Beumer <em>et al</em>., 1983	$	http://biodiversity.org.au/afd/taxa/bb6769c1-9ac8-4c8c-b676-49a709e2fca6
+REJECTED NAME: Trichuris sp.	$	Oakwood & Spratt, 2000	$	http://biodiversity.org.au/afd/taxa/5cf47871-5dda-422e-b856-4d98f0ee04e7
+REJECTED NAME: Amphidelus sp. "b"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/5faccf26-e520-456e-a6e2-3fd5c6ebcb78
+REJECTED NAME: Anoplostoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/15e168a3-eb58-43af-98d6-909dbb722bb3
+REJECTED NAME: Chaetonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e8737a7e-b261-4b55-94b4-120d19d7be64
+REJECTED NAME: Enoplus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/1e73eac2-5d4e-408b-83a7-218f593f27a4
+REJECTED NAME: Enoploides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/927bc92b-5566-45ab-9065-c49fcb8602bb
+REJECTED NAME: Enoploides sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/2836b119-5f31-4857-bf46-aa1a3bc93b38
+REJECTED NAME: Enoploides sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/bc4aef3a-2df6-4295-9629-084c64db2dbe
+REJECTED NAME: Enoploides sp. "brouleense"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/4716f32e-49ca-4c00-8250-eb62cc90058e
+REJECTED NAME: Enoplolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/1abaa742-a8c4-4368-9fbf-aead710d2af3
+REJECTED NAME: Enoplolaimus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f2f99e5e-0893-47db-985b-2137ada8e5bb
+REJECTED NAME: Enoplolaimus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a94dcc4b-8764-4f0a-a3c7-cff1a1ad5c38
+REJECTED NAME: Enoplolaimus sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e3186a3c-5e79-4d94-b97a-494beb786f10
+REJECTED NAME: Enoplolaimus sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/2a7cc56b-fcda-458b-813a-bde4af7cb7df
+REJECTED NAME: Enoplolaimus sp. "E"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9a493b04-517c-4a2b-9e45-3d49a013a9a3
+REJECTED NAME: Enoplolaimus sp. "fosteri"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b9c07cb8-5aba-43c2-97d4-3e02ac2b35a9
+REJECTED NAME: Epacanthion sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/0e9880fa-5b32-43cd-8f38-8416c1700b2d
+REJECTED NAME: Epacanthion sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/bcb1c27d-2507-4538-b609-74d3abdbe85b
+REJECTED NAME: Mesacanthion sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/045dd75e-39f1-4f95-8d8c-40f2b19fee91
+REJECTED NAME: Mesacanthion sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/9cbe2a99-d155-43b1-9831-5b3f339420e6
+REJECTED NAME: Mesacanthion sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/cc71ab5e-5882-431f-99c0-2325bd86ac97
+REJECTED NAME: Mesacanthion sp. "D"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/cd540a42-edac-4ddd-b586-a7cd8f683c4c
+REJECTED NAME: Mesacanthion sp. nov.	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/daadfc73-89c5-46d5-b4ec-2930944001a8
+REJECTED NAME: Mesacanthoides sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/b0172967-2449-47eb-a911-d44161de464f
+REJECTED NAME: Paramesacanthion sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/7523e949-38fc-4da5-a06c-c45bc7b0ac54
+REJECTED NAME: Paramesacanthion sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/45f1a862-ac76-47d2-8e4b-5803cc2840ce
+REJECTED NAME: Oxyonchus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/73e53b96-47ca-455f-beb5-c0da2b35173e
+REJECTED NAME: Okranema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d8a07197-044f-4a49-ab79-8d4392a0037e
+REJECTED NAME: Thoracostomopsis sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/296497e7-c0b9-43f3-89a0-ec49400b03d6
+REJECTED NAME: Trileptium sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/e7e18af9-2ad6-46a9-8748-ab86f8eee24a
+REJECTED NAME: Trileptium sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/207ede87-1706-4570-bc22-c8b0db706b50
+REJECTED NAME: Cephalanticoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d31e5b59-68ea-4ed6-9f94-bec4e1f0d43d
+REJECTED NAME: Odontanticoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-8579-0ab8-e044-00144f3b4a43
+REJECTED NAME: Crenopharynx sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/52703804-037e-4a0b-b9cf-2f21f328998b
+REJECTED NAME: Phanoderma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/d210b452-8229-4516-9b30-75aeaed4a4d6
+REJECTED NAME: Ironus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/6e5046d0-93f5-4599-85d5-b9b787fd56b8
+REJECTED NAME: Ironus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a579-22ea-e044-00144f3b4a43
+REJECTED NAME: Parironus sp. "new"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8d5daaab-37b2-4ec6-b001-a9af96ef1bd0
+REJECTED NAME: Pheronous sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/3c2bc9b2-047b-478c-a53f-3f2354bec34f
+REJECTED NAME: Thalassironus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/af91ae13-2247-4f90-8c14-8632932b5cec
+REJECTED NAME: Trissonchulus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/cbe96344-b19f-4285-897d-30b6d2130eec
+REJECTED NAME: Leptosomatum sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84e3-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pseudocella sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-864e-0ab8-e044-00144f3b4a43
+REJECTED NAME: Thoracostoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a57beba9-af54-4e78-8a86-60f53a2116da
+REJECTED NAME: Halalaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84b0-0ab8-e044-00144f3b4a43
+REJECTED NAME: Halalaimus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84b3-0ab8-e044-00144f3b4a43
+REJECTED NAME: Halalaimus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84b6-0ab8-e044-00144f3b4a43
+REJECTED NAME: Halalaimus sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-84b9-0ab8-e044-00144f3b4a43
+REJECTED NAME: Halalaimus sp. 1	$	Tietjen, 1990	$	http://biodiversity.org.au/afd/taxa/682348da-b2e1-4a37-9073-66004eb1bf17
+REJECTED NAME: Halalaimus sp. 2	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/20b80f7a-89ba-41c9-a08d-c410b958f9fb
+REJECTED NAME: Halalaimus sp. 5	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/6dbf9ed0-f10a-4d1b-a0d4-0e92674bcd88
+REJECTED NAME: Halalaimus sp. 7	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/6c376eda-32c5-45cd-b309-de672f00c0a9
+REJECTED NAME: Halalaimus sp. 9	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/b9bf5c32-fc1f-4460-a126-f861a7aaaeb6
+REJECTED NAME: Nemanema sp. "pentasetus"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f2c2-13df-e044-00144f3b4a43
+REJECTED NAME: Oxystomina sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f328-13df-e044-00144f3b4a43
+REJECTED NAME: Oxystomina sp. "robusta"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f325-13df-e044-00144f3b4a43
+REJECTED NAME: Pseudorhabdolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a663-22ea-e044-00144f3b4a43
+REJECTED NAME: Rhabdolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/29aad60c-7ef4-44b3-acca-97722240071e
+REJECTED NAME: Rhabdolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a666-22ea-e044-00144f3b4a43
+REJECTED NAME: Syringolaimus sp.	$	Nicholas <i>et al.</i>, 2012	$	http://biodiversity.org.au/afd/taxa/7de1b331-b325-4e6b-8603-7d228a58c8c9
+REJECTED NAME: Syringolaimus sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/3b9324be-786e-47e1-906f-70f6297c0b02
+REJECTED NAME: Lauratonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f23b-13df-e044-00144f3b4a43
+REJECTED NAME: Trefusia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f1b232d2-6f58-43ce-ad2b-ad389ddc3159
+REJECTED NAME: Trefusia sp. 1	$	Tietjen, 1991	$	http://biodiversity.org.au/afd/taxa/b1dcc728-174b-4039-854d-a4320878e4e2
+REJECTED NAME: Bathylaimus sp. "C"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/df686c16-8426-44be-93fe-6fb580bb7547
+REJECTED NAME: Eurystomina sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/165a8d6e-4e84-4483-b811-06c17cc0e5b0
+REJECTED NAME: Polygastrophora sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f382-13df-e044-00144f3b4a43
+REJECTED NAME: Symplocostoma sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a9394003-4673-4326-9a21-3bd0bc769db5
+REJECTED NAME: Oncholaimellus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f2f5-13df-e044-00144f3b4a43
+REJECTED NAME: Viscosia sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/8448a1c4-a9e3-468c-afa0-853fd40149ae
+REJECTED NAME: Viscosia sp. "v. long"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/4f06663c-ba82-4277-a6f4-7ffa97fb99a3
+REJECTED NAME: Metoncholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f298-13df-e044-00144f3b4a43
+REJECTED NAME: Oncholaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/f4dace4e-aa01-4489-abcb-01c66cceeace
+REJECTED NAME: Oncholaimus sp. "A"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a60aa81f-f79e-4f1a-bdc9-3400776e481a
+REJECTED NAME: Oncholaimus sp. "B"	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/08ab341a-3f43-4e89-a4d8-8d6f7eed786f
+REJECTED NAME: Pontonema sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-862d-0ab8-e044-00144f3b4a43
+REJECTED NAME: Pontonema sp. 1	$	Hourston <i>et al</i>, 2009	$	http://biodiversity.org.au/afd/taxa/f6613657-73ec-46e8-a7df-2831c5b1dadf
+REJECTED NAME: Paratrichodorus sp.	$	McLeod, Smyth & Reay, 1994	$	http://biodiversity.org.au/afd/taxa/9cc0863f-1289-0b3b-e044-00144f3b4a43
+REJECTED NAME: Paratrichodorus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c142e3-f35e-13df-e044-00144f3b4a43
+REJECTED NAME: Prismatolaimus sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/c4eaa86b-eb04-4641-a8f0-aa4852691ed7
+REJECTED NAME: Prismatolaimus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a616-22ea-e044-00144f3b4a43
+REJECTED NAME: Prismatolaimus sp. 2	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a619-22ea-e044-00144f3b4a43
+REJECTED NAME: Rhabdodemania sp.	$	Nicholas <i>et al</i>, 2012	$	http://biodiversity.org.au/afd/taxa/a6c13636-866c-0ab8-e044-00144f3b4a43
+REJECTED NAME: Epitobrilus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a66c-22ea-e044-00144f3b4a43
+REJECTED NAME: Tobrilus sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a672-22ea-e044-00144f3b4a43
+REJECTED NAME: Tripyla sp. 1	$	Hodda, 2004	$	http://biodiversity.org.au/afd/taxa/b99c4687-a678-22ea-e044-00144f3b4a43
+REJECTED NAME: Scleritoderma sp.	$		$	http://biodiversity.org.au/afd/taxa/60cf9dea-1bfa-49a0-b123-1f9883327cbb
+REJECTED NAME: Diphascon cf. rugosum	$	(Bartos, 1935)	$	http://biodiversity.org.au/afd/taxa/e497574d-e328-4b06-9e6a-969a80a97c64
+REJECTED NAME: Xerobiotus cf. pseudohufelandi	$	(Iharos, 1966)	$	http://biodiversity.org.au/afd/taxa/81494757-06d0-4bcd-8921-4202423cb60a
+REJECTED NAME: Archechiniscus cf. marci	$	Schulz, 1953	$	http://biodiversity.org.au/afd/taxa/8050d63e-f6c7-460e-8c1c-e6394ce604a4
+REJECTED NAME: Arcella sp. a	$		$	http://biodiversity.org.au/afd/taxa/d7a6d81c-aab8-4310-8fbb-61dc08069938
+REJECTED NAME: Arcella sp. b	$		$	http://biodiversity.org.au/afd/taxa/a6a4f753-94af-4277-b4b9-2fa0a556664a
+REJECTED NAME: Centropyxis sp. a	$		$	http://biodiversity.org.au/afd/taxa/cd7bd9e2-8924-4ca7-a0cb-8983237d2cff
+REJECTED NAME: Centropyxis sp. b	$		$	http://biodiversity.org.au/afd/taxa/ef768771-b734-4492-9572-1fceeb633480
+REJECTED NAME: Difflugia sp. a	$		$	http://biodiversity.org.au/afd/taxa/47c1f411-3bb2-40df-994b-7dd57b9f51d3
+REJECTED NAME: Difflugia sp. b	$		$	http://biodiversity.org.au/afd/taxa/3b1a4c0f-63b7-4cc9-832b-4675356edd15
+REJECTED NAME: Lesquereusia sp.	$		$	http://biodiversity.org.au/afd/taxa/8437dce4-85fc-40f1-9b58-04c2864dd39e
+REJECTED NAME: Bullinularia sp.	$		$	http://biodiversity.org.au/afd/taxa/5863d650-5a7c-4447-8722-f0fea1382a31
+REJECTED NAME: Ellipsopyxella sp.	$		$	http://biodiversity.org.au/afd/taxa/db6e46f9-890f-4b58-844b-f1aefd80d98f
+REJECTED NAME: Chlamydophrys sp.	$		$	http://biodiversity.org.au/afd/taxa/9b06edd1-4ebd-4f56-9722-6265b129f3a2
+REJECTED NAME: Drepanomonas cf. exigua	$	Penard, 1922	$	http://biodiversity.org.au/afd/taxa/8c8fb277-3817-4de2-9cd6-9721812869fe
+REJECTED NAME: Naegleria cf. galeacystis	$	De Jonckheere, 1994	$	http://biodiversity.org.au/afd/taxa/28b42c8c-af03-48ba-9091-095e7919008d

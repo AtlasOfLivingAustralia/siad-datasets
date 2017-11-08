@@ -1,0 +1,24 @@
+rank	count	State or province
+
+1	12571	Western Australia
+2	3402	Northern Territory
+3	3008	Queensland
+4	2141	New South Wales
+5	1981	Victoria
+6	1646	Tasmania
+7	1115	South Australia
+8	349	Australian Capital Territory
+9	146	Auckland
+10	72	Province Nord
+11	56	Province Sud
+12	21	Territory of Christmas Island
+13	16	Sarawak
+14	14	Norfolk Island
+15	7	unknown
+16	3	none
+17=	2	Java
+17=	2	Selangor
+17=	2	Viti Levu
+20	1	National Capital District
+
+26555	TOTAL

@@ -1,0 +1,7 @@
+rank	count	TypeStatus
+
+1	24791	None
+2	1690	Paratype
+3	74	Holotype
+
+26555	TOTAL

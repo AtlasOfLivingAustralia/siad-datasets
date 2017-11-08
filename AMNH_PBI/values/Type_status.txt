@@ -1,0 +1,13 @@
+rank	count	Type status
+
+1	36908	None
+2	25183	Paratype
+3	482	Holotype
+4	16	Paratype of Junior Synonym
+5	15	Paralectotype
+6=	3	Allotype
+6=	3	Lectotype
+6=	3	Syntype
+9	1	Holotype of Junior Synonym
+
+62614	TOTAL

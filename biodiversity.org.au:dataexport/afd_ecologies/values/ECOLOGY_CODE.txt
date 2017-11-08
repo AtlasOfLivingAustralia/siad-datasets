@@ -1,0 +1,856 @@
+rank	count	ECOLOGY_CODE
+
+1	15441	marine
+2	15372	volant
+3	10840	terrestrial
+4	8489	predator
+5	5991	benthic
+6	5703	continental shelf
+7	3502	inshore
+8	2961	subtidal
+9	2771	coral reef
+10	2765	diurnal
+11	2703	herbivore
+12	2616	sessile
+13	2565	continental slope
+14	2441	filter-feeder
+15	2417	intertidal
+16	2043	sap-feeder
+17	2013	sublittoral
+18	2003	arboreal
+19	1993	parasitic
+20	1783	soil dweller
+21	1739	mellivore
+22	1722	litter
+23	1618	open forest
+24	1558	closed forest
+25	1512	lotic freshwater
+26	1497	aquatic
+27	1421	woodland
+28	1412	nocturnal
+29	1401	tropical
+30	1395	sedentary
+31	1336	phloem feeder
+32	1269	ectoparasitic
+33	1267	freshwater
+34	1205	wood-borer
+35	1204	burrowing
+36	1176	arthropod-feeder
+37	1114	sand
+38	1081	shallow subtidal
+39	1051	endoparasitic
+40	1023	under bark
+41	1020	estuarine
+42	967	noctidiurnal
+43	915	flightless
+44	914	lentic freshwater
+45	890	colonial
+46	875	temperate
+47	865	rock reef
+48	850	soil
+49	830	pelagic
+50	811	coprophagous
+51	795	florivore
+52	691	omnivore
+53=	674	folivore
+53=	674	granivore
+55	639	fossorial
+56	622	mesopelagic
+57	584	oviparous
+58	558	soft bottom
+59	539	unknown
+60	512	gregarious
+61	488	coral reefs
+62	484	littoral
+63	480	sand bottom
+64	473	subtropical
+65	455	tall forest
+66	447	cryptozoic
+67	445	open scrub
+68	435	low intertidal
+69	419	coastal
+70	412	carnivorous
+71	411	saxicoline
+72	403	mangrove
+73	399	plant parasite
+74	380	lake
+75	376	low open woodland
+76=	370	hard bottom
+76=	370	mud-silt
+78	369	myrmecophilous
+79	359	sap-sucker
+80	352	riparian
+81	347	swamp
+82	328	oceanic province
+83	318	fungivore
+84	310	sand bottom-marine
+85	300	dry sclerophyll forest
+86	290	solitary
+87	289	crepuscular
+88	285	tropical eucalypt
+89	283	nothing known
+90	282	broadleaf thicket/shrubland
+91	281	rocks
+92	275	temperate eucalypt
+93	265	low woodland
+94	262	low sclerophyll heath
+95	261	caves
+96	253	tube case maker
+97	252	billabong
+98	246	sanguinivore
+99	243	nomadic
+100	233	wet sclerophyll forest
+101	225	moss
+102	221	deposit feeder
+103	219	continental rise
+104	218	desert
+105	213	mallee (Eucalyptus) woodland
+106	212	ground-dweller
+107=	208	sandy soil
+107=	208	suspension feeder
+109=	206	tussock grassland
+109=	206	underground water
+111=	205	epipelagic
+111=	205	low open shrubland
+113	204	hygrophilous
+114	201	inquiline
+115	199	tall open forest
+116	198	tall shrubland
+117	197	necrophagous
+118	194	paperbark woodland
+119	189	open heath
+120	188	under rocks
+121=	186	bathypelagic
+121=	186	montane
+123=	185	sand bottom–marine
+123=	185	subterranean
+125	184	subtropical rainforest
+126	181	oceanic
+127	176	lerp-former
+128	172	casuarina-cypress woodland
+129	170	mud bottom
+130	167	scavenger
+131=	166	human habitation
+131=	166	low shrubland
+133	165	algal-feeder
+134	162	planktonic
+135=	159	hummock grassland
+135=	159	tropical rainforest
+137	158	root-feeder
+138	155	eremic riverine woodland
+139	154	coral
+140=	148	nectonic
+140=	148	rainforest
+142	145	eucalyptus trees
+143=	143	mangrove or mangal
+143=	143	on eucalypts
+145=	139	detritus-feeder
+145=	139	gall-inducer
+147	137	alpine
+148=	136	rocky shore
+148=	136	tall open shrubland
+150	135	seagrass
+151	134	schooling
+152	132	rotting wood
+153	131	detritus feeder
+154	130	detritivore
+155	126	encrusting
+156	125	mulga woodland
+157	122	commensal
+158	115	mud bottom-marine
+159=	114	bathyal
+159=	114	free living
+161	110	sea grass
+162	109	mud
+163	106	viviparous
+164	103	territorial
+165	102	salt lake
+166=	101	rock bottom
+166=	101	xylem feeder
+168	97	carnivore
+169	95	tussock grassfield
+170	92	free-living
+171	91	sporophagous
+172	89	permanent pond
+173	87	under logs
+174=	83	frugivore
+174=	83	interstitial waters
+174=	83	open woodland
+177	82	mangroves
+178=	76	rubble
+178=	76	temperate rainforest
+180	74	mudflat
+181	73	dam
+182=	70	silt bottom-marine
+182=	70	up-on-plants
+184	69	arid
+185	68	intertidal flats
+186=	67	reef
+186=	67	reef flat
+188=	66	piscivore
+188=	66	silk fixed retreat maker
+190	64	lignum or cane grass swamp
+191=	62	rubble bottom
+191=	62	shelly bottom
+193	60	migratory
+194=	59	leaf litter
+194=	59	offshore waters
+194=	59	on dead wood
+197	58	open beach
+198	57	parenchyma feeder
+199	56	chenopodiaceous steppe
+200=	55	abyssal
+200=	55	deep water
+200=	55	rocky hummock grassfield
+200=	55	temporary pool
+204	54	mud bottom–marine
+205	53	stones
+206=	52	pest
+206=	52	stygobiontic
+206=	52	supralittoral
+209=	49	dry vine thickets
+209=	49	muddy-sand
+209=	49	parasitoid
+209=	49	tidal sandbar
+213	48	benthopelagic
+214	47	amphibious
+215=	46	brackish water
+215=	46	freshwater swamp
+215=	46	sand-plain hummock grassfield
+215=	46	shrubland
+219=	45	litter-dwelling
+219=	45	spring
+221=	44	in sand
+221=	44	salt marsh
+221=	44	supratidal
+221=	44	temporary pond
+225=	43	pool
+225=	43	tree trunks
+227=	42	erect reticulate
+227=	42	male—volant
+227=	42	sandy mud
+230=	41	erect bushy
+230=	41	lagoon
+230=	41	peridomestic
+230=	41	rotten logs
+234=	40	aposematic
+234=	40	grassland
+236=	39	marine shore-tidal sandflat
+236=	39	under stones
+238=	38	infralittoral fringe
+238=	38	interstitial
+238=	38	tall closed forest
+241=	37	bottom-dweller
+241=	37	resident
+243	35	epiphytic
+244=	34	coral cay
+244=	34	non-feeder
+246=	33	coastal salt marsh
+246=	33	coral rubble
+246=	33	rock bottom–marine
+246=	33	springs
+250	32	purse case maker
+251=	31	bark
+251=	31	endocommensal
+251=	31	fixed retreat maker
+251=	31	open freshwater wetland
+251=	31	ovoviviparous
+251=	31	pastures
+251=	31	phyllode gluer
+251=	31	rock platforms
+251=	31	weed beds
+260=	30	aerial
+260=	30	among algae
+260=	30	attendant ants
+260=	30	lower intertidal
+260=	30	neritic
+260=	30	sand flats
+260=	30	tide pools
+260=	30	winged
+268=	29	insectivorous
+268=	29	saltfield
+270=	28	algae
+270=	28	anchored by rootlets
+270=	28	crops
+270=	28	on gravel
+270=	28	vine thicket
+275=	27	logs
+275=	27	lowland
+275=	27	on algae
+275=	27	under litter
+279	26	seed litter
+280=	25	beach
+280=	25	ground
+280=	25	on bark
+280=	25	samphire salt marsh
+280=	25	tree hole
+285=	24	closed scrub
+285=	24	ectocommensal
+285=	24	halophile
+285=	24	high intertidal
+285=	24	host (unknown)
+285=	24	plant associated
+285=	24	scrub
+285=	24	silt bottom
+293=	23	mud substrate
+293=	23	on-surface swimmer
+293=	23	probably suspension feeder
+293=	23	rocky island
+297	22	flooded paddock
+298=	21	frugivorous
+298=	21	in moss
+298=	21	nektonic
+301=	20	coastal sand dunes
+301=	20	marsh
+303=	19	brachypterous
+303=	19	low open forest
+303=	19	miner
+303=	19	polyphagous
+307=	18	abyssopelagic
+307=	18	closed heath
+307=	18	exposed coast
+307=	18	sea beaches
+311=	17	aquifer
+311=	17	gall-former
+311=	17	graminivore
+311=	17	saddle case maker
+311=	17	sandy mud bottom
+311=	17	silt bottom–marine
+311=	17	symbiotic
+318=	16	decaying organic matter
+318=	16	flood plains
+318=	16	mid intertidal
+318=	16	trees
+322=	15	alpine meadow
+322=	15	bare stony plain
+322=	15	demersal
+322=	15	flood plain
+322=	15	laminaphiles
+322=	15	on macrophytes
+328=	14	desert sand dunes
+328=	14	in mud
+328=	14	montane rainforest
+328=	14	sand bottom–freshwater
+328=	14	shallow water
+333=	13	among rocks
+333=	13	blind
+333=	13	emergent vegetation
+333=	13	epizoic
+333=	13	gardens
+333=	13	grass roots
+333=	13	gravel
+333=	13	humus
+333=	13	in coral rubble
+333=	13	kleptoparasite
+333=	13	low open scrub
+333=	13	mollusc feeder
+333=	13	mud flats
+333=	13	on macroalgae
+333=	13	on sponges
+333=	13	reef flats
+333=	13	rotting leaves
+333=	13	sand plain desert
+333=	13	urban
+352=	12	algal beds
+352=	12	apterous
+352=	12	boulders
+352=	12	clay
+352=	12	deep sea
+352=	12	in bark crevices
+352=	12	sandy ocean beaches
+352=	12	sheltered coast
+360=	11	ectoparasite
+360=	11	eyeless
+360=	11	heath
+360=	11	sclerophyll forest
+360=	11	shell
+360=	11	temporary pools
+360=	11	vector
+367=	10	biogenic substrate
+367=	10	depth
+367=	10	epibenthic
+367=	10	forest
+367=	10	low closed forest
+367=	10	rheophilic
+367=	10	rock pools
+367=	10	shredder
+367=	10	stored products
+367=	10	under-bark
+377=	9	algae covered rocks
+377=	9	pit-gall inducer
+377=	9	pond
+377=	9	rock bottom–freshwater
+377=	9	rocks in splash zone of stream
+377=	9	rocky crevices
+377=	9	soft bottom–marine
+377=	9	tall woodland
+385=	8	riparian vegetation
+385=	8	sand hill desert
+385=	8	sargassum
+385=	8	splash zone of waterfall
+385=	8	wingless
+390=	7	cave
+390=	7	fouling species
+390=	7	in soil
+390=	7	phytotelmata
+390=	7	planktovore
+390=	7	sand beaches
+390=	7	sub-littoral
+390=	7	subalpine
+390=	7	tall open woodland
+390=	7	thermal spring
+390=	7	vegetation-held water
+390=	7	wet sand
+402=	6	catadromous
+402=	6	cavernicolous
+402=	6	gravel beds
+402=	6	grazer
+402=	6	inland salt marsh
+402=	6	inshore marine
+402=	6	myrmecophagous
+402=	6	peatland swamp
+402=	6	rice fields
+402=	6	river
+402=	6	rock bottom-marine
+402=	6	sheltered bays
+402=	6	synanthropic
+402=	6	transient
+402=	6	trunks
+417=	5	Eucalypt trees
+417=	5	acidophile
+417=	5	algae-substrate
+417=	5	anadromous
+417=	5	anchialine
+417=	5	bark of logs
+417=	5	brackish
+417=	5	coarse sand
+417=	5	gliding
+417=	5	in sandy mud
+417=	5	infratidal fringe
+417=	5	live in spittle
+417=	5	macrophyte substrate
+417=	5	muddy sand
+417=	5	peat swamps
+417=	5	pebbles
+417=	5	pit-forming
+417=	5	psammophile
+417=	5	sand substrate
+417=	5	sandy bottom
+417=	5	sclerophyll woodland
+417=	5	semiterrestrial
+417=	5	shell bottom
+417=	5	under seaweed
+417=	5	under stone
+417=	5	wood
+417=	5	woodland swamps
+444=	4	bacteria-feeder
+444=	4	brigalow
+444=	4	clay pan
+444=	4	coastal vegetation
+444=	4	cosmopolitan
+444=	4	creeks
+444=	4	ctenovore
+444=	4	deposit-feeding
+444=	4	direct developer
+444=	4	dry sediment
+444=	4	eurytopic
+444=	4	fructivore
+444=	4	heathland
+444=	4	hygropetric
+444=	4	limnetic
+444=	4	low salinity wetlands
+444=	4	lower shore
+444=	4	moss of logs
+444=	4	mud-flats
+444=	4	mudflats
+444=	4	ocean beach
+444=	4	on the ground
+444=	4	parthenogenetic
+444=	4	planktivore
+444=	4	rockface
+444=	4	rockface at fall
+444=	4	rocky bottom
+444=	4	rocky desert
+444=	4	saprophagous
+444=	4	shallow sublittoral
+444=	4	silt bottom–freshwater
+444=	4	silty sand
+444=	4	social
+444=	4	splash zone of stream
+444=	4	stored product pest
+444=	4	under debris
+444=	4	vine forest
+444=	4	vine-scrub thickets
+444=	4	wings variable
+483=	3	Eucalypts
+483=	3	active predator
+483=	3	algal growth
+483=	3	banks of rivers
+483=	3	bird nests
+483=	3	carrion feeder
+483=	3	caterpillar feeder
+483=	3	cnidarivore
+483=	3	coastal dunes
+483=	3	coastal streams
+483=	3	copropahgous
+483=	3	cryptic
+483=	3	cysticolous
+483=	3	dune lake
+483=	3	endemic
+483=	3	flowing waters on rocks
+483=	3	free-living tadpole
+483=	3	gallicolous
+483=	3	glider
+483=	3	grasslands
+483=	3	hydropetric
+483=	3	in gravel/cobbles
+483=	3	infaunal
+483=	3	insect associated
+483=	3	introduced
+483=	3	jungle on shore terrace
+483=	3	leaf packs
+483=	3	low forest
+483=	3	lower bathyal
+483=	3	macroalgae substrate
+483=	3	mesoparasitic
+483=	3	montane streams
+483=	3	mud bottom-freshwater
+483=	3	mud bottom–freshwater
+483=	3	muddy litter
+483=	3	muddy sand bottom
+483=	3	on cobbles
+483=	3	on rockplatform
+483=	3	openheath
+483=	3	planktotrophic larvae
+483=	3	playa lake
+483=	3	rockplatform
+483=	3	rotten wood
+483=	3	sand and gravel
+483=	3	shallow
+483=	3	shallow sub-littoral sand
+483=	3	shelly sand
+483=	3	shelly-bottom
+483=	3	sheltered rocky shore
+483=	3	sponges
+483=	3	stream
+483=	3	stream littoral
+483=	3	subantarctic
+483=	3	tidal creek
+483=	3	tidal salt flats
+483=	3	torrent dweller
+483=	3	tree dweller
+483=	3	tree holes
+483=	3	veliger planktonic
+483=	3	vine scrub
+543=	2	Marine
+543=	2	Melaleuca swamp
+543=	2	Nothofagus
+543=	2	above 1000 m
+543=	2	alga films
+543=	2	algae and flood debris
+543=	2	algal feeder
+543=	2	bank of creek
+543=	2	bare rocks in stream
+543=	2	closed forest terrace
+543=	2	coaral reefs
+543=	2	cortical
+543=	2	corticolous
+543=	2	dead branches
+543=	2	dead trees
+543=	2	disturbed habitats
+543=	2	drains
+543=	2	dry pool sediment
+543=	2	egg capsules pelagic
+543=	2	estaurine
+543=	2	estuaries & coastal sheltered bays
+543=	2	flood debris
+543=	2	flower gall associate
+543=	2	fungus associated
+543=	2	gastric brooder
+543=	2	gnamma
+543=	2	grass tussocks
+543=	2	gravel bottom
+543=	2	ground-dwelling
+543=	2	halophilous
+543=	2	high littoral
+543=	2	humic pool
+543=	2	in Ficus sycones
+543=	2	in debris
+543=	2	in flowers
+543=	2	in rotten wood
+543=	2	in rubble
+543=	2	intertidal sandy beaches
+543=	2	jungle under canopy
+543=	2	leaf debris
+543=	2	leaf deformer
+543=	2	leaf edge roll-inducer
+543=	2	leaf-curl inducer
+543=	2	leaf-litter
+543=	2	leaves and flood debris
+543=	2	lentic
+543=	2	lichen-feeder
+543=	2	low vegetation
+543=	2	lower littoral
+543=	2	mallee vegetation
+543=	2	mangrove salt flats
+543=	2	marinesessile
+543=	2	mixed forest
+543=	2	monsoon forest
+543=	2	moss-feeder
+543=	2	mymecophagous
+543=	2	necropahgous
+543=	2	nest
+543=	2	noctidurnal
+543=	2	on shelly bottom
+543=	2	open shrub
+543=	2	open shrubland
+543=	2	piscivorous
+543=	2	pools
+543=	2	rainforest creek
+543=	2	riverine
+543=	2	rock platform
+543=	2	rocks in splash zone of creek
+543=	2	rocks near stream
+543=	2	rocky coast
+543=	2	root feeder
+543=	2	roots
+543=	2	salt-marsh
+543=	2	sandy banks
+543=	2	sandy litter
+543=	2	seasonal peatland swamp
+543=	2	sedgeland
+543=	2	semiaquatic
+543=	2	sheltered
+543=	2	snow gum litter
+543=	2	splash zone of river
+543=	2	sponge substrate
+543=	2	sublitoral
+543=	2	tall grass
+543=	2	tallopen shrubland
+543=	2	termitophilous
+543=	2	tree-ferns
+543=	2	treeholes
+543=	2	troglobite
+543=	2	troglophile
+543=	2	univoltine
+543=	2	upper continental slope
+543=	2	vegetation
+543=	2	warm standing waters
+543=	2	waterhole
+543=	2	wood-mining
+639=	1	Acacia shrubs
+639=	1	Banksia flowers
+639=	1	Bedfordia salicina
+639=	1	Casuarina stricta
+639=	1	Eucalyptus camaldulensis
+639=	1	Nothofagus cunninghamii
+639=	1	Nothofagus moorei forest
+639=	1	Salmonophloia woodland
+639=	1	Xanthorrhoea
+639=	1	above 1250m
+639=	1	acariphage
+639=	1	adult—nocturnal
+639=	1	algal substrate
+639=	1	alluvial plains
+639=	1	anchialine ground water
+639=	1	ant attended
+639=	1	at edge of river
+639=	1	at river edge
+639=	1	athallassic
+639=	1	banks of ponds
+639=	1	banks of stream
+639=	1	bases of trees
+639=	1	bathysmal
+639=	1	benthic feeder
+639=	1	billabongs
+639=	1	boggy creek
+639=	1	burrowing predator
+639=	1	cavities in boulder
+639=	1	closed
+639=	1	closed forest plateau
+639=	1	closed shrubland
+639=	1	closed woodland
+639=	1	coaral reef
+639=	1	coastal marsh
+639=	1	coastal salt flat
+639=	1	coastal sand dune
+639=	1	coastal woodland
+639=	1	common at blacklight
+639=	1	continenetal shelf
+639=	1	contintental shelf
+639=	1	coprophagus
+639=	1	coral reel
+639=	1	creek bed
+639=	1	crop
+639=	1	cryprozoic
+639=	1	cursorial
+639=	1	dead leaves
+639=	1	decaying trunk
+639=	1	dry river bed
+639=	1	dunes
+639=	1	dung
+639=	1	ectocomensal
+639=	1	edaphic
+639=	1	edge/rocks
+639=	1	estuary
+639=	1	euryhaline
+639=	1	eutrophic habitats
+639=	1	eutrophication tolerant
+639=	1	extreme low tide mark
+639=	1	facultative predator
+639=	1	female brachypterous
+639=	1	foliage
+639=	1	freshwater rock-hole
+639=	1	fungal-feeder
+639=	1	fungi
+639=	1	funnel feeder
+639=	1	gallery forest
+639=	1	granite moss beds
+639=	1	gravel bottom-freshwater
+639=	1	gravel bottom–freshwater
+639=	1	gravelly mud
+639=	1	ground dweller
+639=	1	hadal
+639=	1	high altitude
+639=	1	high subtidal
+639=	1	hygropetric zone of waterfall
+639=	1	hyperparasitic
+639=	1	hypersaline lakes
+639=	1	in buildings
+639=	1	in caves
+639=	1	in crevices
+639=	1	in debris in river
+639=	1	in water column
+639=	1	inshore estuarine
+639=	1	interstital
+639=	1	intertidal beach sand
+639=	1	intertidal mud-flats
+639=	1	karst
+639=	1	kelp beds
+639=	1	lake littoral
+639=	1	large Acacia shrubs
+639=	1	leaf-edge gall inducer
+639=	1	lecithotrophic
+639=	1	log debris
+639=	1	lotic
+639=	1	low
+639=	1	low eucalypt woodland
+639=	1	low land shrubland
+639=	1	low open
+639=	1	low open scrubland
+639=	1	low open-woodland
+639=	1	low scrub
+639=	1	male apterous
+639=	1	mallee
+639=	1	mangrove mudflats
+639=	1	margin of swamp
+639=	1	maritime
+639=	1	meiofaunal
+639=	1	mesobathypelagic
+639=	1	microepiphytes
+639=	1	micropterous
+639=	1	mid littoral
+639=	1	mite associated
+639=	1	montane rivers
+639=	1	moss dweller
+639=	1	mossy rocks
+639=	1	mossy tree trunks
+639=	1	mud feeder
+639=	1	muddy margins
+639=	1	muddy pond
+639=	1	multivoltine
+639=	1	mycetophilous
+639=	1	native grassland
+639=	1	near river
+639=	1	near river bank
+639=	1	near stream
+639=	1	near to reeds
+639=	1	nectivorous
+639=	1	nestling
+639=	1	nomadic predator
+639=	1	nymph—diurnal
+639=	1	offshore
+639=	1	on green algae
+639=	1	on ground
+639=	1	on stones
+639=	1	open-scrub
+639=	1	organics
+639=	1	palm swamp
+639=	1	pecans
+639=	1	phytophagous
+639=	1	pine logs
+639=	1	plankton feeder
+639=	1	quartz gravel
+639=	1	reefal
+639=	1	rheophilous
+639=	1	river red gums
+639=	1	riverbank sand
+639=	1	rivulet
+639=	1	rock
+639=	1	rock near stream
+639=	1	rock reefs
+639=	1	rockhole
+639=	1	rocks in stream
+639=	1	rocks near fall
+639=	1	rolled eucalypt bark
+639=	1	round
+639=	1	running waters
+639=	1	saline ponds
+639=	1	saline/mesohaline
+639=	1	salt tolerant
+639=	1	sand bottoms
+639=	1	sand or shell bottom
+639=	1	sand-mud flat
+639=	1	sandy clay
+639=	1	sandy mudflats
+639=	1	sandy-bedded rivers
+639=	1	saproxylic
+639=	1	scarabaeiform
+639=	1	semi-arid
+639=	1	semi-exposed coast
+639=	1	shell-bottom
+639=	1	shrub dweller
+639=	1	shrubs
+639=	1	shrubs and small trees
+639=	1	silt bottoms
+639=	1	sponge associate
+639=	1	stony desert
+639=	1	stored grains
+639=	1	stream edge
+639=	1	streams
+639=	1	subalpine rivers
+639=	1	subalpine shrubs
+639=	1	subalpine streams
+639=	1	subcortical
+639=	1	sublittoral sandy substratum
+639=	1	substrate
+639=	1	suburban gardens
+639=	1	swamps
+639=	1	tall
+639=	1	tall heath
+639=	1	tall open scrub
+639=	1	tall open shrub
+639=	1	temporary ponds
+639=	1	temporary stream
+639=	1	tempterate
+639=	1	tree fern
+639=	1	troglomorphic
+639=	1	twig-gall inducer
+639=	1	ubiquitous
+639=	1	under bark of fallen logs
+639=	1	under clods of earth
+639=	1	under embedded rocks
+639=	1	under log
+639=	1	under low vegetation
+639=	1	under slabs
+639=	1	under sticks
+639=	1	under wet leaves
+639=	1	under wet rocks in stream
+639=	1	unknown bottom
+639=	1	upper abyssal
+639=	1	wet films
+639=	1	wing dimorphic
+639=	1	wings polymorphic
+639=	1	wood in stream
+
+171536	TOTAL

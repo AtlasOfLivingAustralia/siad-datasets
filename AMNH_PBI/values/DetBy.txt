@@ -1,0 +1,150 @@
+rank	count	DetBy
+
+1	26885	NULL
+2	6167	Schuh and Schwartz
+3	4398	R.T. Schuh and P. Pedraza
+4	4076	Weirauch and Schuh
+5	3423	Menard and Schuh
+6	3250	N. Tatarnic
+7	1911	Wall
+8	1795	C. Symonds
+9	1541	Schuh and Weirauch
+10	1484	A. Namyatova
+11	670	Schuh and Menard
+12	649	Weirauch
+13	576	M. D. Schwartz
+14	565	C. Weirauch
+15	373	Elias, M.
+16	364	ELIAS
+17	362	Celia Symonds
+18	350	D.Forero
+19	317	M.D. Schwartz
+20	314	R.T. Schuh
+21	257	R. T. Schuh
+22	236	Cassis and Symonds
+23	235	K. Menard
+24	219	Konstantinov
+25	157	Elias
+26	132	G. Cassis
+27	131	Julian May
+28	94	N. J. Tatarnic
+29	92	C. Weirauch 2006
+30	64	R.T.Schuh
+31	60	F. Konstantinov
+32	59	H. Hacker
+33	57	Weirarch and Schuh
+34=	50	G. F. Gross
+34=	50	J. C. M. Carvalho
+36	49	F.V. Konstantinov
+37	42	Elias M
+38	35	Drake
+39=	30	K.Menard
+39=	30	Weirach and Schuh
+41	29	Cassis and Moulds
+42=	25	G.F. Gross
+42=	25	Schuh, Stys &#38; Cassis
+44=	24	A. Namytaova
+44=	24	E. F. Riek
+44=	24	Hacker
+47=	21	Cassis &#38; Moulds
+47=	21	T.J. Henry
+49=	16	C. Symonods
+49=	16	M.D.  Schwartz
+49=	16	Tatarnic
+52	15	Gagne
+53=	13	Brad Balukjian
+53=	13	Rabitsch and Weirauch
+55=	12	G. cassis
+55=	12	M. Wall
+57=	11	Carvalho
+57=	11	J.C.M. Carvalho
+59=	9	A. Musgrave
+59=	9	C. J. Drake
+61=	8	J. C. M. Caravalho
+61=	8	Weirauch and Rabitsch 2007
+63=	6	GM Stonedahl
+63=	6	Namyatova
+63=	6	T. E. Woodward
+63=	6	T. G. Campell
+63=	6	T.E. Woodward
+68	5	Schuh
+69=	4	 G. Cassis
+69=	4	J. D. Lattin
+69=	4	Kerzhner
+69=	4	M. J. Fletcher
+69=	4	Namyatova, Elias and Cassis
+69=	4	Stonedahl &#38; Hernandez
+75=	3	Eyles
+75=	3	G-Y Zhang
+75=	3	G. G. E. Scudder
+75=	3	G. M. Stonedahl
+75=	3	G. Stonedahl
+75=	3	Gross
+75=	3	J. A. Slater
+75=	3	J. Carvalho
+75=	3	M. Elias
+75=	3	M.S.K. Ghauri
+75=	3	Stonedahl
+86=	2	B. Poppius
+86=	2	C. Symonds and G. Cassis
+86=	2	C.E. Chadwick
+86=	2	Celia Symonsa
+86=	2	Distant
+86=	2	G Cassis
+86=	2	J. C. M. Carvahlo
+86=	2	J. C. M. Carvalho &#38; G. F. Gross
+86=	2	J.C.M Carvalho
+86=	2	JCM Carvalho
+86=	2	Koenig
+86=	2	M. Cheng
+86=	2	M. S. K. Ghauri
+86=	2	Malipatil
+86=	2	Namyatova, Elias &#38; Cassis
+86=	2	Uvarov
+86=	2	W. L. Distant
+86=	2	W.E. China
+86=	2	Walker
+105=	1	A Egbert
+105=	1	A. C. Eyles
+105=	1	A. musgrave
+105=	1	C.
+105=	1	C. E. Chadwock
+105=	1	C.J. Drake
+105=	1	C.J.D
+105=	1	C.Weirauch
+105=	1	CJD
+105=	1	China
+105=	1	D &#38; R
+105=	1	E. Gordon
+105=	1	G.W. Kirkaldy
+105=	1	GF Gross
+105=	1	H. H. Knight
+105=	1	Howarth
+105=	1	J. W. Evans
+105=	1	J.A. Slater
+105=	1	J.C.M. Caravalho
+105=	1	JA Slater
+105=	1	K L Menard
+105=	1	K. Menard 2009
+105=	1	KA Phillips
+105=	1	Katrina Menard
+105=	1	M. Carver
+105=	1	M. Malipatil
+105=	1	M. S. K. Ghaurl
+105=	1	M.B. Malipatil 198?
+105=	1	Montrouzier
+105=	1	Musgrave
+105=	1	N Kormilev
+105=	1	O. M. Reuter
+105=	1	QDPI staff
+105=	1	R. L. Usinger
+105=	1	R. Salas
+105=	1	R.H. Usinger
+105=	1	Schuh, Stys and Cassis
+105=	1	T. A. Weir
+105=	1	T. G. Campbell
+105=	1	WEC
+105=	1	collector
+105=	1	compared with types
+
+62083	TOTAL

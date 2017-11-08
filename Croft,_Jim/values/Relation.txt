@@ -1,0 +1,28 @@
+rank	count	Relation
+
+1	1070	OccursWith
+2	399	EpiphyticOn
+3	97	Predates
+4	57	Infects
+5=	40	Inhabits
+5=	40	PreyOf
+7	39	HasEpiphyte
+8	36	Detritivore on
+9	30	Occurs with
+10	28	DetritivoreOn
+11	16	SaprotrophicOn
+12	13	PollinatedBy
+13=	8	InhabitedBy
+13=	8	Pollinates
+15=	7	Inquiline
+15=	7	Mutualism
+17	3	HasDetritivore
+18	2	InfectedBy
+19=	1	Endozoochore
+19=	1	HasEndozoochore
+19=	1	HasInquiline
+19=	1	KleptoparasiticOn
+19=	1	Pollinated by
+19=	1	[Cite
+
+1906	TOTAL

@@ -1,0 +1,229 @@
+rank	count	Host det
+
+1	22138	PERTH staff
+2	5506	NSW staff
+3	5430	Australian Museum
+4	3927	Bernice P. Bishop Museum
+5	2692	Field ID
+6	2593	Det: Royal Bot Gard. NSW
+7	2483	American Museum of Natural History
+8	1289	Queensland Museum, Brisbane
+9	1113	South Australian Museum
+10	1088	Australian National Insect Collection
+11	1019	WA Herbarium
+12	749	Perth Staff
+13=	625	P.H. Weston 1996
+13=	625	Queensland Primary Industries Insect Collection &#40;now QDPC&#41;
+15	584	RBG staff
+16	539	Zoological Institute, Russian Academy of Sciences
+17	519	Perth staff
+18	455	University of New South Wales
+19	453	Western Australian Museum, Perth
+20	427	P.G. Wilson 1996
+21	398	field ID
+22	385	Natural History Museum, London
+23	364	B.J. Conn 1996
+24	315	J. Everett May 1996
+25	308	Perth 05672317
+26	298	United States National Museum of Natural History
+27	277	Bruxelles, Royal Institute of Natural Science of Belgium
+28	252	Det: B.M. Wiecek 1996
+29	241	NT Herbarium Staff - Alice Springs
+30	210	University of Queensland
+31	193	B.M. Wiecek 1996
+32	172	NOU Staff
+33=	163	Department of Agriculture, Orange. NSW
+33=	163	Det: B.J. Conn 1996
+35	139	R.G. Coveny 1996
+36	138	J. Everett 1996
+37	136	Northern Territory Museum
+38	133	 PERTH staff
+39	132	 NSW staff
+40	123	K.D. Hill 1996
+41	118	California Academy of Sciences
+42=	114	Michael Lovave &#40;LAE herbarium, PNG&#41;
+42=	114	NSW658082
+44	103	Det: P.G. Wilson 1996
+45=	96	Det: P. G. Wilson 1996
+45=	96	R.T. Schuh
+47	95	05670403
+48	88	NSW Herbarium
+49	87	B. M. Wiecek 1995
+50=	85	B. M. Wiecek
+50=	85	University of California, Berkeley
+52	81	WA Herbarium Staff
+53	78	yet to be determined - Cassis Lab, UNSW - Bush Blitz
+54=	76	Texas A&M University
+54=	76	in field by G. Cassis
+56	73	Nationaal Natuurhistorische Museum &#40;formerly Rijksmuseum van Natuurlijke Historie&#41;, Leiden
+57	69	Field ID ref. Pye et al. 2003
+58	67	undetermined
+59=	62	Det: K.L. Wilson 1997
+59=	62	Det: P.H. Weston 1996
+59=	62	Perth
+62	61	 Det: Royal Bot Gard. NSW
+63	57	Forestry Commission of NSW Insect Collection &#40;now State Forests of NSW Insect Collection&#41;.
+64	56	01520446
+65=	54	Det: R.G. Coveny 1996
+65=	54	collector
+67	52	Det: K.D. Hill 1996
+68=	47	G. Cassis 1998
+68=	47	Nationaal Natuurhistorisch Museum, Leiden, Netherlands
+70	46	In field
+71=	45	C. Symonds
+71=	45	NSW 427661
+71=	45	Perth 05227496 Host/98-42
+74	44	E.A. Brown 1996
+75	43	Natural History Museum of Los Angeles County
+76	42	PERTH 05671515
+77=	41	NSW 395972
+77=	41	field id
+79	37	Det: J. Everett 1996
+80=	36	Field ID; Host 96-147
+80=	36	Royal Bot Gard. NSW
+82	32	NSW658299
+83=	31	05120152
+83=	31	D.C. Godden 1996
+85=	30	Peter Lang - Dept. of Env. &#38; Natural Resources, South Australia
+85=	30	SA Herbarium
+87=	28	B. R. Maslin
+87=	28	botanist - Dept. of Env. &#38; Natural Resources, South Australia
+89	27	T.D. Macfarlane
+90=	25	Pert staff
+90=	25	Zoologische Staatssammlung Munich
+92	24	Danish Natural History Museum, Copenhagen &#40;formerly Univerisity Zoological Museum&#41;
+93=	23	Royal Bot. Gdns. Syd.
+93=	23	Western Australian Department of Agriculture, Entomology Div.
+95=	22	 field ID
+95=	22	05879078
+97=	21	  PERTH staff
+97=	21	K. D. Hill 1996
+97=	21	Museum of Victoria
+97=	21	Museum of the Northern Territory
+97=	21	PERTH 05120101
+102	19	University of California, Riverside
+103	18	PERTH
+104	17	Finnish Museum of Natural History &#40;Museum of Zoology Helsinki&#41;
+105=	16	Oregon State Arthropod Collection, Oregon State University
+105=	16	S. Dillon &#38; A. Markey &#40;WA Herbarium&#41;
+107=	15	 Det: R.G. Coveny 1996
+107=	15	 Field ID
+107=	15	PERTH Staff
+110=	14	 G. Cassis 1995
+110=	14	NSW 666270
+110=	14	P.G Wilson 1996
+113=	13	Det: E.A. Brown 1996
+113=	13	Hungarian Natural History Museum, Budapest
+113=	13	R.O. Makinson 1997
+116	12	PERTH 05099714
+117=	11	&#40;labelled incorrectly as Casuarinaceae&#41;
+117=	11	Canadian National Collection of Insects, Agriculture and Agri-Food Canada
+117=	11	Royal Botanic Gardens NSW
+120	10	B. J. Conn 1996 NSW
+121=	9	&#40;H131&#41;
+121=	9	Agricultural Research Council, Pretoria
+121=	9	Det: Royal Bot. Gardens. Syd.
+121=	9	G. Cassis
+121=	9	NSW427347
+121=	9	P. G. Wilson 1996
+127=	8	B. J. Conn 1996
+127=	8	Det: Peter G. Wilson 1996
+127=	8	NSW427500
+127=	8	Royal Botanic Garden:NSW
+131=	7	B.R. Maslin
+131=	7	New Zealand Arthropod Collection &#40;formerly DSIR  Entomology Division&#41;, Auckland, Landcare Research
+131=	7	PERTH 05671698
+131=	7	PERTH 5635845
+131=	7	Perth 05670152
+131=	7	R. G. Coventy 1996
+131=	7	Royal Bot. Gard. NSW
+131=	7	Utah State University
+139=	6	  Det: R.G. Coveny 1996
+139=	6	  NSW staff
+139=	6	 J. Everett 1996
+139=	6	 Royal Bot. Gard. NSW
+139=	6	Museu Nacional, Rio de Janeiro
+139=	6	PERTH05227321
+139=	6	PH Weston 1996
+139=	6	Perth 05099714
+139=	6	Perth stuff
+148=	5	Bavarian Natural History Museum, Munich
+148=	5	Field ID; morphologically distinct popn.
+148=	5	NSW427502
+148=	5	PERTH 05227593
+152=	4	  Det: Royal Bot Gard. NSW
+152=	4	B.L. Rye
+152=	4	Northern Territory Museum of Arts and Sciences, Darwin
+152=	4	PERTH 05120594
+152=	4	University of Kansas, Snow Entomological Museum
+157=	3	Field ID &#40;red flowers&#41;
+157=	3	PERTH 05227496 HOST/98-42
+157=	3	PERTH 05227577
+157=	3	Royal Botanic Garden
+161=	2	  G. Cassis 1995
+161=	2	 G. Cassis
+161=	2	 NSW
+161=	2	05120209
+161=	2	05120527
+161=	2	Department of Primary Industries, Parks, Water and Environment
+161=	2	Det. G. Cassis 1995
+161=	2	G. Cassis 1995
+161=	2	Marco Duretto - Tas Herbarium
+161=	2	Mississippi Entomological Museum, Mississippi State University
+161=	2	N.G. Walsh &#40;Melbourne RBG&#41;
+161=	2	NSW427984
+161=	2	Naturhistorisches Museum, Wien, Austria
+161=	2	PERTH 05670152
+161=	2	RBG Staff
+161=	2	V. Stajsic
+161=	2	botanist
+161=	2	field ID; host 97-06
+179=	1	   Det: R.G. Coveny 1996
+179=	1	   NSW staff
+179=	1	  Det: R.G. Convey
+179=	1	  Field ID
+179=	1	  J. Everett 1996
+179=	1	  K.L. Wilson 1997
+179=	1	  Royal Bot. Gard. NSW
+179=	1	  Royal Botanical Gard. NSW
+179=	1	  Royal Botanical Gardens
+179=	1	  field ID
+179=	1	 B.J. Conn 1996
+179=	1	 B.M. Wiecek 1996
+179=	1	 Det. G. Cassis 1995
+179=	1	 Det: R.G. Convey
+179=	1	 G.Cassis
+179=	1	 J. Everett May 1996
+179=	1	 P.H. Weston 1996
+179=	1	 Perth staff
+179=	1	 RBG staff
+179=	1	 Royal Bot Gard. NSW
+179=	1	 Royal Botanic Gardens NSW
+179=	1	 Royal Botanical Gard. NSW
+179=	1	 Royal Botanical Gardens
+179=	1	&#40;Det: P.H. Weston 1996&#41;
+179=	1	-
+179=	1	05227305
+179=	1	ABCL 2004 987
+179=	1	D. C. Godden
+179=	1	Det: D.C. Godden 1996
+179=	1	G.Cassis
+179=	1	Instituto Miguel Lillo, Tucuman
+179=	1	Melinda Trudgen
+179=	1	N.G.Walsh
+179=	1	NSW
+179=	1	NSW 395956
+179=	1	NSW427493: PBI/H98-06
+179=	1	Naturhistoriska riksmuseet, Stockholm
+179=	1	PERTH 05056055
+179=	1	PERTH 05227488
+179=	1	Perth 05671515
+179=	1	QDPI staff
+179=	1	Royal Botanic Gardens
+179=	1	Royal Botanical Gard. NSW
+179=	1	Universite Libre de Bruxelles
+179=	1	V. Stajsic &#40;Melbourne RBG&#41;
+179=	1	WA herbarium
+179=	1	collecter
+
+62614	TOTAL

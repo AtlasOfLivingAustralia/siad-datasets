@@ -1,0 +1,20 @@
+rank	count	N_SUB_GENUS
+
+1	2647	NULL
+2=	2	Anas
+2=	2	Lobivanellus
+2=	2	Pterodroma
+5=	1	Aegotheles
+5=	1	Canis
+5=	1	Charybdis
+5=	1	Dermatonesma
+5=	1	Leuconoe
+5=	1	Leucospiza
+5=	1	Ninox
+5=	1	Numenius
+5=	1	Paraspizias
+5=	1	Pomatostomus
+5=	1	Portunus
+5=	1	Rhabdoglaux
+
+2665	TOTAL

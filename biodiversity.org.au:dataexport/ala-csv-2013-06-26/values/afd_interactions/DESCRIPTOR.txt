@@ -1,0 +1,81 @@
+rank	count	DESCRIPTOR
+
+1	18982	herbivore
+2	9853	sap-feeder
+3	7678	parasitic
+4	7202	endoparasitic
+5	4205	sap-sucker
+6	2814	ectoparasitic
+7	1549	plant parasite
+8	706	folivore
+9	518	phloem feeder
+10	500	granivore
+11	414	florivore
+12	387	inquiline
+13	175	gall-inducer
+14	170	plant associated
+15	116	wood-borer
+16	74	parenchyma feeder
+17	62	predator
+18	56	sanguinivore
+19	48	arthropod-feeder
+20=	24	marine
+20=	24	myrmecophilous
+20=	24	volant
+23	23	ectoparasite
+24	22	mellivore
+25	20	myrmecophagous
+26=	18	attendant ants
+26=	18	mymecophagous
+28	17	insect associated
+29	16	gall-former
+30	13	terrestrial
+31	12	in Ficus sycones
+32=	11	caves
+32=	11	fungus associated
+32=	11	sublittoral
+32=	11	subtidal
+36=	9	continental shelf
+36=	9	epizoic
+36=	9	leaf miner
+39=	8	carnivorous
+39=	8	frugivorous
+39=	8	omnivore
+39=	8	pest
+43	7	xylem feeder
+44=	6	benthic
+44=	6	coral reef
+44=	6	epiphytic
+44=	6	infralittoral fringe
+44=	6	mite associated
+44=	6	on macrophytes
+44=	6	parasitoid
+44=	6	spring
+52	5	fungivore
+53=	4	algae
+53=	4	closed forest
+53=	4	commensal
+53=	4	flower gall associate
+53=	4	mesoparasitic
+58=	3	arboreal
+58=	3	continental slope
+58=	3	estuarine
+58=	3	littoral
+58=	3	sheltered bays
+63=	2	aquatic
+63=	2	free living
+63=	2	graminivore
+63=	2	ground-dweller
+63=	2	lotic freshwater
+63=	2	root-feeder
+63=	2	sand bottom
+63=	2	soil dweller
+63=	2	under bark
+63=	2	vector
+73=	1	cryptozoic
+73=	1	diurnal
+73=	1	in flowers
+73=	1	montane
+73=	1	subtropical
+
+55963	TOTAL

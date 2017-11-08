@@ -1,0 +1,54 @@
+rank	count	Depository
+
+1	24578	Australian Museum
+2	20714	American Museum of Natural History
+3	3950	Bernice P. Bishop Museum
+4	2305	Western Australian Museum, Perth
+5	2295	University of New South Wales
+6	1363	Queensland Museum, Brisbane
+7	1335	South Australian Museum
+8	1218	Australian National Insect Collection
+9	779	Zoological Institute, Russian Academy of Sciences
+10	638	Queensland Primary Industries Insect Collection &#40;now QDPC&#41;
+11	480	United States National Museum of Natural History
+12	469	Natural History Museum, London
+13	277	Bruxelles, Royal Institute of Natural Science of Belgium
+14	210	University of Queensland
+15	170	Northern Territory Museum
+16=	163	Canadian National Collection of Insects, Agriculture and Agri-Food Canada
+16=	163	Department of Agriculture, Orange. NSW
+18	108	Museum of the Northern Territory
+19	107	Texas A&M University
+20	105	California Academy of Sciences
+21	85	University of California, Berkeley
+22	73	Nationaal Natuurhistorische Museum &#40;formerly Rijksmuseum van Natuurlijke Historie&#41;, Leiden
+23	69	Museum of Victoria
+24	61	University of California, Riverside
+25	57	Forestry Commission of NSW Insect Collection &#40;now State Forests of NSW Insect Collection&#41;.
+26	46	Nationaal Natuurhistorisch Museum, Leiden, Netherlands
+27	43	Natural History Museum of Los Angeles County
+28	33	Oregon State Arthropod Collection, Oregon State University
+29	25	Zoologische Staatssammlung Munich
+30=	24	Danish Natural History Museum, Copenhagen &#40;formerly Univerisity Zoological Museum&#41;
+30=	24	Western Australian Department of Agriculture, Entomology Div.
+32	17	Finnish Museum of Natural History &#40;Museum of Zoology Helsinki&#41;
+33	14	John T. Polhemus Collection
+34	13	Hungarian Natural History Museum, Budapest
+35=	9	Agricultural Research Council, Pretoria
+35=	9	Northern Territory Museum of Arts and Sciences, Darwin
+37=	7	Museum and Art Gallery of the Northern Territory
+37=	7	New Zealand Arthropod Collection &#40;formerly DSIR  Entomology Division&#41;, Auckland, Landcare Research
+37=	7	Utah State University
+40	6	Museu Nacional, Rio de Janeiro
+41=	5	Bavarian Natural History Museum, Munich
+41=	5	Tasmanian Museum and Art Gallery
+43=	4	Museum national d'Histoire naturelle a Paris
+43=	4	University of Kansas, Snow Entomological Museum
+45=	2	Department of Primary Industries, Parks, Water and Environment
+45=	2	Mississippi Entomological Museum, Mississippi State University
+45=	2	Naturhistorisches Museum, Wien, Austria
+48=	1	Instituto Miguel Lillo, Tucuman
+48=	1	Naturhistoriska riksmuseet, Stockholm
+48=	1	Universite Libre de Bruxelles
+
+62083	TOTAL

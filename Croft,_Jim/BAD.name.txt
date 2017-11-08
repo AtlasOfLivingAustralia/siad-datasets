@@ -1,0 +1,96 @@
+count$path$bad_name$	suggested_name
+    2$Crustacea/Decapoda/Ocypodidae$Macrophthalmus punctulatus$	Macrophthalmus sp_ms_punctulatus
+    5$Crustacea/Decapoda/Varunidae$Pseudohelice quadrata$	Pseudohelice sp_ms_quadrata
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Adomia avicenniae$	Adomia sp_ms_avicenniae
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Cryptovalsa halosarceicola$	Cryptovalsa sp_ms_halosarceicola
+    3$Fungi/Ascomycota/Ascomycota_incertae_sedis$Lichenoconium laevisporum$	Lichenoconium sp_ms_laevisporum
+    3$Fungi/Ascomycota/Ascomycota_incertae_sedis$Lineolata rhizophorae$	Lineolata sp_ms_rhizophorae
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Mangrovispora pemphii$	Mangrovispora sp_ms_pemphii
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Phialophorophoma littoralis$	Phialophorophoma sp_ms_littoralis
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Rhizophila marina$	Rhizophila sp_ms_marina
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Saccardoella mangrovei$	Saccardoella sp_ms_mangrovei
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Savoryella longispora$	Savoryella sp_ms_longispora
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Swampomyces armeniacus$	Swampomyces sp_ms_armeniacus
+    1$Fungi/Ascomycota/Ascomycota_incertae_sedis$Swampomyces triseptus$	Swampomyces sp_ms_triseptus
+    4$Fungi/Ascomycota/Dactylosporaceae$Dactylospora haliotrepha$	Dactylospora sp_ms_haliotrepha
+    1$Fungi/Ascomycota/Diatrypaceae$Eutypa bathurstensis$	Eutypa sp_ms_bathurstensis
+    1$Fungi/Ascomycota/Diatrypaceae$Eutypella naqsii$	Eutypella sp_ms_naqsii
+    1$Fungi/Ascomycota/Graphidaceae$Diorygma rufopruinosum$	Diorygma sp_ms_rufopruinosum
+    1$Fungi/Ascomycota/Graphidaceae$Graphis cincta$	Graphis sp_ms_cincta
+    2$Fungi/Ascomycota/Graphidaceae$Graphis gonimica$	Graphis sp_ms_gonimica
+    1$Fungi/Ascomycota/Graphidaceae$Graphis mucronata$	Graphis sp_ms_mucronata
+    2$Fungi/Ascomycota/Halosphaeriaceae$Aniptodera longispora$	Aniptodera sp_ms_longispora
+    1$Fungi/Ascomycota/Halosphaeriaceae$Antennospora quadricornuta$	Antennospora sp_ms_quadricornuta
+    2$Fungi/Ascomycota/Halosphaeriaceae$Halosarpheia abonnis$	Halosarpheia sp_ms_abonnis
+    1$Fungi/Ascomycota/Halosphaeriaceae$Halosarpheia fibrosa$	Halosarpheia sp_ms_fibrosa
+    3$Fungi/Ascomycota/Halosphaeriaceae$Halosarpheia marina$	Halosarpheia sp_ms_marina
+    1$Fungi/Ascomycota/Halosphaeriaceae$Neptunella longirostris$	Neptunella sp_ms_longirostris
+    1$Fungi/Ascomycota/Halosphaeriaceae$Saagaromyces glitra$	Saagaromyces sp_ms_glitra
+    1$Fungi/Ascomycota/Lecanoraceae$Lecanora pseudoargentata$	Lecanora sp_ms_pseudoargentata
+    2$Fungi/Ascomycota/Letrouitiaceae$Letrouitia leprolytoides$	Letrouitia sp_ms_leprolytoides
+    2$Fungi/Ascomycota/Lophiostomataceae$Quintaria lignatilis$	Quintaria sp_ms_lignatilis
+    1$Fungi/Ascomycota/Lulworthiaceae$Lulworthia longispora$	Lulworthia sp_ms_longispora
+    1$Fungi/Ascomycota/Massarinaceae$Massarina lacertensis$	Massarina sp_ms_lacertensis
+    1$Fungi/Ascomycota/Mycoblastaceae$Tephromela alectoronica$	Tephromela sp_ms_alectoronica
+    1$Fungi/Ascomycota/Mycoblastaceae$Tephromela isidiosa$	Tephromela sp_ms_isidiosa
+    1$Fungi/Ascomycota/Mycocaliciaceae$Chaenothecopsis kalbii$	Chaenothecopsis sp_ms_kalbii
+    1$Fungi/Ascomycota/Mycocaliciaceae$Mycocalicium americanum$	Mycocalicium sp_ms_americanum
+    1$Fungi/Ascomycota/Ochrolechiaceae$Ochrolechia gyrophorica$	Ochrolechia sp_ms_gyrophorica
+    3$Fungi/Ascomycota/Parmeliaceae$Parmotrema norsticticatum$	Parmotrema sp_ms_norsticticatum
+    1$Fungi/Ascomycota/Parmeliaceae$Parmotrema paracrinitum$	Parmotrema sp_ms_paracrinitum
+    2$Fungi/Ascomycota/Parmeliaceae$Protoparmelia australiensis$	Protoparmelia sp_ms_australiensis
+    1$Fungi/Ascomycota/Parmeliaceae$Relicina terricrocodilia$	Relicina sp_ms_terricrocodilia
+    1$Fungi/Ascomycota/Parmeliaceae$Usnea rubrotincta$	Usnea sp_ms_rubrotincta
+    2$Fungi/Ascomycota/Pertusariaceae$Pertusaria hartmanii$	Pertusaria sp_ms_hartmanii
+    1$Fungi/Ascomycota/Pertusariaceae$Pertusaria novaehollandiae$	Pertusaria sp_ms_novaehollandiae
+    1$Fungi/Ascomycota/Pertusariaceae$Pertusaria paradoxica var paradoxica$	Pertusaria sp_paradoxica_var_paradoxica
+    3$Fungi/Ascomycota/Phaeosphaeriaceae$Leptosphaeria australiensis$	Leptosphaeria sp_ms_australiensis
+    1$Fungi/Ascomycota/Phaeosphaeriaceae$Ophiobolus australiensis$	Ophiobolus sp_ms_australiensis
+    1$Fungi/Ascomycota/Phyllachoraceae$Marinosphaera mangrovei$	Marinosphaera sp_ms_mangrovei
+    1$Fungi/Ascomycota/Physciaceae$Buellia bahiana$	Buellia sp_ms_bahiana
+    2$Fungi/Ascomycota/Physciaceae$Buellia demutans$	Buellia sp_ms_demutans
+    1$Fungi/Ascomycota/Physciaceae$Buellia fraudans$	Buellia sp_ms_fraudans
+    1$Fungi/Ascomycota/Physciaceae$Physcia krogiae$	Physcia sp_ms_krogiae
+    1$Fungi/Ascomycota/Physciaceae$Pyxine fallax$	Pyxine sp_ms_fallax
+    1$Fungi/Ascomycota/Pleosporales_incertae_sedis$Periconia prolifica$	Periconia sp_ms_prolifica
+    1$Fungi/Ascomycota/Pyrenulaceae$Pyrenographa irregularis$	Pyrenographa sp_ms_irregularis
+    1$Fungi/Ascomycota/Ramalinaceae$Ramalina celastri celastri$	Ramalina sp_celastri_celastri
+    1$Fungi/Ascomycota/Ramalinaceae$Ramalina inflata australis$	Ramalina sp_inflata_australis
+    1$Fungi/Ascomycota/Ramalinaceae$Ramalina inflata inflata$	Ramalina sp_inflata_inflata
+    4$Fungi/Ascomycota/Ramalinaceae$Ramalina inflata perpusilla$	Ramalina sp_inflata_perpusilla
+    2$Fungi/Ascomycota/Ramalinaceae$Ramalina luciae$	Ramalina sp_ms_luciae
+    5$Fungi/Ascomycota/Ramalinaceae$Ramalina subfraxinea nortstictica$	Ramalina sp_subfraxinea_nortstictica
+    1$Fungi/Ascomycota/Roccellaceae$Enterographa compunctula$	Enterographa sp_ms_compunctula
+    1$Fungi/Ascomycota/Roccellaceae$Opegrapha agelaeotera$	Opegrapha sp_ms_agelaeotera
+    1$Fungi/Ascomycota/Roccellaceae$Schismatomma occultum$	Schismatomma sp_ms_occultum
+    1$Fungi/Ascomycota/Roccellaceae$Sclerophyton conspicuum$	Sclerophyton sp_ms_conspicuum
+    1$Fungi/Ascomycota/Sclerotiniaceae$Botrytis argillacea avicenniae$	Botrytis sp_argillacea_avicenniae
+    5$Fungi/Ascomycota/Teloschistaceae$Caloplaca bassiae$	Caloplaca sp_ms_bassiae
+    1$Fungi/Ascomycota/Teloschistaceae$Caloplaca filsonii$	Caloplaca sp_ms_filsonii
+    1$Fungi/Ascomycota/Teloschistaceae$Caloplaca pulcherrima$	Caloplaca sp_ms_pulcherrima
+    1$Fungi/Ascomycota/Thelenellaceae$Julella avicenniae$	Julella sp_ms_avicenniae
+    2$Fungi/Ascomycota/Thelotremataceae$Leucodecton occultatum$	Leucodecton sp_ms_occultatum
+    1$Fungi/Ascomycota/Valsaceae$Cytospora rhizophorae$	Cytospora sp_ms_rhizophorae
+    2$Fungi/Basidiomycota/Polyporaceae$Hexagonia tenuis$	Hexagonia sp_ms_tenuis
+    5$Insecta/Hymenoptera/Formicidae$Crematogaster sp1$	Crematogaster sp_sp1
+    1$Mollusca/Bivalvia/Teredinidae$Teredothyra matocotana$	Teredothyra sp_ms_matocotana
+   20$Plantae/Dicotyledoneae/Rhizophoraceae$Rhizophora X lamarckii$	Rhizophora sp_X_lamarckii
+    2$Plantae/Dicotyledoneae/Sonneratiaceae$Sonneratia X urama$	Sonneratia sp_X_urama
+    2$Plantae/Monocotyledoneae/Cyperaceae$Gahnia filum$	Gahnia sp_ms_filum
+    5$Plantae/Monocotyledoneae/Cyperaceae$Schoenus nitens$	Schoenus sp_ms_nitens
+    2$Plantae/Monocotyledoneae/Poaceae$Spartina X townsendii$	Spartina sp_X_townsendii
+    5$Vertebrata/Aves/Ardeidae$Butorides striata$	Butorides sp_ms_striata
+    6$_NO_HIGHERTAXON$Arhopara micale$	Arhopara sp_ms_micale
+    1$_NO_HIGHERTAXON$AssociationsData$	AssociationsData
+    1$_NO_HIGHERTAXON$Austrographa kurriminensis$	Austrographa sp_ms_kurriminensis
+    1$_NO_HIGHERTAXON$Austrographa pseudopalidella$	Austrographa sp_ms_pseudopalidella
+    2$_NO_HIGHERTAXON$Austroparmelina conlabrosa$	Austroparmelina sp_ms_conlabrosa
+    1$_NO_HIGHERTAXON$Baumea juncea$	Baumea sp_ms_juncea
+    1$_NO_HIGHERTAXON$Curculionoidea$	Curculionoidea
+    2$_NO_HIGHERTAXON$Halomassarina thalassiae$	Halomassarina sp_ms_thalassiae
+    1$_NO_HIGHERTAXON$Jackelixia elixii$	Jackelixia sp_ms_elixii
+    1$_NO_HIGHERTAXON$Jackelixia ligulata$	Jackelixia sp_ms_ligulata
+    1$_NO_HIGHERTAXON$Jackelixia streimannii$	Jackelixia sp_ms_streimannii
+    2$_NO_HIGHERTAXON$Notiosomus$	Notiosomus
+    5$_NO_HIGHERTAXON$Peneonanthe pulverulenta$	Peneonanthe sp_ms_pulverulenta
+    5$_NO_HIGHERTAXON$Pleuroloba quoyi$	Pleuroloba sp_ms_quoyi

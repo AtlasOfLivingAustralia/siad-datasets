@@ -1,0 +1,90 @@
+rank	count	Host det
+
+1	6378	PERTH staff
+2	4759	NSW staff
+3	2701	WA Herbarium
+4	2578	Australian Museum
+5	1215	Field ID
+6	1078	University of New South Wales
+7	874	Queensland Museum, Brisbane
+8	789	RBG staff
+9	670	Perth staff
+10	480	University of Queensland
+11	356	Det: Royal Bot Gard. NSW
+12	346	Australian National Insect Collection
+13	338	NT Herbarium
+14	247	South Australian Museum
+15	178	Museum of Victoria
+16	157	American Museum of Natural History
+17	138	J. Everett 1996
+18	130	B.J. Conn 1996
+19	124	Department of Primary Industries, Parks, Water and Environment
+20	94	Donna Lewis &#40;NTH&#41; - Field ID
+21	92	Western Australian Museum, Perth
+22	71	NOU Staff
+23	48	Queensland Primary Industries Insect Collection &#40;now QDPC&#41;
+24	46	R.G. Coveny 1996
+25=	43	M. Trudge
+25=	43	V. Stajsic &#40;RBG Melb&#41;
+27	40	California Academy of Sciences
+28	37	P.G. Wilson 1996
+29	28	Det: Royal Bot. Gard. NSW
+30=	25	United States National Museum of Natural History
+30=	25	WA herbarium
+32=	24	Ben Wirf &#40;NTH&#41; - Field ID
+32=	24	In field
+32=	24	NSW658318
+32=	24	P.H. Weston 1996
+36	23	K.L. Wilson 1997
+37=	22	N.G. Walsh
+37=	22	Northern Territory Museum
+39	21	S. Dillon &#38; A. Markey &#40;WA Herbarium&#41;
+40=	18	Celia Symonds - Field ID
+40=	18	Peter G. Wilson 1996
+42	16	G. Cassis 1995
+43=	14	Bernice P. Bishop Museum
+43=	14	Perth 05672341
+45	13	Western Australian Department of Agriculture, Entomology Div.
+46=	12	MC087
+46=	12	Perth 05670152
+46=	12	Tasmanian Museum and Art Gallery
+49	11	N. Tatarnic
+50=	10	B.M. Wiecek 1996
+50=	10	PERTH 05672295
+50=	10	PERTH Staff
+50=	10	Perth Staff
+54	9	Det: Royal Bot. Gardens. Syd.
+55	8	Marco Duretto - Tas Herbarium
+56=	7	Benth Perth.
+56=	7	PERTH 05227291
+58=	6	A. Messina &#40;La Trobe Uni&#41;
+58=	6	C. Symonds - Field ID
+58=	6	G. Cassis
+58=	6	NSW Herbarium
+58=	6	UNKNOWN
+63=	5	Museum of the Northern Territory
+63=	5	Royal Bot Gard. NSW
+65=	4	B. R. Maslin
+65=	4	PERTH 05120489
+65=	4	Perth 05120446
+65=	4	R.T. Schuh
+65=	4	field ID
+70=	3	N.G. Walsh - RBG Melb
+70=	3	R.G. Coveny
+72=	2	B.R. Maslin
+72=	2	GS Taylor
+72=	2	Ian Cowie &#40;NTH&#41; - Field ID
+72=	2	Michael Braby - Field ID
+72=	2	Natural History Museum, London
+72=	2	PERTH 5635845
+78=	1	Alex Buchanan - Tas Herbarium
+78=	1	Department of Agriculture, Orange. NSW
+78=	1	Marco Duretto - Yas Herbarium
+78=	1	NSW 395956
+78=	1	NSW658387
+78=	1	P. G. Wilson 1996
+78=	1	PERTH 05120381
+78=	1	RGB staff
+78=	1	undetermined
+
+24610	TOTAL

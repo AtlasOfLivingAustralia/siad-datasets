@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /data/source/biodiversity.org.au:dataexport/ala-csv-2013-06-26/values/afd_interactions</title>
+ </head>
+ <body>
+<h1>Index of /data/source/biodiversity.org.au:dataexport/ala-csv-2013-06-26/values/afd_interactions</h1>
+<table><tr><th><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr><tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[DIR]"></td><td><a href="/data/source/biodiversity.org.au:dataexport/ala-csv-2013-06-26/values/">Parent Directory</a>       </td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="cc_license.txt">cc_license.txt</a>         </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 88 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="cc_attributionURL.txt">cc_attributionURL.txt</a>  </td><td align="right">27-Jun-2013 21:40  </td><td align="right">570K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="TYPE.txt">TYPE.txt</a>               </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 53 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="TAXON_URI.txt">TAXON_URI.txt</a>          </td><td align="right">27-Jun-2013 21:40  </td><td align="right">570K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="TAXON_LSID.txt">TAXON_LSID.txt</a>         </td><td align="right">27-Jun-2013 21:40  </td><td align="right">584K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_YEAR.txt">N_YEAR.txt</a>             </td><td align="right">27-Jun-2013 21:40  </td><td align="right">3.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_SUB_GENUS.txt">N_SUB_GENUS.txt</a>        </td><td align="right">27-Jun-2013 21:40  </td><td align="right">1.5K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_SPECIES.txt">N_SPECIES.txt</a>          </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 68K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_QUALIFICATION.txt">N_QUALIFICATION.txt</a>    </td><td align="right">27-Jun-2013 21:40  </td><td align="right">101K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_NAME.txt">N_NAME.txt</a>             </td><td align="right">27-Jun-2013 21:40  </td><td align="right">176K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_GENUS.txt">N_GENUS.txt</a>            </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 45K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_FAMILY.txt">N_FAMILY.txt</a>           </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 18K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_EPITHET_NAME.txt">N_EPITHET_NAME.txt</a>     </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 66K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="N_AUTHOR.txt">N_AUTHOR.txt</a>           </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 37K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NAME_YEAR.txt">NAME_YEAR.txt</a>          </td><td align="right">27-Jun-2013 21:40  </td><td align="right">3.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NAME_URI.txt">NAME_URI.txt</a>           </td><td align="right">27-Jun-2013 21:40  </td><td align="right">354K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NAME_LSID.txt">NAME_LSID.txt</a>          </td><td align="right">27-Jun-2013 21:40  </td><td align="right">368K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NAME_COMPLETE.txt">NAME_COMPLETE.txt</a>      </td><td align="right">27-Jun-2013 21:40  </td><td align="right">210K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="NAME_AUTHORSHIP.txt">NAME_AUTHORSHIP.txt</a>    </td><td align="right">27-Jun-2013 21:40  </td><td align="right"> 34K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="LIFE_CYCLE.txt">LIFE_CYCLE.txt</a>         </td><td align="right">27-Jun-2013 21:40  </td><td align="right">572 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DESCRIPTOR_CATEGORY.txt">DESCRIPTOR_CATEGORY.txt</a></td><td align="right">27-Jun-2013 21:40  </td><td align="right">178 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="DESCRIPTOR.txt">DESCRIPTOR.txt</a>         </td><td align="right">27-Jun-2013 21:40  </td><td align="right">1.4K</td><td>&nbsp;</td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.2.26 (Unix) DAV/2 mod_perl/2.0.5 Perl/v5.12.3 Server at ala2.science.unsw.edu.au Port 80</address>
+</body></html>

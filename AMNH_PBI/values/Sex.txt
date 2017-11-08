@@ -1,0 +1,16 @@
+rank	count	Sex
+
+1	29966	Adult Female
+2	24446	Adult Male
+3	4899	Adult sex unknown
+4	2479	Juvenile sex unknown
+5	145	Mixed
+6	84	Nymph
+7	39	Subadult sex unknown
+8	10	Juvenile Female
+9	9	Juvenile Male
+10	3	Subadult Female
+11	2	Adult Female queen
+12	1	Subadult Male
+
+62083	TOTAL

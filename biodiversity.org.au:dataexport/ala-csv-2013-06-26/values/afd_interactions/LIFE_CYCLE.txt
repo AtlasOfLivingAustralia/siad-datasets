@@ -1,0 +1,32 @@
+rank	count	LIFE_CYCLE
+
+1	28036	NULL
+2	18683	larva
+3	3505	definitive
+4	1406	nymphs
+5	1399	adult
+6	1309	adults
+7	614	all stages
+8	327	intermediate
+9	312	caterpillar
+10	159	Caterpillar
+11	47	Adult
+12	39	Larvae
+13	27	Larva
+14	22	larva, adult
+15	21	third stage pranizae
+16	12	experimental
+17=	6	adult female
+17=	6	larva and adult
+17=	6	praniza larvae (third-stage juvenile)
+17=	6	pranizae (third-stage juvenile)
+21=	4	Catepillar
+21=	4	captive
+23=	3	Adult female encysted in host
+23=	3	All stages
+23=	3	juvenile stages
+26	2	nymph
+27=	1	immature
+27=	1	larva? adult?
+
+55963	TOTAL

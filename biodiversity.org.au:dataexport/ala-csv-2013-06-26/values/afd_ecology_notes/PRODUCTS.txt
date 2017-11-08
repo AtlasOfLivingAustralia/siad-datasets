@@ -1,0 +1,29 @@
+rank	count	PRODUCTS
+
+1	21909	NULL
+2	10	food
+3	6	minor commercial importance
+4	3	aquaculture, food
+5=	1	Potential commercial quality bath sponge
+5=	1	aquaculture; food
+5=	1	commercial bath sponge of significant commercial potential for aquaculture
+5=	1	commercially important
+5=	1	commercially important as bycatch product of prawn and scallop fishery
+5=	1	commercially important in NSW, Victoria and WA; mainly taken as bycatch of prawn and scallop fisheries
+5=	1	commercially important in SA and WA
+5=	1	eaten
+5=	1	fished commercially off eastern Australia
+5=	1	important commercial fishery
+5=	1	little commercial significance
+5=	1	major commercial importance
+5=	1	minor commercial importance in NT
+5=	1	minor fishery in SW Australian estuaries
+5=	1	minor importance in trawl catches
+5=	1	minor trawl catches
+5=	1	moderate commercial significance
+5=	1	potential fisheries interest
+5=	1	sold as pets under the name of 'crazy crabs'
+5=	1	sold commercially in eastern Australia
+5=	1	trawled commercially
+
+21949	TOTAL

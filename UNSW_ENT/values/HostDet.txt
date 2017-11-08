@@ -1,0 +1,69 @@
+rank	count	HostDet
+
+1	7121	NULL
+2	6464	PERTH staff
+3	4787	NSW staff
+4	2756	WA Herbarium
+5	897	Field ID
+6	789	RBG staff
+7	678	Perth staff
+8	368	NT Herbarium
+9	357	Det: Royal Bot Gard. NSW
+10	298	Neville Walsh
+11	231	Miguel De Salas &#38; Matthew Baker
+12	221	Miguel de Salas &#40;TMAG Herbarium&#41;
+13	176	WA herbarium
+14	139	J. Everett 1996
+15	132	WAH
+16	131	SA Herbarium
+17	130	B.J. Conn 1996
+18	94	Donna Lewis &#40;NTH&#41; - Field ID
+19	73	NT Herbarium Staff - Alice Springs
+20	71	NOU Staff
+21	53	V. Stajsic
+22	46	R.G. Coveny 1996
+23	44	V. Stajsic &#40;RBG Melb&#41;
+24	43	M. Trudge
+25	39	P.G. Wilson 1996
+26	35	N.G. Walsh
+27	28	Det: Royal Bot. Gard. NSW
+28=	24	Ben Wirf &#40;NTH&#41; - Field ID
+28=	24	In field
+28=	24	P.H. Weston 1996
+31	23	K.L. Wilson 1997
+32	22	Miguel de Salas
+33	21	S. Dillon &#38; A. Markey &#40;WA Herbarium&#41;
+34=	18	Celia Symonds - Field ID
+34=	18	Peter G. Wilson 1996
+36	16	G. Cassis 1995
+37	15	undetermined
+38=	11	Marco Duretto - Tas Herbarium
+38=	11	N. Tatarnic
+40=	10	B.M. Wiecek 1996
+40=	10	PERTH 05672295
+40=	10	PERTH Staff
+40=	10	Perth Staff
+44	9	Det: Royal Bot. Gardens. Syd.
+45	7	Benth Perth.
+46=	6	A. Messina &#40;La Trobe Uni&#41;
+46=	6	C. Symonds - Field ID
+46=	6	G. Cassis
+46=	6	NSW Herbarium
+46=	6	field ID
+51=	5	Royal Bot Gard. NSW
+51=	5	null
+53=	4	B. R. Maslin
+53=	4	N.G. Walsh - RBG Melb
+53=	4	R.T. Schuh
+56=	3	Marco Duretto - Yas Herbarium
+56=	3	R.G. Coveny
+58=	2	&#40;L.S.Sm.&#41; Chinnock
+58=	2	B.R. Maslin
+58=	2	GS Taylor
+58=	2	Ian Cowie &#40;NTH&#41; - Field ID
+58=	2	Michael Braby - Field ID
+63=	1	Alex Buchanan - Tas Herbarium
+63=	1	P. G. Wilson 1996
+63=	1	RGB staff
+
+26555	TOTAL

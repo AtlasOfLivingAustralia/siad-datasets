@@ -1,0 +1,621 @@
+rank	count	DeterminationVB
+
+1	46028	NULL
+2	4572	Weirauch and Schuh
+3	621	Wallabicoris waitzii Schuh and Pedraza
+4	421	Wallabicoris pityrodii Schuh and Pedraza
+5	413	Wallabicoris rutidosi Schuh and Pedraza
+6	407	Sejanus albisignatus &#40;Knight&#41;, det. K. Menard 2008
+7	338	Wallabicoris lachnostachyos Schuh and Pedraza
+8	317	Wallabicoris ozothamni Schuh and Pedraza
+9	300	Diomocoris nebulosus &#40;Poppius, 1914&#41;
+10	292	Wallabicoris pultanaei Schuh and Pedraza
+11	263	Wallabicoris pinochii Schuh and Pedraza
+12	259	Sejanus meridionalis Carvalho and Gross, det. K. Menard 2008
+13	225	Wallabicoris spyridii Schuh and Pedraza
+14	219	Rayeria basifer &#40;Walker, 1873&#41;
+15	198	G004 &#40;AmoukM&#41; S001
+16	194	Wallabicoris dicrastyli Schuh and Pedraza
+17	193	Wallabicoris newcastelii Schuh and Pedraza
+18	186	Sejanus vividus Carvalho and Gross, det. K. Menard 2008
+19	176	Sejanus mcdonaldi Carvalho and Gross, det. K. Menard 2008
+20	127	Felisacus sp.
+21	123	G004 &#40;AmoukM&#41; S009
+22	121	Ommatodema sp_n_c
+23	114	Ausejanus tiramisu, det. K. Menard 2008
+24	112	Wallabicoris schwartzi Schuh and Pedraza
+25=	111	Diplazicoris lombokianus
+25=	111	Sejanus albisignatus &#40;Knight&#41;, det. Menard 2009
+25=	111	Wallabicoris cassisi Schuh and Pedraza
+28	110	G004 &#40;AmoukM&#41; S005
+29	108	Wallabicoris ellae Schuh and Pedraza
+30	105	Inoma sp.18 Cassis and Symonds
+31	99	Orthotylini
+32	98	Wallabicoris spyridiellus Schuh and Pedraza
+33	88	Hekista laudator
+34	83	Felisacus longiceps Poppius, 1915
+35	82	Wallabicoris tasmanensis Schuh and Pedraza
+36	81	Sejanus femoralis, det. K. Menard 2008
+37	80	Rayieria acacia
+38	78	Sejanus neboissi Carvalho and Gross, det. K. Menard 2008
+39	77	Sejanus albisignatus &#40;Knight&#41;, det. K. Menard 2009
+40=	74	Leucophoroptera fasciatipennis Poppius, det. K. Menard 2010
+40=	74	Ragwelellus suspectus &#40;Distant, 1904&#41;
+42	70	Arafuramiris gressitti Schuh, det K. Menard 2010
+43	69	Stenotus nigrifrons Schwartz mans. n.
+44	67	Wallabicoris rhamnicola Schuh and Pedraza
+45=	66	Wallabicoris pityrodiellus Schuh and Pedraza
+45=	66	Weirach and Schuh
+47=	65	Rayieria kennedyi Namyatova and Cassis, 2013
+47=	65	Wallabicoris thomasii Schuh and Pedraza
+49	64	G004 &#40;AmoukM&#41; S002
+50	62	Ommatodema sp_n_d
+51	60	Rayieria basifer &#40;Walker, 1873&#41;
+52	59	Leucophoroptera cavenda Carvalho and Gross, det. K. Menard 2010
+53	58	Wallabicoris chrysocephali Schuh and Predraza
+54	56	Rayieria kennedyi
+55	55	Blesingia gularis Carvalho and Gross, det. K. Menard 2010
+56	53	Wallabicoris paradicrastyli Schuh and Predraza
+57=	52	Linacoris LO3
+57=	52	Wallabicoris cuneotinctus Schuh and Pedraza
+59	50	Ragwelellus thetis &#40;Kirkaldy, 1908&#41;
+60=	49	Campylomma liebknechti
+60=	49	Ommatodema sp_n_a2
+60=	49	Ommatodema sp_n_f
+60=	49	Wallabicoris helichrysi Schuh and Pedraza
+64	46	Papuamimus maai Schuh, det. K. Menard 2010
+65=	41	Leucophoroptera quadrimaculata Poppius, det. K. Menard 2010
+65=	41	Micromimetus pictipes Eyles, 1999
+67	40	Sejanus tasmaniae Carvalho and Gross
+68	39	Sejanus albisignatus &#40;Knight&#41;, det. K. Menard 2010
+69=	38	Decomia notata Schuh
+69=	38	G004 &#40;AmoukM&#41; S008
+69=	38	Sejanus luteoelytratus, det. K. Menard 2008
+72=	36	Ausejanus albisignatus &#40;Knight&#41;, det. K. Menard 2008
+72=	36	Scholtzia linnavuorii Schuh
+74	35	Helopeltis sp.
+75=	34	Laryngodus luteomaculatus Slater et al.
+75=	34	Rayieria acaciae Namyatova &#38; Cassis, 2013
+77	33	Pachypeltis reuteri &#40;Stal, 1871&#41;
+78	32	Xyphoidellus aquilus Weirach and Schuh
+79	31	Wallabicoris cassisi Schuh and Predraza
+80=	30	Coridromius det. R.T. Schuh
+80=	30	Taylorilygus apicalis &#40;Fieber, 1861&#41;
+82	29	Inoma sp.06
+83	28	Wallabicoris halganii Schuh and Pedraza
+84=	27	Ragwelellus vittatus &#40;Distant, 1904&#41;
+84=	27	Rayieria decorata Namyatova &#38; Cassis, 2013
+84=	27	Sejanus freycinet MS, det. K. Menard 2010
+84=	27	Sejanus tasmanie Carvalho and Gross, det. K. Menard 2008
+88=	26	Felisacus elegantulus &#40;Reuter, 1904&#41;
+88=	26	Sejanus albisignatus &#40;Knight&#41;, det. Menard 2008
+88=	26	Wallabicoris pomaderi Schuh and Pedraza
+91=	25	Ausejanus tiramisu, det. K. Menard 2007
+91=	25	Ommatodema sp_n_c Schwart and Cassis
+91=	25	Ragwelellus pallipes &#40;Odhiambo, 1962&#41;
+91=	25	Sejanus femoralis Carvalho and Gross, det. K. Menard 2009
+91=	25	Wallabicoris pimelii Schuh and Predraza
+96=	24	Laryngodus cervantes Slater et al.
+96=	24	Stenotus gressitti
+98	23	Felisacus javanus Reuter, 1908
+99=	22	Collessicoris bellissimus Carvalho and Gross, det. K. Menard 2009
+99=	22	Euander lacertosus &#40;Erichson&#41;
+101=	21	G004 &#40;AmoukM&#41; S006
+101=	21	Neocallitrosella madeleineae Cassis and Schwartz
+103=	20	Ommatodema sp_n_b2
+103=	20	Rayeria acaciae
+103=	20	Rayieria sp.
+106=	19	Ommatodema sp_n_c Schwartz and Cassis
+106=	19	Sejanus howardae Carvalho and Gross, det. K. Menard 2010
+108=	18	Sejanus funerellus Schuh, det. R.T. Schuh 1982
+108=	18	Sejanus sinuosus Schuh, det. K. Menard 2009
+108=	18	Wallabicoris prostantheri Schuh and Pedraza
+111=	17	Bifidostylus omnivora Schuh and Schwartz
+111=	17	Felisacus filicicola &#40;Kirkaldy, 1908&#41;
+111=	17	Sejanus albisignatus &#40;Knight&#41;, det. K. Menard 2007
+111=	17	Sejanus sp., det. K. Menard 2008
+115=	16	Cyrtorhinus lividipennis Reuter
+115=	16	Sejanus vividus Carvalho and Gross
+115=	16	Stenotus binotatus
+118=	15	Arafuramiris nr jimmi, det. K. Menard 2010
+118=	15	Ragwelellus sp.
+118=	15	Rayieria decorata
+121=	14	Cyrtorhinus carvalhoi Woodward
+121=	14	Micromimetus pacificus &#40;Poppius, 1914&#41;
+121=	14	S. queenlandsis Hacker
+121=	14	Sejanus brittoni Carvalho and Gross, det. K. Menard 2010
+121=	14	Stenotus witchelinae
+121=	14	Trigonotylus tenuis Reuter, 1893
+121=	14	Volkelius carvalhoi
+121=	14	Wallabicoris sandstonensis Schuh and Pedraza
+129=	13	Bouganvillia brandti
+129=	13	G004 &#40;AmoukM&#41; S007
+129=	13	Pachypeltis haglundii &#40;Stal, 1871&#41;
+129=	13	Pachypeltis sp.
+129=	13	Sejanus sinuosus Schuh
+134=	12	Felisacus magnificus Distant, 1904
+134=	12	Inoma sp.03 Cassis and Symonds
+134=	12	Palaucoris sp. n.
+134=	12	Rayieria kennedyi Namyatova &#38; Cassis, 2013
+134=	12	Sejanus brittoni Carvalho and Gross, det. K. Menard 2009
+134=	12	Sejanus fasciatus Carvalho and Gross
+134=	12	Sejanus neboissi Carvalho and Gross
+134=	12	Wallabicoris maralinga Schuh and Pedraza
+142=	11	Arafuramiris dreikikir Schuh, det. K. Menard 2010
+142=	11	Coridromius chenopoderis Tararnic
+142=	11	Decomia microgonoporos
+142=	11	Micromimetus newcaledoniaensis Balukjian and Schwartz
+142=	11	Rayieria acaciae Namyatova and Cassis, 2013
+147=	10	Gulacapsus novoguinensis Schuh, det. K. Menard 2010
+147=	10	Helopeltis clavifer &#40;Walker, 1871&#41;
+147=	10	Micromimetus newcaledoniaensis Balukjian and Schwartz 2010
+147=	10	Pachypeltis chinensis V. Signoret, 1858
+147=	10	Phatnoma tindalei
+147=	10	Wumea clypealis
+153=	9	Biromiris bulolo Schuh, det. K. Menard 2011
+153=	9	G004 &#40;AmoukM&#41; S011
+153=	9	Laryngodus australiae Herrich-Schaeffer
+153=	9	Micromimetus kusaiensis &#40;Carvalho, 1956&#41;
+153=	9	Myrtlemiris rubrocuneatus
+153=	9	Psallus nigristernus n. sp. JCMC
+153=	9	Sejanus brittoni Carvalho and Gross, det. K. Menard 2007
+153=	9	Sejanus femoralis Carvalho and Gross, det. K. Menard 2007
+153=	9	Wallabicoris baldersoni Schuh and Pedraza
+153=	9	Wallabicoris trymalii Schuh and Pedraza
+163=	8	Arafuramiris jimmi Schuh, det. K. Menard 2010
+163=	8	Bilirania nsp1
+163=	8	Diomocoris nebulosus &#40;Poppius, 1912&#41;
+163=	8	Felisacus elegantulus
+163=	8	Inoma sp.15 Cassis and Symonds
+163=	8	Rayeria gearyi
+163=	8	Rayieria acaciae
+163=	8	Sejanus ansevata Schuh, det. R.T. Schuh 1982
+163=	8	Sejanus biniguni Schuh
+163=	8	Sejanus ecnomios Schuh
+173=	7	--Type-
+173=	7	Arafuramiris biakanus Schuh, det K. Menard 2008
+173=	7	Arafuramiris biakanus Schuh, det K. Menard 2010
+173=	7	Cantacader armatus
+173=	7	D. fici
+173=	7	Felisacus lordhowensis Namyatova and Cassis
+173=	7	Helopeltis theviora Waterhouse 1886
+173=	7	Helopletis cinchonae Mann, 1907
+173=	7	Leucophororptera quadrimaculata
+173=	7	Micromimetus dybasi &#40;Carvalho, 1956&#41;
+173=	7	Sejanus albisignatus Knight
+173=	7	Wallabicoris craspedii Schuh and Predraza
+173=	7	det. to genus
+186=	6	Coridromius sp. Det. R.T. Schuh
+186=	6	Epimixia vittata Horváth
+186=	6	Helopeltis clavifer
+186=	6	Lasiolabops cosmopolites Schuh
+186=	6	Leucophoroptera fasciatipennis Poppius
+186=	6	Micromimetus trukensis &#40;Carvalho, 1956&#41;
+186=	6	Monanthia amitina
+186=	6	Palaucoris sulawesicus
+186=	6	Paracimex n. sp.
+186=	6	Rayieria albaornata Namyatova and Cassis, 2013
+186=	6	Sejanus albisignatus &#40;Knight&#41;, G.F. Gross 1978
+186=	6	Sejanus cinnameus Schuh
+186=	6	Sejanus elongatus Schuh
+186=	6	Sejanus mcdonaldi Carvalho and Gross, det. K. Menard 2007
+186=	6	Sejanus umi Schuh
+186=	6	Sejanus vividus Carvalho and Gross, det. K. Menard 2010
+186=	6	Volkelius maculatus
+203=	5	Arafuramiris gressitti Schuh, det K. Menard 2009
+203=	5	Coridromius monotocopsis Tatarnic
+203=	5	Daerlac tricolor
+203=	5	Lasiolabops irianicus Schuh
+203=	5	Morobea longipes
+203=	5	Platyngomiris typicus &#40;China and Carvalho, 1951&#41;
+203=	5	Rayeria queenslandica
+203=	5	Sejanus brassi Schuh
+203=	5	Sejanus howardae
+203=	5	Sejanus sinuosus Schuh, det. R.T. Schuh 1982
+203=	5	Sejanus tasmanie Carvalho and Gross, det. K. Menard 2007
+203=	5	Sejanus unicolor Carvalho and Gross, det. Carvalho and Gross 1982
+203=	5	Sejanus vividus Carvalho and Gross, det. K. Menard 2007
+203=	5	Stenotus sp
+203=	5	Wallabicoris gingera Schuh and Pedraza
+218=	4	Ambunticoris sulawesicus
+218=	4	Arafuramiris biakanus Schuh
+218=	4	Arafuramiris sp., det. K. Menard 2010
+218=	4	Arthriticus augeniae Bergroth, 1923
+218=	4	Ausejanus macrozonata &#40;Carvalho and Gross&#41;
+218=	4	Austrodapus nitens, det. K. Menard 2010
+218=	4	Compseuta tropica
+218=	4	Coridromius sp. det. R.T. Schuh
+218=	4	Ctypomiris kokure Schuh
+218=	4	Daerlac nigricans
+218=	4	Diocleroides sulawesi
+218=	4	Hallodapus &#40;Hallodapus&#41; ravenar
+218=	4	Inoma sp.17
+218=	4	Leucophoroptera philippinensis Schuh, det. R.T. Schuh 1984
+218=	4	Leucophoroptera sp.
+218=	4	Lygus ponapensis Carvalho, 1956
+218=	4	Megadrymus sp. A
+218=	4	Melanotrichus australianus
+218=	4	Micromimetus newcaledoniaensis Balukjian and Schwartz, 2010
+218=	4	Micromimetus norfolkensis Balukian and Schwartz
+218=	4	Ommatodema leanum Poppius, 1911
+218=	4	Ommatodema n sp from New Caledonia Schwartz and Cassis
+218=	4	Porophoroptera excellens Carvalho and Gross
+218=	4	Prada taeniophora H. Hacker
+218=	4	Rayieria frontalis
+218=	4	Rayieria iris
+218=	4	Sejanus albisigantus &#40;Knight&#41;
+218=	4	Sejanus albisignatus &#40;Knight&#41;
+218=	4	Sejanus albisignatus &#40;Knight&#41;, det. J.C.M Carvalho 1972
+218=	4	Sejanus albisignatus &#40;Knight&#41;, det. J.C.M. Carvalho 1980
+218=	4	Sejanus ecnomios Schuh, det. R.T. Schuh 1982
+218=	4	Sejanus ecnomiscos Schuh
+218=	4	Sejanus femoralis Carvalho and Gross
+218=	4	Sejanus fijiensis Schuh
+218=	4	Sejanus palumae Carvalho and Gross, det. K. Menard 2010
+218=	4	Sejanus serrulatus Schuh
+218=	4	Sejanus serrulatus Schuh, det. R.T. Schuh 1982
+218=	4	Sejanus sp., det. K. Menard 2007
+218=	4	Sejanus umi Schuh, det. R.T. Schuh 1982
+218=	4	Sejanus vividus Carvalho and Gross, det K. Menard 2009
+218=	4	Wallabicoris neoprostantheri Schuh and Pedraza
+218=	4	Zanessa sp.
+260=	3	Aitkenia grandis Carvalho and Gross, det K. Menard 2010
+260=	3	Arafuramiris sp.
+260=	3	Ausejanus albisignatus
+260=	3	Ausejanus new species
+260=	3	Ausejanus tiramisu MS name
+260=	3	Austrodapus nitens
+260=	3	Austrozanchius mungallala n.sp.
+260=	3	Biromiris bulolo Schuh, det. K. Menard 2009
+260=	3	Biromiris enarotadi Schuh
+260=	3	Carvalho named as P. australicus n.sp., unpublished
+260=	3	Coridromius sp 1. G. Cassis
+260=	3	Ctypomiris brendae Schuh
+260=	3	Cyrtorhinus lividipennis
+260=	3	Cysteochila Parada taeniophora
+260=	3	Dilatops fici Weirauch
+260=	3	Epimixia vittata
+260=	3	Euander lacertosus &#40;Erichs.&#41;
+260=	3	Gulacapsus novoguinensis Schuh
+260=	3	Leptobyrsa magnifica
+260=	3	Leucophoroptera fasciatipennis Poppius, det. R.T. Schuh 1976
+260=	3	Leucophoroptera macrozonata Carvalho and Gross, det. K. Menard 2010
+260=	3	Leucophoroptera quadrimaculata Poppius
+260=	3	Morobea spectabilis
+260=	3	Ommatodema n sp E Schwartz and Cassis
+260=	3	Pachypeltis chinensis V. SIgnoret, 1858
+260=	3	Platyngomiris pacific &#40;China and Carvalho, 1951&#41;
+260=	3	Pseudoleucophoroptera mamai Schuh. det. R.T. Schuh 1982
+260=	3	Pseudoloxops sp.
+260=	3	Ragwelellus horvathi &#40;Poppius, 1912&#41;
+260=	3	Ragwelellus indonesicus
+260=	3	Ragwelellus vittatus &#40;Odhiambo, 1962&#41;
+260=	3	Rayeria minuta
+260=	3	Sejanus albisignatus Knight, det. J.C.M Carvalho 1972
+260=	3	Sejanus cinnameus Schuh, det. R.T. Schuh 1982
+260=	3	Sejanus ecnomiscos Schuh, det. R.T. Schuh 1982
+260=	3	Sejanus elongatus Schuh, det. R.T. Schuh 1982
+260=	3	Sejanus funerioides Schuh
+260=	3	Sejanus luteoelytratus Carvalho and Gross, det. K. Menard 2010
+260=	3	Sejanus nsp
+260=	3	Teleonemia summervillei
+260=	3	Trichocephalocapsus albofasciatus Schuh, det. R.T. Schuh 1982
+260=	3	Wallabicoris commoni Schuh and Pedraza
+260=	3	Wallabicoris uptoni Schuh and Pedraza
+260=	3	Waterhouseana illustris Carvalho
+304=	2	Abuyogocoris calian Schuh, det. K. Menard 2008
+304=	2	Abuyogocoris sp., det. K. Menard
+304=	2	Arafuramiris nr. biakanus Schuh, det K. Menard 2010
+304=	2	Ausejanus albisignatus &#40;Knight&#41;, det. K. Menard 2010
+304=	2	Ausejanus cordatus
+304=	2	Ausejanus irisae, det. K. Menard 2008
+304=	2	Ausejanus urallus, det. K. Menard 2010
+304=	2	Austrodapus nitens MS never published, det. G.F. Gross 1994
+304=	2	Bilirania palawana
+304=	2	Biromiris sp.
+304=	2	Biromiris sp., det K. Menard 2010
+304=	2	Camylomma marjorae Schuh
+304=	2	Cantacader dentatus
+304=	2	Cleotomiris schneirlai
+304=	2	Compseuta secundus Hacker
+304=	2	Cryptocoris fasciatus
+304=	2	Ctypomiris kokure Schuh, det. R.T. Schuh 1982
+304=	2	Decomia perparvula
+304=	2	Dioclerus malayensis
+304=	2	E. alitophrosyne
+304=	2	Epimixia veteris C.J.D. Drake
+304=	2	Epimixia vulturna &#40;Kirkaldy&#41;
+304=	2	Euander nr. lacertosus
+304=	2	Fontejus westraliensis
+304=	2	G004 &#40;AmoukM&#41; S003
+304=	2	Gulacapsus novoguiensis Schuh
+304=	2	Helopeltis fasciaticollis Poppius, 1915
+304=	2	Helopeltis pernicalis
+304=	2	Inoma sp.16
+304=	2	Kraussella albomaculatus &#40;Carvalho&#41;
+304=	2	Leucophoroptera novoirlandense Schuh, det. R.T. Schuh 1982
+304=	2	Leucophorotera kangarooina, det. K. Menard 2010
+304=	2	Lygus kusaiensis Carvalho, 1956; Micromimetus kusaiensis &#40;Carvalho, 1956&#41;
+304=	2	Lygus trukensis Carvalho, 1956; Micromimetus trukensis &#40;Carvalho, 1956&#41;
+304=	2	Mertila malayensis
+304=	2	Micromimetus babelthuapensis &#40;Carvalho, 1956&#41;
+304=	2	Micromimetus pacificus Poppius 1914
+304=	2	Micromimetus ponapensis &#40;Carvalho, 1956&#41;
+304=	2	Micromimetus similaris Balukjian and Schwartz
+304=	2	Micromimetus similaris Balukjian and Schwartz, 2010
+304=	2	Oecophyllodes bipunctatus Schwartz and Cassis, 2003
+304=	2	Ommatodema sp_n_g
+304=	2	Ommatodemella brandi Schwartz and Cassis
+304=	2	Paracopium australicum
+304=	2	Paracopium australicus
+304=	2	Paramixia
+304=	2	Phatnoma Tindalei paratype, Sinalda tindalei
+304=	2	Physatochila irregularis Hacker
+304=	2	Porphyrodema flavolineatum T.G. Campbell 1963
+304=	2	Pulvilliphylus n. sp. 2 &#40;nr cuneotinctus or rubritinctus&#41;
+304=	2	Raeyria gearyi
+304=	2	Ragwelellus indonesicus Carvalho and Wallerstein, 1979
+304=	2	Ragwelellus magnificus Carvalho, 1981
+304=	2	Ragwelellus sp
+304=	2	Ragwellus indonesicus Carvalho and Wallerstein, 1979
+304=	2	Rayieria gearyi
+304=	2	Sagittacopula carvlhoi
+304=	2	Sagittacopula rufescens
+304=	2	Scholtzicoris linnavuorii Schuh
+304=	2	Schuhirandella fulva Namyatova and Cassis, 2013
+304=	2	Sejanus albisignatus &#40;Knight&#41;, det G.F. Gross 1977
+304=	2	Sejanus albisignatus &#40;Knight&#41;, det. R.T. Schuh 1982
+304=	2	Sejanus femoralis Carvalho and Gross, det. K. Menard 2010
+304=	2	Sejanus fijiensis Schuh, det. R.T. Schuh 1982
+304=	2	Sejanus funerioides Schuh, det. R,T. Schuh 1982
+304=	2	Sejanus howardi
+304=	2	Sejanus mcdonaldi Carvalho and Gross, det. Carvalho and Gross 1978
+304=	2	Sejanus meridionalis Carvalho and Gross, det. G.F. Gross 1977
+304=	2	Sejanus neofunereus Schuh, det. R.T. Schuh 1982
+304=	2	Sejanus novacaledonicus Schuh
+304=	2	Sejanus occidentalis Carvalho and Gross
+304=	2	Sejanus probably vividus, det. K. Menard 2010
+304=	2	Trichocephalocapsus albofasciatus Schuh
+304=	2	Trichocephalocapsus albofasciatus Schuh, det K. Menard 2008
+304=	2	Trichocephalocapsus sp.
+304=	2	Volkeliopsis mindanao
+304=	2	Wallabicoris coolabah Schuh and Pedraza
+304=	2	Wallabicoris norsemanius Schuh and Pedraza
+304=	2	Wumea cassisi
+383=	1	&#40;Paramixia ? australis n.sp.&#41;
+383=	1	Abuyogocoris tawitawi
+383=	1	Acorrhinium bismarkensis
+383=	1	Acrorrhinium spicatus Distant
+383=	1	Aikenia latevagans Carvalho and Gross
+383=	1	Aitkenia cantrelli
+383=	1	Aitkenia cantrelli Carvalho and Gross
+383=	1	Aitkenia grandis Carvalho and Gross, det. Carvalho and Gross 1977
+383=	1	Aitkenia latevagans Carvalho and Gross, det. G.F. Gross 1978
+383=	1	Aitkenia monteithi Carvalho and Gross, det G.F. Gross 1977
+383=	1	Aitkenia sp.
+383=	1	Aitkenia uptoni Carvalho and Gross, det. Gross and Carvalo 1976
+383=	1	Arafuramiris dreikikir Schuh, det. K. Menard 2009
+383=	1	Arafuramiris gressitti
+383=	1	Arafuramiris jimmi Schuh, det. K. Menard 2008
+383=	1	Arafuramiris sp., det K. Menard 2010
+383=	1	Arafuramiris sp., det. G. Cassis 1992
+383=	1	Armachanus spicatus Distant
+383=	1	Arthriticus eugeniae Bergroth, 1923
+383=	1	Au_Phylini_LgP sp. 212?
+383=	1	Ausejanus albisignatus &#40;Knight&#41;, det. K. Menard 2007
+383=	1	Ausejanus albisignatus &#40;Knight&#41;, det. K. Menard 2009
+383=	1	Ausejanus femoralis &#40;Carvalho &#38; Gross&#41;, det. K. Menard 2008
+383=	1	Ausejanus hearti, det. K. Menard 2010
+383=	1	Ausejanus nr. vividus
+383=	1	Ausejanus nr. vividus, det. K. Menard 2010
+383=	1	Ausejanus ruby &#40;MS&#41;
+383=	1	Ausejanus sp.
+383=	1	Austromirini
+383=	1	Austromiris australianus
+383=	1	Austromiris luteocuneatus
+383=	1	Austromiris luteoscutellalus
+383=	1	Biromiris bulolo
+383=	1	Biromiris cyclops Schuh
+383=	1	Blesingia gularis Carvalho and Gross, det. K. Menard 2008
+383=	1	Blesingia gularis Carvalho and Gross, det. K. Menard 2009
+383=	1	Blesingia latevagans Poppius, det J.C.M Carvalho
+383=	1	Blesingia sp.
+383=	1	Blesingia tamborinea Carvalho and Gross, det. K. Menard 2010
+383=	1	C. Socia det G. Cassis
+383=	1	C. variegatus det. Carvalho 1973
+383=	1	Caloloma uhleri
+383=	1	Campylomma irianica Schuh
+383=	1	Cantacader leai
+383=	1	Carvalho named P. longipilosus n.sp., unpublished
+383=	1	Carvalho named as P. collessi n.sp., unpublished
+383=	1	Carvalho named as P. longipilosus n.sp., unpublished
+383=	1	Carvalho named as P. viridipennis n. sp., unpublished
+383=	1	Collessicoris bellissimus Carvalho and Gross, det. G.F. Gross 1977
+383=	1	Collessicoris bellissimus Carvalho and Gross, det. K. Menard 2010
+383=	1	Collessicoris sp., det. K. Menard 2010
+383=	1	Compselita secunda Hacker
+383=	1	Compseuta ampliatus
+383=	1	Coridromoides carinatus Carvalho 1956
+383=	1	Ctypomiris sp. det. R.T. Schuh
+383=	1	Cyrtorhinus vitiensis Usinger
+383=	1	Cysteochila parada camelinus
+383=	1	D. versicolor
+383=	1	Daerlac
+383=	1	Daerlac apicalis
+383=	1	Dasymiris schoutendeni
+383=	1	Decomia appendix
+383=	1	Decomia pendleburyi Schuh
+383=	1	Decomioides bacchusi Schuh
+383=	1	Decomioides philippinensis
+383=	1	Det. Coridromius sp. Cassis2002
+383=	1	Det. Coridromius sp. G. Cassis 1997
+383=	1	Dieuches raphaeli Ev.
+383=	1	Dieuches raphaeli Evans
+383=	1	Dilatops fici
+383=	1	Dilatops fici Weirauch ?
+383=	1	Diplazicoris lombokianus Konstantinov
+383=	1	Dolichomiris linearis Reuter, 1882
+383=	1	Ectrychotes sp.
+383=	1	Ellenia philippinensis
+383=	1	Epimixi veteris Drake
+383=	1	Epimixi vittata Horv
+383=	1	Epimixia nigripes dysmica
+383=	1	Epimixia veteris
+383=	1	Epimixia veteris Drake
+383=	1	Epimixia vittata Horv
+383=	1	Epimixia vulturna &#40;kirkaldy&#41;
+383=	1	Eritingis trivirgata
+383=	1	Euander lacertosus &#40;Erichson, 1842&#41;
+383=	1	Euander sp.
+383=	1	Eucerocoris basifer
+383=	1	Eucerocoris basifer &#40;Walker, 1873&#41; by Woodward in 1961
+383=	1	Eucerocoris braconoides
+383=	1	Eupachypeltis pilosus Poppius, 1915
+383=	1	Felisacus amboinnae Woodward, 1954
+383=	1	Felisacus elegnatulus &#40;Reuter, 1904&#41;
+383=	1	Felisacus meilingae Namyatova and Cassis
+383=	1	Felisacus primus
+383=	1	G004 S022
+383=	1	G004 S022 &#40;AnoukM&#41;
+383=	1	G032 S001
+383=	1	Gelchossa elegans
+383=	1	Gonycentrum socium
+383=	1	Gulacapsus novoguinensis Schuh, det. K. Menard 2008
+383=	1	Gulacapsus sp.
+383=	1	Gunadhya rubrofasciata
+383=	1	Gyrophallus n. sp. 1
+383=	1	Halticus chrysolepis Kirkaldy, 1904
+383=	1	Hekista laudator Kirkaldy 1902
+383=	1	Helopeltis bradyi Waterhouse, 1886
+383=	1	Helopeltis calvifer &#40;Walker, 1871&#41;
+383=	1	Helopeltis cinchonae Mann, 1907
+383=	1	Helopeltis cinconae Mann, 1907
+383=	1	Helopeltis theviora Waterhouse, 1886
+383=	1	Idatiella albisignatus Knight
+383=	1	Identified as Eucerocoris basifer &#40;Walker, 1973&#41; by Woodward im Jan, 1961
+383=	1	Inoma sp.16a Cassis and Symonds
+383=	1	Inoma sp.18
+383=	1	Inoma sp.19 Cassis and Symonds
+383=	1	Ischnotingis setosa
+383=	1	Isopeltus tenuicornis
+383=	1	J.A. Slater collection
+383=	1	Laryngodus cervantes Slater, Schuh, Cassis, Johnson, and Pedraza
+383=	1	Lasiolabops cosmopolitas Schuh
+383=	1	Lasiolabops kokoda Schuh
+383=	1	Lasiolabops nr irianicus Schuh, det. K. Menard 2009
+383=	1	Lasiolabops nr irianicus Schuh, det. R.T. Schuh 1982
+383=	1	Leucophoroptera
+383=	1	Leucophoroptera cavenda Carvalho and Gross
+383=	1	Leucophoroptera fasciatipennis Poppius, det. K. Menard 2009
+383=	1	Leucophoroptera nitidior Carvalho and Gross, det. G.F. Gross 1981
+383=	1	Leucophoroptera philippinensis Schuh, det. R.T. Schuh 1982
+383=	1	Leucophoroptera quadrimaculata Poppius, det. R.T. Schuh
+383=	1	Lygus dybasi Carvalho, 1956
+383=	1	Lygus ponapensis Carvalho, 1956; Micromimetus ponapensis &#40;Carvalho, 1956&#41;
+383=	1	M. grossi n.sp. &#40;J.C.M. Carvalho&#41;
+383=	1	M.B. Malipatil 198?
+383=	1	Mansoniella sp.
+383=	1	Megadrymus sp. B
+383=	1	Megadrymus sp. D
+383=	1	Megadrymus terrareginae
+383=	1	Micromimetus muiri &#40;Poppius, 1914&#41;
+383=	1	Micromimetus n. sp. &#35;1 nr norfolkensis Balukjian and Schwartz, 2010
+383=	1	Micromimetus newcaledoniaensis Balukian and Schwartz
+383=	1	Micromimetus newcaledoniaensis Balukjian &#38; Schwartz 2010
+383=	1	Micromimetus norfolkensis Balukjian and Schwartz, 2010
+383=	1	Micromimetus pacificus  &#40;Poppius, 1914&#41;
+383=	1	Monaloniini sp.
+383=	1	Montrouzier 1861, then Signoret 1862
+383=	1	Myrmecotingis leai Hacker, 1928
+383=	1	Nemesianus nigroruber Distant
+383=	1	Neopachysta subopaca
+383=	1	Orthotylinae
+383=	1	Othotylini
+383=	1	Pachypeltis annulipes Poppius, 1912
+383=	1	Pachypeltis politum &#40;Walker, 1873&#41;
+383=	1	Palaucoris navaguineae
+383=	1	Pamera cephalotes
+383=	1	Pamera nigripes, Det. by A. Musgrave
+383=	1	Papuamimus iranicus Schuh
+383=	1	Papuamimus irianicus Schuh
+383=	1	Papuamimus maai Schuh
+383=	1	Papuamimus maai Schuh, det. K. Menard 2011
+383=	1	Parada taeniophora A. Musgrave
+383=	1	Parada taeniophora H. Hacker
+383=	1	Paramixia pacificae
+383=	1	Paurolygus scutatus Knight, 1935
+383=	1	Phatnoma tindalei paratype, Sinalda tindalei
+383=	1	Physatocheila irregularis
+383=	1	Physatocheila objicis
+383=	1	Pilophorus alstoni Schuh
+383=	1	Platyngomiris typicua &#40;China and Carvalho, 1951&#41;
+383=	1	Porander scudderi Gross
+383=	1	Porophora excellens Carvalho and Gross
+383=	1	Porphyrodema flavolineatum T.G. Campbell
+383=	1	Pulvilliphylus n. sp. 1 with contrasting pale cuneus
+383=	1	Ragewelellus pallipes &#40;Odhiambo, 1962&#41;
+383=	1	Ragewelellus sp.
+383=	1	Ragwelellus indonesicus Carvalho &#38; Wallerstein, 1979
+383=	1	Ragwelellus thetus &#40;Kirkaldy, 1908&#41;
+383=	1	Ragwelleus sp.
+383=	1	Rayera queenslandica
+383=	1	Rayeria acacia
+383=	1	Rayieria basifer
+383=	1	Rayieria decorata Namyatova and Cassis
+383=	1	Rayieria decorata Namyatova and Cassis, 2013
+383=	1	Rayieria deocrata
+383=	1	Rayieria frontalis Namyatova and Cassis, 2013
+383=	1	Rayieria gerayi Namyatova &#38; Cassis, 2013
+383=	1	S. queenlandensis Musgrave
+383=	1	S. queenslandensis Hacker
+383=	1	Schuhirandella fulva Namyatova &#38; Cassis, 2013
+383=	1	Sejanus albisignatus &#40;Knight&#41;, det. G.F. Gross 1977
+383=	1	Sejanus albisignatus &#40;Knight&#41;, det. J.C.M. Carvalho
+383=	1	Sejanus albisignatus &#40;Knight&#41;, det. J.C.M. Carvalho 1982
+383=	1	Sejanus albisignatus Knight, det. K. Menard 2008
+383=	1	Sejanus brittoni Carvalho and Gross
+383=	1	Sejanus brittoni Carvalho and Gross, det. Carvalho and Gross 1977
+383=	1	Sejanus ecnomioides Schuh
+383=	1	Sejanus femoralis, det. K. Menard 2007
+383=	1	Sejanus funerellus Schuh
+383=	1	Sejanus howardae Carvalho and Gross, det. K. Menard 2007
+383=	1	Sejanus mcdonaldi
+383=	1	Sejanus mcdonaldi Carvalho and Gross, det. Carvalho and Gross 1982
+383=	1	Sejanus meridionalis Carvalho and Gross
+383=	1	Sejanus meridionalis Carvalho and Gross, det. K. Menard 2007
+383=	1	Sejanus meridionalis Carvalho and Gross, det. K. Menard 2010
+383=	1	Sejanus nsp.
+383=	1	Sejanus occidentalis Carvalho and Gross, det. K. Menard 2010
+383=	1	Sejanus sp. R.T. Schuh
+383=	1	Sejanus sp., det K. Menard 2010
+383=	1	Sejanus sp., det. R.T. Schuh
+383=	1	Sejanus spiculatus Schuh, det. R.T. Schuh 1982
+383=	1	Sejanus tasmaniae
+383=	1	Sejanus vividus Carvalho and Gross, det. G.F. Gross 1977
+383=	1	Sejanus vividus Carvalho and Gross, det. K. Menard 2009
+383=	1	Solomonomimus roroni Schuh
+383=	1	Stenotus sp.
+383=	1	Stephanitis queenslandensis
+383=	1	Teleonemia lantanae Musgrave
+383=	1	Tichorhinus vitensis Kirkaldy
+383=	1	Tingis spinicollis
+383=	1	Trichocephalocapsus immaculatus Schuh
+383=	1	Udeocoris scudderi
+383=	1	Volkelius sp.
+383=	1	Volkelius sulcatus
+383=	1	Wallabicoris cassis Schuh and Pedraza
+383=	1	Wallabicoris spyridium Schuh and Pedraza
+383=	1	Watarrkamiris sp_n_nr_pallidus Schwartz
+383=	1	Zanessa flavolineata
+383=	1	Zanessa rubrocuneata J.C.M. Carvalho
+383=	1	det. J.C.M. Carvalho as Psallus nigristernus n. sp.
+383=	1	labelled "Type Nesotingis indigena
+383=	1	maybe A. grandis female, det. K. Menard 2010
+383=	1	near Aitkenia monteithi, but different shaped frons
+383=	1	near Coridromius det. Schuh 1976
+383=	1	prev. Austrocylpeus elongatus
+383=	1	prev. Austromiris roseolinearus
+383=	1	prev. Carencoris fasciatus
+383=	1	prev. Zanessa bellissima
+
+62083	TOTAL

@@ -1,0 +1,154 @@
+rank	count	State or province
+
+1	28753	Western Australia
+2	6245	New South Wales
+3	5917	South Australia
+4	5624	Queensland
+5	4479	Northern Territory
+6	2775	Victoria
+7	1369	Tasmania
+8	462	Australian Capital Territory
+9	449	Morobe Province
+10	356	West Nusa Tenggara
+11	355	Madang Province
+12	330	Guadalcanal
+13	329	Province Sud
+14	321	Milne Bay Province
+15	293	Province Nord
+16	235	Irian Jaya
+17	233	Negros Oriental
+18	227	San Cristoval
+19	208	Pahang
+20	193	Sulawesi Utara
+21	182	Malaita
+22=	164	Northern Province
+22=	164	Santa Ysabel
+24	134	Shefa
+25	125	Viti Levu
+26	116	Western Province
+27	114	New Britain Province
+28	112	Sabah
+29=	88	Auckland
+29=	88	none
+31	80	West Sepik Province [Sandaun]
+32	73	Mindanao
+33	66	New Ireland Province
+34	65	Central Division
+35	60	Tafea
+36	57	Dyaul
+37	54	Central Province
+38	47	Florida Group
+39	43	Papua
+40	42	East New Britain Province
+41	41	Sarawak
+42=	38	Davao del Sur
+42=	38	Norfolk Island
+42=	38	unknown
+45=	37	Eastern Highlands
+45=	37	West Papua
+47	35	Hawke's Bay
+48	34	Manus
+49	31	Bougainville Province
+50	30	Penang
+51	29	Selangor
+52	28	Kolombangara
+53	27	Maluku
+54=	26	Kuala Lumpur
+54=	26	Penama
+56=	25	Sanma
+56=	25	Western Highlands
+58	22	Java
+59	20	New Georgia Islands
+60	19	North Sumatra
+61	18	Province des Iles Loyauté
+62=	17	Bougainville
+62=	17	Malampa
+62=	17	Western Division
+65	15	Misamis Oriental
+66=	14	Enga Province
+66=	14	West Irian
+66=	14	West New Britain
+69=	13	Kosrae
+69=	13	Vanua Levu
+69=	13	Vella Lavella
+72=	12	Nelson
+72=	12	Pohnpei
+72=	12	Sumatera Utara &#40;North Sumatra&#41;
+72=	12	Tawitawi Group
+76	11	Kedah
+77	10	Mindano
+78=	9	Lampung
+78=	9	Northern Division
+78=	9	Singapore
+78=	9	Yap
+82=	8	North Auckland
+82=	8	Palawan
+82=	8	Southern Highlands
+82=	8	Torba
+86=	7	Chuuk
+86=	7	Koror
+88=	6	Espiritu Santo Is.
+88=	6	Moala
+88=	6	Tongariro
+91=	5	Chimbo Province
+91=	5	East Java
+91=	5	Makira-Ulawa
+91=	5	Nakhon Si Thammarat
+91=	5	Rewa
+91=	5	Surigao
+97	4	East Sepik Province
+98=	3	Agusan del Sur
+98=	3	Biak Island
+98=	3	Kalimantan Timur
+98=	3	Malaya
+98=	3	Otago
+98=	3	Putrajaya
+98=	3	South Kalimantan
+98=	3	Wairarapa
+98=	3	Wellington
+107=	2	Bali
+107=	2	Central Java
+107=	2	Kelantan
+107=	2	Marlborough
+107=	2	Ngatpang
+107=	2	Oro Province
+107=	2	Ovalau
+107=	2	Sulu
+107=	2	Sumatra
+107=	2	Sumatra Aceh
+107=	2	West Java
+118=	1	Angeles City
+118=	1	Ba
+118=	1	Banten
+118=	1	Basilan
+118=	1	Bay of Plenty
+118=	1	Canterbury
+118=	1	Dunedin
+118=	1	Ifaluk Atoll
+118=	1	Isabel
+118=	1	Johor
+118=	1	Lanao del Norte
+118=	1	Lau Group
+118=	1	Melaka
+118=	1	Mono Isl.
+118=	1	Nanggroe Aceh Darussalam
+118=	1	National Capital District
+118=	1	Negeri Sembilan
+118=	1	Ngaraard
+118=	1	Nicobar Islands
+118=	1	None
+118=	1	Paniai
+118=	1	Peleliu
+118=	1	Perak
+118=	1	SE Borneo
+118=	1	South Cotabato
+118=	1	Sulawesi
+118=	1	Sulawesi Tengah
+118=	1	Sumatera Barat &#40;West Sumatra&#41;
+118=	1	Temburong District
+118=	1	Three Kings Island
+118=	1	Tolikara
+118=	1	West Sepik Prov.
+118=	1	Zamboanga del Norte
+
+62083	TOTAL

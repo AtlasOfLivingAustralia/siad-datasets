@@ -1,0 +1,12 @@
+rank	count	DeterminationVB
+
+1	26468	NULL
+2	53	Micromimetus newcaledoniaensis new species manuscript name
+3	21	Orthotylus sidnicus
+4	9	originally det as Ommatodema sp.; converted to O. sp_n_c by MDS
+5=	1	Cysteochila Parada taeniophora
+5=	1	Jozefus sp.
+5=	1	Paracopium australicum
+5=	1	Rayieria albaornata Namyatova and Cassis, 2013
+
+26555	TOTAL

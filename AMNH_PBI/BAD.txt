@@ -1,0 +1,3 @@
+
+AMNH_PBI00047084 SUGGESTED FIX: 'change latitude sign' for following:
+Gn_ms_Cailloumiris ms_k31	INDONESIA	West Papua	Vogelkop &#40; Bird's Head Peninsula&#41;	Bomberi	3.00000	132.01667	800		0000-00-00	J. L. Gressitt	1780233	1	Adult Male	None									Bernice P. Bishop Museum			_end	

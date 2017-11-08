@@ -1,0 +1,28 @@
+rank	count	Depository
+
+1	14429	Australian Museum
+2	5344	University of New South Wales
+3	2264	American Museum of Natural History
+4	1210	Western Australian Museum, Perth
+5	1073	Queensland Museum, Brisbane
+6	500	Australian National Insect Collection
+7	495	University of Queensland
+8	344	South Australian Museum
+9	265	Museum of Victoria
+10	233	Tasmanian Museum and Art Gallery
+11	147	Department of Primary Industries, Parks, Water and Environment
+12	53	Queensland Primary Industries Insect Collection &#40;now QDPC&#41;
+13	52	Museum and Art Gallery of the Northern Territory
+14	41	California Academy of Sciences
+15=	25	Northern Territory Museum
+15=	25	United States National Museum of Natural History
+17	23	Bernice P. Bishop Museum
+18	13	Western Australian Department of Agriculture, Entomology Div.
+19	9	UNKNOWN
+20	5	Museum of the Northern Territory
+21	2	Natural History Museum, London
+22=	1	Department of Agriculture, Orange. NSW
+22=	1	Royal Ontario Museum
+22=	1	University of British Columbia, Spencer Entomological Museum
+
+26555	TOTAL

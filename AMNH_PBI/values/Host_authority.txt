@@ -1,0 +1,321 @@
+rank	count	Host authority
+
+1	27097	NULL
+2	3523	F. Muell.
+3	3521	R. Br.
+4	1511	Endl.
+5	1346	Benth.
+6	1166	Schauer
+7	1102	Lindl.
+8	1094	Diels
+9	1058	DC.
+10	941	W. Fitzg.
+11	781	Labill.
+12	623	Steetz
+13	514	Meisn.
+14	432	&#40;F. Muell.&#41; Carolin
+15	426	&#40;Diels&#41; L.A.S. Johnson
+16	409	R. Br. ex Sims
+17	370	Miq.
+18	359	&#40;Vent.&#41; DC.
+19	355	Turcz.
+20	353	&#40;Endl.&#41; A.S. George
+21	341	&#40;F. Muell.&#41; Druce
+22	333	E.Pritz.
+23	293	&#40;F. Muell.&#41; R.O. Makinson
+24	292	Paul G.Wilson
+25	280	&#40;Otto &#38; F.Dietr.&#41; L.A.S.Johnson
+26	277	Chinnock ms
+27	265	Joy. Thomps. &#38; L.A.S. Johnson
+28	263	Chinnock
+29	258	&#40;E. Pritz.&#41; J.W. Green
+30	242	&#40;Willd.&#41; Sweet
+31	239	S. Moore
+32	236	De Wild. [introduced]
+33	222	L.
+34	219	J. Gay
+35	218	&#40;Labill.&#41; R. Br.
+36	209	Swartz
+37	203	Moq.
+38	197	Link
+39	193	&#40;Blakely&#41; Danser
+40	191	A.F. Oldfield &#38; F. Muell.
+41	187	R.T. Baker &#38; H.G. Sm.
+42	181	C.A. Gardner
+43	172	Craven
+44	156	E. Pritz.
+45=	150	&#40;Labill.&#41; Steetz.
+45=	150	J. Black
+45=	150	R. Br. ex A. Rich. &#38; Rich.
+48	148	Carolin
+49	147	&#40;Labill.&#41; Moq.
+50=	145	&#40;F. Muell.&#41; Benth.
+50=	145	Hook
+52	143	Maiden &#38; Blakely
+53	142	&#40;Miq.&#41; L.A.S. Johnson
+54	137	F.Muell. ex Miq.
+55	134	&#40;Sol. ex Ait.&#41; Sm.
+56=	132	&#40;Behr&#41; Tiegh.
+56=	132	&#40;Sol. ex Gaertner&#41; Smith
+58	130	F. Muell. ex L. Johnson
+59	129	&#40;DC.&#41; Benth.
+60	126	&#40;Sieber ex Spreng.&#41; L. Johnson
+61=	124	&#40;F. Muell.&#41; F. Muell.
+61=	124	K.R. Thiele
+63	123	Meissner
+64	121	&#40;Salisb.&#41; L.A.S.Johnson
+65	117	S.T. Reynolds
+66=	115	&#40;R.Br.&#41; F.Muell.
+66=	115	Willd. ex H.L. Wendl.
+68=	105	&#40;Gaudich.&#41; F. Muell.
+68=	105	&#40;Labill.&#41; DC
+70=	104	&#40;Miq.&#41; Tiegh.
+70=	104	&#40;Schott &#38; Endl.&#41; R. Br.
+72	101	Harv.
+73	100	&#40;Labill.&#41; Benth.
+74	99	Sm.
+75	98	&#40;Gaudich.&#41; Benth.
+76	97	&#40;Endl.&#41; Benth.
+77	93	Craven ms
+78=	91	&#40;Endl.&#41; Schauer
+78=	91	Hotchk.
+78=	91	McGill.
+78=	91	Sond.
+82=	89	&#40;DC.&#41; Baill.
+82=	89	Hook. subsp. temulenta P. Olde &#38; N. Marriott
+84	88	&#40;Nees&#41; Paul G. Wilson
+85	87	Aellen
+86	85	&#40;Lindley&#41; Tieghem
+87	84	Hueg.
+88	83	G. Forst.
+89	79	Lindley
+90	77	Meissn.
+91=	76	Reynolds
+91=	76	Willd.
+93	75	&#40;DC.&#41; Sweet
+94	74	Lamont
+95=	70	A.S. George
+95=	70	Barlow
+95=	70	E.M. Benn.
+98=	69	&#40;F. Muell.&#41; P.G. Wilson
+98=	69	&#40;Pilg.&#41; Lazarides
+100=	68	&#40;Hook.&#41; Reissek
+100=	68	C.T.White
+102=	67	&#40;Benth.&#41; Paul G. Wilson
+102=	67	&#40;Schltdl.&#41; A.R. Bean
+104	66	Hook.
+105	64	&#40;Moq.&#41; P.G. Wilson
+106	63	&#40;Lehm. ex Miq.&#41; Tieghem
+107	61	&#40;Labill.&#41; Sm.
+108=	59	&#40;Labill.&#41; Sweet
+108=	59	&#40;Lindl.&#41; Craven
+110=	58	&#40;Meisn.&#41; Benth.
+110=	58	Steud.
+112=	57	&#40;Endl.&#41; F. Muell.
+112=	57	&#40;Smith&#41; Benth.
+112=	57	&#40;Sw.&#41; Schott
+115=	56	&#40;Blakely&#41; Barlow
+115=	56	Anderb.
+117=	53	&#40;F. Muell.&#41; L.A.S. Johnson
+117=	53	E.M. Bennett
+119=	52	&#40;Bonpl.&#41; DC.
+119=	52	Roxb.
+121	51	Dehnh.
+122	50	Maslin
+123=	48	&#40;Steetz&#41; Benth.
+123=	48	Brooker &#38; Hopper
+123=	48	L. A. Craven
+126=	47	&#40;R. Br.&#41; F. Muell.
+126=	47	J.R.Forst. &#38; G.Forst.
+128	46	F. Muell. ex Reissek
+129	44	&#40;Endl.&#41; Fryxell
+130=	43	&#40;L.&#41; Willd.
+130=	43	J.G. West
+132	42	R.Br.
+133	41	&#40;L.&#41; Gaertn.
+134=	40	&#40;Lindley&#41; Benth.
+134=	40	&#40;Macklin&#41; L.A.S. Johnson
+134=	40	&#40;R. Br.&#41; A. DC.
+137=	39	&#40;DC.&#41; Randell
+137=	39	F. Muell. ex Benth.
+139	38	&#40;Carriere&#41; de Laub.
+140	37	&#40;D.J.Carr &#38; S.G.M.Carr&#41; K.D.Hill &#38; L.A.S. Johnson
+141=	36	&#40;R. Br.&#41; B.G. Briggs &#38; L.A.S. Johnson
+141=	36	&#40;Sm.&#41; R. Br.
+141=	36	M.W. McDonald &#38; Maslin
+144=	35	&#40;E. Pritz.&#41; Rye &#38; Trudgen
+144=	35	&#40;Gaudich.&#41; Fryxell
+144=	35	Lehm.
+147=	34	&#40;Diels&#41; Lander ms
+147=	34	&#40;Parl.&#41; F.M.Bailey
+147=	34	Dunal ex Poir.
+150=	33	&#40;Lindl.&#41; Benth.
+150=	33	L.A.S. Johnson
+150=	33	Maiden
+153	32	Scop.
+154=	31	&#40;Forssk.&#41; Vierh.
+154=	31	A.Cunn. ex G.Don
+156=	30	&#40;F. Muell.&#41; Craven
+156=	30	&#40;R. Br.&#41; Threlfall
+156=	30	Poir.
+159	29	&#40;Paul G. Wilson&#41; Paul G. Wilson
+160	28	F.Muell. ex Benth.
+161=	27	&#40;R. Br. ex DC.&#41; Hoogl.
+161=	27	Domin
+163=	26	Cav.
+163=	26	N.G. Walsh
+163=	26	Poiss. ex Pancher &#38; Sebert
+166	25	Paul G. Wilson
+167=	24	&#40;Endl.&#41; F.Muell.
+167=	24	&#40;Miq.&#41; Tieghem
+169=	23	&#40;Desf.&#41; DC.
+169=	23	&#40;Vent.&#41; L.A.S. Johnson
+169=	23	Hook.f.
+172=	22	&#40;Labill.&#41; H.L. Wendl.
+172=	22	Toelken
+174=	21	&#40;Parl.&#41; S.T.Blake
+174=	21	&#40;R. Br.&#41; Ostenf.
+176=	20	&#40;Benth.&#41; F. Muell.
+176=	20	&#40;Lehm.&#41; Benth.
+176=	20	Munir
+179=	19	&#40;J.S. Beard 6008&#41;
+179=	19	&#40;Symon&#41; Randell
+179=	19	Sieber ex Spreng.
+182=	18	&#40;Aiton&#41; L.A.S. Johnson
+182=	18	&#40;Cav.&#41; S.T. Blake
+182=	18	Kodela, Tindale &#38; D.A. Keith
+182=	18	R. Br. ex Benth.
+186=	17	&#40;L'Her.&#41; Willd.
+186=	17	&#40;S.Moore&#41; Paul G. Wilson
+186=	17	Halford
+189=	16	&#40;Desf.&#41; Druce
+189=	16	&#40;R. Br. ex DC.&#41; Benth.
+189=	16	&#40;Sol. ex Gaertn.&#41; Sm.
+189=	16	Klatt
+189=	16	R.S. Cowan &#38; Maslin
+189=	16	Rudge
+189=	16	Symon
+196=	15	&#40;F. Muell.&#41; Tieghem
+196=	15	A. Cunn. ex G. Don
+196=	15	f. densa Munir
+199=	14	&#40;J. Black&#41; Ulbr.
+199=	14	&#40;Rchb.&#41; Schauer
+199=	14	F.Muell.
+202=	13	&#40;Benth.&#41; Diels
+202=	13	&#40;F. Muell.&#41; E. Pritz.
+202=	13	&#40;F. Muell.&#41; F. Muell. ex J.M. Black
+202=	13	&#40;Fenzl&#41; Tieghem
+202=	13	F. Muell
+202=	13	Raddi
+208=	12	&#40;Domin&#41; Henrard
+208=	12	Desf. ex Vent.
+210=	11	&#40;Fenzl&#41; Benth.
+210=	11	D. Don
+210=	11	J.M.Black
+210=	11	R.T. Baker
+214=	10	&#40;Diels&#41; Paul G. Wilson
+214=	10	&#40;Gaudich. ex DC.&#41; Randell
+214=	10	&#40;R. Br.&#41; A.J. Scott
+214=	10	&#40;S. Moore&#41; B.R. Randell
+214=	10	&#40;W. Fitzg.&#41; Craven
+219=	9	&#40;Blume&#41; Forman
+219=	9	&#40;R.T. Baker&#41; Welch, Coombs &#38; McGlynn
+219=	9	&#40;S. Moore&#41; Chinnock
+219=	9	Bailey
+223=	8	&#40;Benth.&#41; K.A.Sheph. &#38; Paul G.Wilson
+223=	8	&#40;Willd.&#41; Paul G. Wilson
+223=	8	Forst.
+223=	8	L.A.S.Johnson
+227=	7	&#40;F. Muell.&#41; Rye
+227=	7	&#40;Gaertn.&#41; F. Muell.
+227=	7	&#40;L.&#41; T. Norl.
+227=	7	&#40;S.Moore&#41; Danser
+227=	7	&#40;Schultes &#38; J.H. Schultes&#41; Tieghem
+227=	7	A.Cunn. ex R.Br.
+227=	7	Desf.
+227=	7	J.W. Green
+227=	7	Keighery
+227=	7	Regel
+237=	6	&#40;DC.&#41; J.G. West
+237=	6	&#40;Lam.&#41; de Wit
+237=	6	&#40;Pancher &#38; Seb.&#41; Markgr.
+237=	6	&#40;Poir.&#41; Merr. &#38; L.M. Perry
+237=	6	&#40;Turcz.&#41; J.W. Green
+237=	6	&#40;Vent.&#41; R.Br.
+243=	5	B.L. Burtt
+243=	5	Enol.
+243=	5	N.A.Wakef.
+246=	4	&#40;A. Cunn. ex DC.&#41; Anderb.
+246=	4	&#40;F. Muell.&#41; F. Muell. ex Benth.
+246=	4	&#40;W. Fitzg.&#41; Pedley
+246=	4	A. Cunn.
+246=	4	F. Muell. ex Miq.
+246=	4	Hoogland
+246=	4	J.M. Black
+246=	4	Rye
+254=	3	&#40;Benth.&#41; Domin
+254=	3	&#40;C.A. Gardner&#41; L.A.S. Johnson
+254=	3	&#40;F. Muell.&#41; Baker f.
+254=	3	&#40;F. Muell.&#41; Merr.
+254=	3	&#40;F. Muell.&#41; T.G. Hartley
+254=	3	&#40;J.M. Black&#41; P.G. Wilson
+254=	3	&#40;K. Schum. &#38; Lauterb.&#41; B. Hyland
+254=	3	&#40;L.&#41; L.
+254=	3	&#40;L.S.Sm.&#41; Chinnock
+254=	3	&#40;Parl.&#41; F.Muell.
+254=	3	A. Cunn. ex Benth.
+254=	3	F. Muell. ex Craven
+254=	3	Kraenzl.
+254=	3	Ostenf.
+254=	3	P.I. Forst.
+254=	3	Pedley
+254=	3	Rye &#38; Trudgen
+254=	3	Sieber ex DC.
+272=	2	&#40;DC.&#41; Craven
+272=	2	&#40;F. Muell.&#41; A.J. Scott
+272=	2	&#40;F. Muell.&#41; Rye &#38; Trudgen
+272=	2	&#40;Knight&#41; Domin
+272=	2	&#40;L.&#41; Kuntze
+272=	2	&#40;R. Br.&#41; Roberty
+272=	2	B.L. Rye
+272=	2	Blake
+272=	2	Hawkeswood
+272=	2	Hewson
+272=	2	Maslin &#38; Buscumb
+272=	2	N.G.Marchant &#38; Keighery ms
+272=	2	Steen
+272=	2	Summerh.
+286=	1	&#40;A.S. George 11346&#41;
+286=	1	&#40;Aiton&#41; Hassk.
+286=	1	&#40;Barlow&#41; Craven
+286=	1	&#40;Blume&#41; A.DC.
+286=	1	&#40;Decne.&#41; Mull. Arg.
+286=	1	&#40;Diels&#41; Maiden
+286=	1	&#40;Domin&#41; R.M. Barker
+286=	1	&#40;F.Muell.&#41; F.Muell.
+286=	1	&#40;Forssk.&#41; T.Q. Nguyen
+286=	1	&#40;G.Don&#41; Benth.
+286=	1	&#40;L.&#41; Gaudich.
+286=	1	&#40;Link&#41; Sweet
+286=	1	&#40;Meisn.&#41; M.W. McDonald &#38; Maslin ms
+286=	1	&#40;Paul G.Wilson&#41; K.A.Sheph. &#38; Paul G.Wilson
+286=	1	&#40;Poir.&#41; Nied.
+286=	1	A.T. Lee
+286=	1	Andrews
+286=	1	Carl Meissner
+286=	1	Chappill ms
+286=	1	D.C.
+286=	1	Druce
+286=	1	G. Don
+286=	1	G. Forster ex Willd.
+286=	1	G.Don
+286=	1	Hook f.
+286=	1	Kurz
+286=	1	L. Johnson
+286=	1	Merr. &#38; L.M. Perry
+286=	1	Salisb. &#40;Knight&#41;
+286=	1	Schlecht.
+286=	1	Schlechtd.
+286=	1	Tindale &#38; Maslin
+
+62614	TOTAL

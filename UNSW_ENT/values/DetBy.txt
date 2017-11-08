@@ -1,0 +1,32 @@
+rank	count	DetBy
+
+1	17826	NULL
+2	5782	G. Cassis
+3	907	C. Symonds
+4	385	Celia Symonds
+5	308	Namyatova &#38; Cassis
+6	276	S. Lam
+7	271	G.Cassis
+8	171	Cassis
+9	146	A. Namyatova
+10	93	Nik Tatarnic
+11	80	Schuh and Schwartz
+12	69	J. Karras
+13	67	N. Tatarnic
+14	53	M.D. Schwartz
+15	44	R. T. Schuh
+16	29	N. J. Tatarnic
+17	16	G. F. Gross
+18	7	Cassis &#38; Symonds
+19	5	J.A. Slater
+20	4	M. Wall
+21=	3	G Cassis
+21=	3	c. symonds
+23=	2	H. Hacker
+23=	2	Hacker
+23=	2	M. Steinbauer
+23=	2	T. E. Woodward
+27=	1	Drake
+27=	1	J. C. M. Carvalho
+
+26555	TOTAL

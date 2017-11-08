@@ -1,0 +1,148 @@
+rank	count	HostDet
+
+1	22510	PERTH staff
+2	19800	NULL
+3	5535	NSW staff
+4	2579	Det: Royal Bot Gard. NSW
+5	2515	Field ID
+6	1043	WA Herbarium
+7	748	Perth Staff
+8	637	P.H. Weston 1996
+9	584	RBG staff
+10	520	Perth staff
+11	428	P.G. Wilson 1996
+12	398	field ID
+13	364	B.J. Conn 1996
+14	319	J. Everett May 1996
+15	252	Det: B.M. Wiecek 1996
+16	241	NT Herbarium Staff - Alice Springs
+17	202	B.M. Wiecek 1996
+18	172	NOU Staff
+19	163	Det: B.J. Conn 1996
+20	148	J. Everett 1996
+21	139	R.G. Coveny 1996
+22	133	 PERTH staff
+23	132	 NSW staff
+24	123	K.D. Hill 1996
+25	114	Michael Lovave &#40;LAE herbarium, PNG&#41;
+26	103	Det: P.G. Wilson 1996
+27	98	R.T. Schuh
+28	96	Det: P. G. Wilson 1996
+29	87	B. M. Wiecek 1995
+30	85	B. M. Wiecek
+31	84	NSW Herbarium
+32	81	WA Herbarium Staff
+33	78	yet to be determined - Cassis Lab, UNSW - Bush Blitz
+34	76	in field by G. Cassis
+35	63	undetermined
+36=	62	Det: K.L. Wilson 1997
+36=	62	Det: P.H. Weston 1996
+36=	62	Perth
+39	61	 Det: Royal Bot Gard. NSW
+40=	54	Det: R.G. Coveny 1996
+40=	54	collector
+42	52	Det: K.D. Hill 1996
+43=	46	G. Cassis 1998
+43=	46	In field
+45	45	C. Symonds
+46	44	E.A. Brown 1996
+47	41	field id
+48	37	Det: J. Everett 1996
+49=	36	Field ID; Host 96-147
+49=	36	Royal Bot Gard. NSW
+51	35	Field ID ref. Pye et al. 2003
+52	31	D.C. Godden 1996
+53=	30	Peter Lang - Dept. of Env. &#38; Natural Resources, South Australia
+53=	30	SA Herbarium
+55=	28	B. R. Maslin
+55=	28	botanist - Dept. of Env. &#38; Natural Resources, South Australia
+57	27	T.D. Macfarlane
+58	25	Pert staff
+59	23	Royal Bot. Gdns. Syd.
+60	22	 field ID
+61=	21	  PERTH staff
+61=	21	K. D. Hill 1996
+63=	18	PERTH
+63=	18	Peter G. Wilson 1996
+65	16	S. Dillon &#38; A. Markey &#40;WA Herbarium&#41;
+66=	15	 Det: R.G. Coveny 1996
+66=	15	 Field ID
+66=	15	PERTH Staff
+69=	14	 G. Cassis 1995
+69=	14	P.G Wilson 1996
+71=	13	Det: E.A. Brown 1996
+71=	13	P. G. Wilson 1996
+71=	13	R.O. Makinson 1997
+74=	11	&#40;labelled incorrectly as Casuarinaceae&#41;
+74=	11	Royal Botanic Gardens NSW
+76	10	B. J. Conn 1996 NSW
+77=	9	Det: Royal Bot. Gardens. Syd.
+77=	9	G. Cassis
+79=	8	B. J. Conn 1996
+79=	8	Det: Peter G. Wilson 1996
+79=	8	Royal Botanic Garden:NSW
+82=	7	B.R. Maslin
+82=	7	R. G. Coventy 1996
+82=	7	Royal Bot. Gard. NSW
+85=	6	  Det: R.G. Coveny 1996
+85=	6	  NSW staff
+85=	6	 J. Everett 1996
+85=	6	 Royal Bot. Gard. NSW
+85=	6	PH Weston 1996
+85=	6	Perth stuff
+91	5	Field ID; morphologically distinct popn.
+92=	4	  Det: Royal Bot Gard. NSW
+92=	4	B.L. Rye
+94=	3	Field ID &#40;red flowers&#41;
+94=	3	Royal Botanic Garden
+96=	2	  G. Cassis 1995
+96=	2	 G. Cassis
+96=	2	 NSW
+96=	2	Det. G. Cassis 1995
+96=	2	G. Cassis 1995
+96=	2	Marco Duretto - Tas Herbarium
+96=	2	N.G. Walsh &#40;Melbourne RBG&#41;
+96=	2	RBG Staff
+96=	2	V. Stajsic
+96=	2	botanist
+96=	2	field ID; host 97-06
+107=	1	   Det: R.G. Coveny 1996
+107=	1	   NSW staff
+107=	1	  Det: R.G. Convey
+107=	1	  Field ID
+107=	1	  J. Everett 1996
+107=	1	  K.L. Wilson 1997
+107=	1	  Royal Bot. Gard. NSW
+107=	1	  Royal Botanical Gard. NSW
+107=	1	  Royal Botanical Gardens
+107=	1	  field ID
+107=	1	 B.J. Conn 1996
+107=	1	 B.M. Wiecek 1996
+107=	1	 Det. G. Cassis 1995
+107=	1	 Det: R.G. Convey
+107=	1	 G.Cassis
+107=	1	 J. Everett May 1996
+107=	1	 P.H. Weston 1996
+107=	1	 Perth staff
+107=	1	 RBG staff
+107=	1	 Royal Bot Gard. NSW
+107=	1	 Royal Botanic Gardens NSW
+107=	1	 Royal Botanical Gard. NSW
+107=	1	 Royal Botanical Gardens
+107=	1	&#40;Det: P.H. Weston 1996&#41;
+107=	1	-
+107=	1	D. C. Godden
+107=	1	Det: D.C. Godden 1996
+107=	1	G.Cassis
+107=	1	Melinda Trudgen
+107=	1	N.G.Walsh
+107=	1	NSW
+107=	1	QDPI staff
+107=	1	Royal Botanic Gardens
+107=	1	Royal Botanical Gard. NSW
+107=	1	V. Stajsic &#40;Melbourne RBG&#41;
+107=	1	WA herbarium
+107=	1	collecter
+107=	1	null
+
+62083	TOTAL

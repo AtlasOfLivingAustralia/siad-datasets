@@ -1,0 +1,18 @@
+rank	count	Secondary subdivision
+
+1	25356	none
+2	793	Pilbara
+3	167	East Kimberley
+4	86	Flinders Island
+5	39	Lord Howe Island
+6	38	North Queensland
+7	37	S.E. Queensland
+8	14	N. W. Queensland
+9	11	Kangaroo Island
+10	6	N. E. Queensland
+11	4	unknown
+12	2	Petaling
+13=	1	Port Moresby
+13=	1	West Kimberley
+
+26555	TOTAL

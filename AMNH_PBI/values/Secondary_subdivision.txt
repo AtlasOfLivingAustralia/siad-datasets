@@ -1,0 +1,66 @@
+rank	count	Secondary subdivision
+
+1	59862	none
+2	891	None
+3	366	Pilbara
+4	124	Rossel Island
+5	86	Efate Is.
+6	76	S.E. Queensland
+7	75	Woodlark Island
+8	64	Honiara
+9	44	North Queensland
+10	40	N. E. Queensland
+11	36	Tanna Is.
+12	33	Epi Island
+13	32	New Georgia Islands
+14	30	Tugula Island
+15	25	Espiritu Santo Is.
+16	24	Maewo Is.
+17	23	unknown
+18=	21	Kangaroo Island
+18=	21	Middle Queensland
+20	20	Aneityum Is.
+21	18	Ambon
+22	17	Bau District
+23	16	D'Entrecasteaux Island
+24	12	Ambrym Is.
+25=	11	Normanby Island
+25=	11	Shephard Group
+27=	9	Misima Island
+27=	9	Zamboanga Peninsula
+29=	8	Banks Islands
+29=	8	Richmond
+31=	5	Huon Penninsula
+31=	5	Paniai Division
+31=	5	Unknown
+34=	4	Cameron Highlands
+34=	4	Goodenough Island
+34=	4	Shepherds Islands
+37=	3	Cape York Islands
+37=	3	Erromango Is.
+37=	3	Lord Howe Island
+37=	3	Nadarivatu
+37=	3	Sudest Island
+37=	3	West Kimberley
+37=	3	nont
+44=	2	Mont-Dore
+44=	2	Pasir Dist.
+44=	2	Pentecost Is.
+44=	2	Vogelkop &#40; Bird's Head Peninsula&#41;
+48=	1	Adelaide
+48=	1	Alexandrina Council
+48=	1	Basilan Island
+48=	1	Frasers Hill
+48=	1	Futuna Is.
+48=	1	Ifaluk Island
+48=	1	Kalamantan Timur
+48=	1	Kamo-Debei Division
+48=	1	L'Île-des-Pins
+48=	1	N. W. Queensland
+48=	1	Port Moresby
+48=	1	Pulau Tioman
+48=	1	Tolikara
+48=	1	Waigeo Island
+48=	1	Wimmera
+
+62083	TOTAL

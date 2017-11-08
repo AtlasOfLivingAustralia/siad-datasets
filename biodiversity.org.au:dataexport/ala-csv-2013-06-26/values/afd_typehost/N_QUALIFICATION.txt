@@ -1,0 +1,207 @@
+rank	count	N_QUALIFICATION
+
+1	2416	NULL
+2	13	ex flower gall
+3	7	in small intestine
+4	6	ex leaf gall
+5	4	name of host type in doubt as <em>Rhynchobatus djiddensis</em> Forsskål, 1775, is now found only in the Western Indian Ocean, see Last & Stevens (2009)
+6=	3	= <I>Comanthus parvicirrus</I> (Muller, 1841)
+6=	3	as <I>Rattus culmorum</I>
+6=	3	as <i>Nycticeius rueppellii</i>
+6=	3	ex fruit gall
+10=	2	as <I>Echidna hystrix</I>
+10=	2	as <I>Mus assimilis</I>
+10=	2	as <I>Perameles obesula</I>
+10=	2	as <I>Tadarida planiceps</I>
+10=	2	but may be an unnatural host
+10=	2	but probably an unnatural host, see <8010>
+10=	2	ex branch bud gall
+10=	2	ex galls on <em>E. camaldulensis</em> x <em>grandis</em>
+10=	2	from curled leaf gall
+10=	2	nominal host
+10=	2	on foliage
+10=	2	reared from fruit gall
+10=	2	type host originally recorded as <em>Rhynchobatus djiddensis</em> Forsskål, 1775, but this name now applies to a species found only in the Western Indian Ocean; re-examination of host material is needed to determine its appropriate name
+23=	1	"sensu Naylor et al. 2012"
+23=	1	'collected on "kangaroo acacia'
+23=	1	. *H*Type host: <I>  </I>, 1912
+23=	1	<0180> [316] for comment on authenticity of type host
+23=	1	<I>Saemundssonia conica conica </I>is found regularly only on species of <MI>Pluvialis, <D>therefore the types of <I>Philopterus numeniicola </I>are regarded as stragglers or contaminants by <8217>
+23=	1	<I>ex </I>'hauskatze'
+23=	1	<I>ex </I>nest of <I>Acanthornis magnus </I>as <I>Acanthornis magna</I>
+23=	1	<I>ex </I>rats (esp. <I>Rattus hawaiiensis cf. Rattus exulans</I>)
+23=	1	<I>ex </I>warrens of <I>Oryctolagus cuniculus</I>
+23=	1	<I>forma domestica</I>
+23=	1	<I>misspelling of transcontinentalis</I>
+23=	1	<em>Scolopsis temporalis</em> (Cuvier, 1830), has been excluded from the Australian fauna, see Russell (1990), Australian records based on misidentified <em>Scolopsis monogramma</em> (Cuvier, 1830)  
+23=	1	= <I>A. banksi</I>
+23=	1	= <I>Antedon loveni</I> Bell, 1882
+23=	1	= <I>Aptychotrema banksii</I> (Müller & Henle) of Butler, S.A. 1987. Taxonomy of some tetraphyllidean cestodes from elasmobranch fishes. <em>Australian Journal of Zoology</em> <strong>35</strong>: 343–371
+23=	1	= <I>Comanthus parvicirrus</I> (Müller, 1841)
+23=	1	= <I>H. granulata</I> of Williams, H.H. 1964. Some new and little known cestodes from Australian elasmobranchs with a brief discussion on their possible use in problems of host taxonomy. <em>Parasitology</em> <strong>54</strong>: 737–784
+23=	1	= <I>H. uarnak</I>
+23=	1	= <I>M. blepotis</I> Temminck, 1840
+23=	1	= <I>Macropus rufogriseus</I> (Desmarest, 1817), Red-necked Wallaby
+23=	1	= <I>R. assimilis</I>
+23=	1	= <i>Pteropus alecto gouldii</i> Temminck, 1837 (Black Flying-fox)
+23=	1	=<I>Aprion pristipoma</I> of Southwell, 1929
+23=	1	=?<I>Lutra lutra </I>Brünnich, 1771
+23=	1	?
+23=	1	?<I>Eucalyptus</I> sp.
+23=	1	Fossil shark
+23=	1	Hovering near nests.
+23=	1	Macdonnell Ranges
+23=	1	Native
+23=	1	One from bee nest and others flying over bee nests
+23=	1	Papua New Guniea
+23=	1	This monogenean (<I>Udonella myliobati</I>) parasitises <I>Caligus epidemicus </I>(Copepoda: Caligidae), itself an ectoparasite of the surf bream, <I>Acanthopagrus australis</I>
+23=	1	Woodland (1930: 226) indicated that the identity of the host was uncertain and could be either <I>T. radjah</I> or <I>T. tadornoides</I>, but was probably the former
+23=	1	also <I>Chalcoponera </I>sp.
+23=	1	also <I>Coracina novaehollandiae </I>(Gmelin, 1789)
+23=	1	also <I>Diomedea chlororhynchos </I>Gmelin, 1789; <8217> (correct hosts <I>Procellaria </I>spp.)
+23=	1	also <I>Rosa</I>
+23=	1	also recorded from <i>E. viminalis</i>, Manna Gum
+23=	1	an African species
+23=	1	and <I>Acacia</I> sp.
+23=	1	and <I>E. goniocalyx</I> Miq.—on foliage
+23=	1	and <I>Ficus laurifolia, Tamarindus</I> sp.
+23=	1	as 'Opossum' (<I>Trichosurus vulpecula </I>on slide label)
+23=	1	as <I>Acomys witherbyi</I>
+23=	1	as <I>Acrobates pygmaea</I>
+23=	1	as <I>Anserum saginatorum</I>
+23=	1	as <I>Antechinus</I> cf. <I>bilarni</I> Johnston, 1954
+23=	1	as <I>Azalea </I>sp.
+23=	1	as <I>Azalea</I>
+23=	1	as <I>Bettongia cuniculus</I>
+23=	1	as <I>Callitris glauca</I>
+23=	1	as <I>Conilurus albipes</I>
+23=	1	as <I>Dromicia concinna</I>
+23=	1	as <I>Echidna aculeata</I>
+23=	1	as <I>Epimys </I>sp.
+23=	1	as <I>Epimys assimilis</I>
+23=	1	as <I>Epimys</I> sp.
+23=	1	as <I>Eudromicia lepida</I>
+23=	1	as <I>Eudyptula minor</I>
+23=	1	as <I>Lasiorhinus hirsutus </I>, see Dunnet, G.M. & Mardon, D.K. 1974. A monograph of Australian fleas (Siphonaptera). <em>Australian Journal of Zoology Supplementary Series</em> <strong>30</strong>: 1–273 [21]
+23=	1	as <I>Leporillus jonesi</I>
+23=	1	as <I>Lepus  cuniculus</I>
+23=	1	as <I>Mus ferculinus</I>
+23=	1	as <I>Mus macleari</I>
+23=	1	as <I>Mus velutinus</I>
+23=	1	as <I>Myotis</I> sp.
+23=	1	as <I>Pelecanoides urinatrix</I>
+23=	1	as <I>Perameles raffrayanus</I>
+23=	1	as <I>Phascologale swainsonii</I>
+23=	1	as <I>Phascolomys latifrons</I>
+23=	1	as <I>Phascolomys mitchelli</I>
+23=	1	as <I>Rattus assimilis</I>
+23=	1	as <I>Rattus assimilis</I> (holotype only)
+23=	1	as <I>Tachyglossus aculeatus inepta</I>
+23=	1	as <I>Tadarida australis</I>
+23=	1	as <I>Vespertilio macropus</I>
+23=	1	as <i>Amphibolurus barbatus</i>
+23=	1	as <i>Cacatua r. roseicapilla</i>
+23=	1	as <i>Chondropython viridis</i>
+23=	1	as <i>Galaxias attenuatus</i> Jenyns, 1842
+23=	1	as <i>Liasis amethystinus</i>
+23=	1	as <i>Macropus stigmaticus</i>
+23=	1	as <i>Myotis adversus</i>, now considered not to occur in Australia
+23=	1	as <i>Nyctophilus timorensis gouldi</i>, presumably <i>N. gouldi</i>
+23=	1	as <i>Pastinachus </i>cf <i>sephen</i> (Forsskål, 1775)
+23=	1	as <i>Python amethystinus</i>
+23=	1	as <i>Rana cancrivora</i> 
+23=	1	as <i>Zamensis mucosus</i>
+23=	1	as <i>Zamensis mucosus</i>); also <i>Naja naja</i> Linnaeus, 1758 [Elapidae] Indian Cobra as <i>Naia tripudians</i>
+23=	1	as S. <I>officinalis</I>
+23=	1	as lérot (=<I>Myoxus nitella</I>)
+23=	1	as native cat
+23=	1	but host record probably due to contamination, see <8012>
+23=	1	but may be an unnatural host, see von Kéler (1971)
+23=	1	but record probably due to contamination, see <8012>
+23=	1	but see <8010>
+23=	1	called <I>Rattus assimilis </I>in original description
+23=	1	captive
+23=	1	cf burtoni
+23=	1	collected in moss with ant
+23=	1	currently <I>Echinaster luzonicus </I>(Gray, 1840)
+23=	1	currently <I>Heteropsammia cochlea</I> (Spengler, 1781)
+23=	1	erroneously cited as <I>Balaena mysticetus</I>
+23=	1	ex branch gall
+23=	1	ex branch shoot galls
+23=	1	ex bud gall
+23=	1	ex cone-shaped bud gall
+23=	1	ex dorsal fin
+23=	1	ex flower gall of <i>Asphondylia mcneilli</i>
+23=	1	ex flower gall of <i>Asphondylia tonsura</i>
+23=	1	ex fruit
+23=	1	ex glabrous bud gall
+23=	1	ex hairy bud gall
+23=	1	ex pubescent bud gall
+23=	1	ex shoot tip gall
+23=	1	fins and body surface
+23=	1	flowers
+23=	1	formerly <i>Acmena smithii</i>
+23=	1	from flowers
+23=	1	from galls
+23=	1	from leaf gall
+23=	1	from lungs
+23=	1	from oesophagus
+23=	1	from stomach
+23=	1	from trivalvate branch shoot tip gall
+23=	1	genus may now be <I>Miconia</I>
+23=	1	given as 'house dog', presumably <I>Canis (Canis) familiaris</I>
+23=	1	holotype and paratype
+23=	1	host floating dead at sea
+23=	1	host incorrectly identified by Young 1968
+23=	1	host uncertain, probably <I>Actinometra jukesi </I>and <I>Actinometra striata</I>, according to <GRAFFL1884A>
+23=	1	identity of host in doubt
+23=	1	identity uncertain, probably = <I>Comatula pectinata</I> Linnaeus, 1758 (Messing, C.,<I> in litt</I>. 2001)
+23=	1	immatures on Acacia sp.
+23=	1	in bile ducts
+23=	1	in flowers
+23=	1	misidentified as <I>Rattus rattus </I>(lLinnaeus, 1758) in the original description
+23=	1	name of host type in doubt as <em>Rhynchobatus djiddensis</em> Forsskål, 1775 is now found only in the Western Indian Ocean, see Last & Stevens (2009)
+23=	1	name of host type in doubt as <em>Rhynchobatus djiddensis</em> Forsskål, 1775, is now found only in the Western Indian Ocean, see Last & Stevens 2009
+23=	1	nest of
+23=	1	note: this species does not occur in South America
+23=	1	now <I>Ablennes hians</I> (Valenciennes, 1846)
+23=	1	now <I>Ashtoret granulosa </I>(Miers, 1877)
+23=	1	now <I>Parthenope longimanus</I> (Linnaeus, 1758)
+23=	1	now <I>Pilumnopeus serratifrons</I> (Kinahan, 1856), Smooth-handed Crab
+23=	1	on cultivated eggplant
+23=	1	on inflorescence
+23=	1	on leaves
+23=	1	on orange tree
+23=	1	on roots
+23=	1	on sugarcane roots
+23=	1	other hosts include <i>E. carnea, E. acmenoides</i> and probably <i>E. saligna</i>
+23=	1	other hosts mentioned
+23=	1	plant name corrected by Barker (2006: 289)
+23=	1	primary parasitoid
+23=	1	probable type host
+23=	1	probable type host, also recorded in original publication from <I>Acer saccharinum</I> L.
+23=	1	probably an unnatural host, see <8010>
+23=	1	reared from branch gall
+23=	1	reared from fruits
+23=	1	reared from gall
+23=	1	reared from rosette-like male flower gall
+23=	1	recorded as  <I>Hyperoodon bidens</I> (Shaw, 1801), see <HERSHKOVP1966A>
+23=	1	recorded as '<I>Antedon bidentata</I>', but as above (Messing, C., <I>in litt</I>. 2001)
+23=	1	recorded as '<I>Antedon bidentata</I>', but as above (Messing, C.,<I> in litt.</I> 2001)
+23=	1	recorded as '<I>Antedon multiradiata</I>', but as above (Messing, C., <I>in litt</I>. 2001)
+23=	1	recorded as '<I>Antedon tenax</I>', but as above (Messing, C., <I>in litt</I>. 2001)
+23=	1	recorded as <em>Rhynchobatus djiddensis</em>  (Forsskål, 1775) (White-spotted Guitarfish), Rhynchobatidae, but this species occurs only in the Western Indian Ocean, so the identification requires checking
+23=	1	rosette-like male flower galls
+23=	1	said to occur on flowers
+23=	1	see <8008> for correct identity of type host
+23=	1	see Barker (1991) and Eldridge & Close (1992) for correction and update of identity of type host
+23=	1	see Clay & Hopkins (<I>op. cit.</I>) for comment on type host identity
+23=	1	see Musser & Carleton (1993)
+23=	1	species identity unconfirmed—listed as<I> Phascogale</I>, but only one species recorded for Queensland
+23=	1	the name <em>Rhynchobatus djiddensis</em> Forsskål, 1775, no longer applies to Australian species; it refers to a species found only in the Western Indian Ocean; re-examination of type host material is needed to determine its new name; see Last & Stevens (2009)
+23=	1	the species of <I>Scleropages</I> from the Wenlock River, Qld, is currently identified as <I>S. jardini</I> (Saville-Kent, 1892)
+23=	1	type host, '<I>Cracticus destructor</I>', probably <I>Cracticus torquatus</I> (Latham)
+23=	1	under dead bark
+23=	1	undetermined praying mantid
+
+2665	TOTAL

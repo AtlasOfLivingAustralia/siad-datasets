@@ -1,0 +1,5 @@
+rank	count	cc_license
+
+1	21949	http://creativecommons.org/licenses/by/3.0/
+
+21949	TOTAL

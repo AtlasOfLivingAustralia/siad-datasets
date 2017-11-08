@@ -1,0 +1,52 @@
+rank	count	LIFE_CYCLE
+
+1	118673	NULL
+2	37721	adult
+3	9881	larva
+4	1383	all stages
+5	898	Adult
+6	815	larvae
+7	769	definitive
+8	467	adults
+9	164	nymph
+10	149	adults and juveniles
+11	103	nymphs
+12	95	juvenile
+13	67	adult and larva
+14	57	intermediate
+15=	52	caterpillar
+15=	52	paralarva
+17	49	Caterpillar
+18	24	All stages
+19	18	pupa
+20	17	larva, adult
+21	13	Nymph
+22	12	egg
+23	7	juveniles
+24	6	audlt
+25	5	Leptocephalus larva
+26=	4	Larva
+26=	4	Larvae
+26=	4	eggs
+26=	4	experimental
+30	3	larva and adult
+31=	2	Adult female encysted in host
+31=	2	Catepillar
+33=	1	 butcheri
+33=	1	 carolinae
+33=	1	Lava
+33=	1	Leptocephalus
+33=	1	aduld
+33=	1	adult female
+33=	1	captive
+33=	1	female
+33=	1	immature
+33=	1	juvenile stages
+33=	1	larva? adult?
+33=	1	male
+33=	1	praniza larvae (third-stage juvenile)
+33=	1	pranizae (third-stage juvenile)
+33=	1	supralittoral
+33=	1	third stage pranizae
+
+171536	TOTAL

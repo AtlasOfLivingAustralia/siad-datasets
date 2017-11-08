@@ -1,0 +1,929 @@
+count$path$bad_name$	suggested_name
+   50$_NO_HIGHERTAXON$Abutilon otocarpum$	Abutilon sp_ms_otocarpum
+   30$_NO_HIGHERTAXON$Abutilon oxycarpum$	Abutilon sp_ms_oxycarpum
+   54$_NO_HIGHERTAXON$Abutilon pritzelianum$	Abutilon sp_ms_pritzelianum
+    2$_NO_HIGHERTAXON$Abutilon sp.$	Abutilon sp.
+   88$_NO_HIGHERTAXON$Abutilon$	Abutilon
+   45$_NO_HIGHERTAXON$Acacia  subsp. sophorae$	Acacia  subsp. sophorae
+   12$_NO_HIGHERTAXON$Acacia acinacea$	Acacia sp_ms_acinacea
+   10$_NO_HIGHERTAXON$Acacia ancistrocarpa var. ancistrophylla$	Acacia sp_ms_ancistrocarpa
+   19$_NO_HIGHERTAXON$Acacia ancistrocarpa$	Acacia sp_ms_ancistrocarpa
+   22$_NO_HIGHERTAXON$Acacia andrewsii$	Acacia sp_ms_andrewsii
+   20$_NO_HIGHERTAXON$Acacia aneura var. aneura$	Acacia sp_ms_aneura
+   22$_NO_HIGHERTAXON$Acacia aneura var. tenuis &#40;flat&#41;$	Acacia sp_ms_aneura
+  111$_NO_HIGHERTAXON$Acacia aneura$	Acacia sp_ms_aneura
+    6$_NO_HIGHERTAXON$Acacia auriculiformis$	Acacia sp_ms_auriculiformis
+    1$_NO_HIGHERTAXON$Acacia ausfeldii$	Acacia sp_ms_ausfeldii
+    1$_NO_HIGHERTAXON$Acacia brachybotrya$	Acacia sp_ms_brachybotrya
+   63$_NO_HIGHERTAXON$Acacia brachystachya$	Acacia sp_ms_brachystachya
+    1$_NO_HIGHERTAXON$Acacia burkittii$	Acacia sp_ms_burkittii
+    2$_NO_HIGHERTAXON$Acacia chartacea$	Acacia sp_ms_chartacea
+    2$_NO_HIGHERTAXON$Acacia chrysocephala$	Acacia sp_ms_chrysocephala
+    1$_NO_HIGHERTAXON$Acacia coolgardiensis$	Acacia sp_ms_coolgardiensis
+    2$_NO_HIGHERTAXON$Acacia coriacea subsp. coriacea$	Acacia sp_ms_coriacea
+   11$_NO_HIGHERTAXON$Acacia coriacea subsp. pendens$	Acacia sp_ms_coriacea
+    2$_NO_HIGHERTAXON$Acacia cuspidifolia$	Acacia sp_ms_cuspidifolia
+  193$_NO_HIGHERTAXON$Acacia dealbata$	Acacia sp_ms_dealbata
+    2$_NO_HIGHERTAXON$Acacia decurrens$	Acacia sp_ms_decurrens
+    3$_NO_HIGHERTAXON$Acacia difficilis$	Acacia sp_ms_difficilis
+    2$_NO_HIGHERTAXON$Acacia duriuscula$	Acacia sp_ms_duriuscula
+    2$_NO_HIGHERTAXON$Acacia effusifolia$	Acacia sp_ms_effusifolia
+   10$_NO_HIGHERTAXON$Acacia erinacea$	Acacia sp_ms_erinacea
+    4$_NO_HIGHERTAXON$Acacia hemiteles$	Acacia sp_ms_hemiteles
+    1$_NO_HIGHERTAXON$Acacia inceana subsp. conformis$	Acacia sp_ms_inceana
+   27$_NO_HIGHERTAXON$Acacia irrorata subsp. irrorata$	Acacia sp_ms_irrorata
+    3$_NO_HIGHERTAXON$Acacia kempeana$	Acacia sp_ms_kempeana
+    4$_NO_HIGHERTAXON$Acacia latescens$	Acacia sp_ms_latescens
+    1$_NO_HIGHERTAXON$Acacia loderi$	Acacia sp_ms_loderi
+    1$_NO_HIGHERTAXON$Acacia longifolia subsp. sophorae$	Acacia sp_ms_longifolia
+   12$_NO_HIGHERTAXON$Acacia longifolia$	Acacia sp_ms_longifolia
+    1$_NO_HIGHERTAXON$Acacia masliniana$	Acacia sp_ms_masliniana
+  101$_NO_HIGHERTAXON$Acacia mearnsii$	Acacia sp_ms_mearnsii
+  103$_NO_HIGHERTAXON$Acacia melanoxylon$	Acacia sp_ms_melanoxylon
+    2$_NO_HIGHERTAXON$Acacia melleodora$	Acacia sp_ms_melleodora
+   20$_NO_HIGHERTAXON$Acacia microsperma$	Acacia sp_ms_microsperma
+    4$_NO_HIGHERTAXON$Acacia minyura$	Acacia sp_ms_minyura
+   14$_NO_HIGHERTAXON$Acacia montana$	Acacia sp_ms_montana
+    3$_NO_HIGHERTAXON$Acacia papyrocarpa$	Acacia sp_ms_papyrocarpa
+    8$_NO_HIGHERTAXON$Acacia paraneura$	Acacia sp_ms_paraneura
+    1$_NO_HIGHERTAXON$Acacia parramattensis$	Acacia sp_ms_parramattensis
+    1$_NO_HIGHERTAXON$Acacia pentadenia$	Acacia sp_ms_pentadenia
+    4$_NO_HIGHERTAXON$Acacia prainii$	Acacia sp_ms_prainii
+   20$_NO_HIGHERTAXON$Acacia pruinocarpa$	Acacia sp_ms_pruinocarpa
+   24$_NO_HIGHERTAXON$Acacia ramulosa var. linophylla$	Acacia sp_ms_ramulosa
+   13$_NO_HIGHERTAXON$Acacia ramulosa var. ramulosa$	Acacia sp_ms_ramulosa
+   15$_NO_HIGHERTAXON$Acacia rivalis$	Acacia sp_ms_rivalis
+    1$_NO_HIGHERTAXON$Acacia sclerophylla var. sclerophylla$	Acacia sp_ms_sclerophylla
+   21$_NO_HIGHERTAXON$Acacia sclerosperma subsp. sclerosperma$	Acacia sp_ms_sclerosperma
+    1$_NO_HIGHERTAXON$Acacia sibina$	Acacia sp_ms_sibina
+    4$_NO_HIGHERTAXON$Acacia sp. 1$	Acacia sp_1
+    1$_NO_HIGHERTAXON$Acacia sp. barklys &#40;j.l. egan 124&#41;$	Acacia sp_barklys_jl_egan_124
+   15$_NO_HIGHERTAXON$Acacia sp.$	Acacia sp.
+    1$_NO_HIGHERTAXON$Acacia spathulifolia$	Acacia sp_ms_spathulifolia
+   10$_NO_HIGHERTAXON$Acacia spirorbis subsp. solandri$	Acacia sp_ms_spirorbis
+   43$_NO_HIGHERTAXON$Acacia spirorbis$	Acacia sp_ms_spirorbis
+    3$_NO_HIGHERTAXON$Acacia spondylophylla$	Acacia sp_ms_spondylophylla
+   30$_NO_HIGHERTAXON$Acacia stellaticeps$	Acacia sp_ms_stellaticeps
+   25$_NO_HIGHERTAXON$Acacia stowardii$	Acacia sp_ms_stowardii
+    5$_NO_HIGHERTAXON$Acacia tetragonophylla interstans$	Acacia sp_tetragonophylla_interstans
+  144$_NO_HIGHERTAXON$Acacia tetragonophylla$	Acacia sp_ms_tetragonophylla
+    4$_NO_HIGHERTAXON$Acacia verniciflua$	Acacia sp_ms_verniciflua
+   70$_NO_HIGHERTAXON$Acacia victoriae$	Acacia sp_ms_victoriae
+    1$_NO_HIGHERTAXON$Acacia wickhamii subsp. cassitera$	Acacia sp_ms_wickhamii
+    5$_NO_HIGHERTAXON$Acacia wilhelmiana$	Acacia sp_ms_wilhelmiana
+   23$_NO_HIGHERTAXON$Acacia xiphophylla$	Acacia sp_ms_xiphophylla
+   32$_NO_HIGHERTAXON$Acacia$	Acacia
+   24$_NO_HIGHERTAXON$Acmena smithii$	Acmena sp_ms_smithii
+    4$_NO_HIGHERTAXON$Acradenia euodiiformis$	Acradenia sp_ms_euodiiformis
+   21$_NO_HIGHERTAXON$Actinostrobus acuminatus$	Actinostrobus sp_ms_acuminatus
+    3$_NO_HIGHERTAXON$Actinostrobus arenarius$	Actinostrobus sp_ms_arenarius
+   26$_NO_HIGHERTAXON$Adenanthos cygnorum subsp. cygnorum$	Adenanthos sp_ms_cygnorum
+    2$_NO_HIGHERTAXON$Adenanthos$	Adenanthos
+    4$_NO_HIGHERTAXON$Agonis flexuosa var. flexuosa$	Agonis sp_ms_flexuosa
+   34$_NO_HIGHERTAXON$Agonis flexuosa var. flexuosa_delete$	Agonis sp_ms_flexuosa
+   76$_NO_HIGHERTAXON$Agonis flexuosa$	Agonis sp_ms_flexuosa
+    3$_NO_HIGHERTAXON$Agonis hypericifolia$	Agonis sp_ms_hypericifolia
+   34$_NO_HIGHERTAXON$Agonis linearifolia$	Agonis sp_ms_linearifolia
+    3$_NO_HIGHERTAXON$Agonis parviceps$	Agonis sp_ms_parviceps
+    1$_NO_HIGHERTAXON$Agonis spathulata$	Agonis sp_ms_spathulata
+    4$_NO_HIGHERTAXON$Agonis$	Agonis
+   92$_NO_HIGHERTAXON$Alectryon oleifolius subsp. canescens$	Alectryon sp_ms_oleifolius
+    3$_NO_HIGHERTAXON$Allocasuarina acutivalvis$	Allocasuarina sp_ms_acutivalvis
+    1$_NO_HIGHERTAXON$Allocasuarina campestris subsp. campestris$	Allocasuarina sp_ms_campestris
+  132$_NO_HIGHERTAXON$Allocasuarina campestris$	Allocasuarina sp_ms_campestris
+    1$_NO_HIGHERTAXON$Allocasuarina corniculata$	Allocasuarina sp_ms_corniculata
+    4$_NO_HIGHERTAXON$Allocasuarina decaisneana$	Allocasuarina sp_ms_decaisneana
+    9$_NO_HIGHERTAXON$Allocasuarina decussata$	Allocasuarina sp_ms_decussata
+    8$_NO_HIGHERTAXON$Allocasuarina distyla$	Allocasuarina sp_ms_distyla
+   16$_NO_HIGHERTAXON$Allocasuarina fraseriana$	Allocasuarina sp_ms_fraseriana
+   24$_NO_HIGHERTAXON$Allocasuarina huegeliana$	Allocasuarina sp_ms_huegeliana
+   40$_NO_HIGHERTAXON$Allocasuarina humilis$	Allocasuarina sp_ms_humilis
+   11$_NO_HIGHERTAXON$Allocasuarina mackliniana subsp. xerophila$	Allocasuarina sp_ms_mackliniana
+   33$_NO_HIGHERTAXON$Allocasuarina mackliniana subsp. xerophila_delete$	Allocasuarina sp_ms_mackliniana
+    3$_NO_HIGHERTAXON$Allocasuarina monilifera$	Allocasuarina sp_ms_monilifera
+   26$_NO_HIGHERTAXON$Allocasuarina paludosa$	Allocasuarina sp_ms_paludosa
+   15$_NO_HIGHERTAXON$Allocasuarina pusilla$	Allocasuarina sp_ms_pusilla
+  114$_NO_HIGHERTAXON$Allocasuarina sp.$	Allocasuarina sp.
+    9$_NO_HIGHERTAXON$Allocasuarina spinosissima$	Allocasuarina sp_ms_spinosissima
+  317$_NO_HIGHERTAXON$Allocasuarina$	Allocasuarina
+    2$_NO_HIGHERTAXON$Alphitonia excelsa$	Alphitonia sp_ms_excelsa
+   18$_NO_HIGHERTAXON$Alstonia  var. parvifolia$	Alstonia  var. parvifolia
+   17$_NO_HIGHERTAXON$Alstonia muelleriana$	Alstonia sp_ms_muelleriana
+    1$_NO_HIGHERTAXON$Alstonia$	Alstonia
+    5$_NO_HIGHERTAXON$Aluta aspera subsp. aspera$	Aluta sp_ms_aspera
+   16$_NO_HIGHERTAXON$Aluta aspera subsp. hesperia$	Aluta sp_ms_aspera
+    3$_NO_HIGHERTAXON$Aluta maisonneuvei$	Aluta sp_ms_maisonneuvei
+   84$_NO_HIGHERTAXON$Aluta$	Aluta
+   28$_NO_HIGHERTAXON$Alyogyne pinoniana$	Alyogyne sp_ms_pinoniana
+    4$_NO_HIGHERTAXON$Alyogyne$	Alyogyne
+    9$_NO_HIGHERTAXON$Amyema congener subsp. congener$	Amyema sp_ms_congener
+    5$_NO_HIGHERTAXON$Amyema fitzgeraldii$	Amyema sp_ms_fitzgeraldii
+    1$_NO_HIGHERTAXON$Amyema melaleucae$	Amyema sp_ms_melaleucae
+    2$_NO_HIGHERTAXON$Amyema preissii$	Amyema sp_ms_preissii
+   13$_NO_HIGHERTAXON$Anemocarpa saxatilis$	Anemocarpa sp_ms_saxatilis
+   27$_NO_HIGHERTAXON$Angophora floribunda$	Angophora sp_ms_floribunda
+   11$_NO_HIGHERTAXON$Angophora$	Angophora
+    1$_NO_HIGHERTAXON$Anisomeles$	Anisomeles
+   76$_NO_HIGHERTAXON$Anthocercis littorea$	Anthocercis sp_ms_littorea
+   21$_NO_HIGHERTAXON$Anthotroche pannosa$	Anthotroche sp_ms_pannosa
+   25$_NO_HIGHERTAXON$Anthotroche walcottii$	Anthotroche sp_ms_walcottii
+    1$_NO_HIGHERTAXON$Araucaria bidwillii$	Araucaria sp_ms_bidwillii
+   40$_NO_HIGHERTAXON$Argyrodendron actinophyllum$	Argyrodendron sp_ms_actinophyllum
+  114$_NO_HIGHERTAXON$Aristida holathera var. holathera$	Aristida sp_ms_holathera
+   31$_NO_HIGHERTAXON$Aristida$	Aristida
+    7$_NO_HIGHERTAXON$Astartea sp.$	Astartea sp.
+  203$_NO_HIGHERTAXON$Astartea$	Astartea
+    1$_NO_HIGHERTAXON$Astroloma sp.$	Astroloma sp.
+    7$_NO_HIGHERTAXON$Astroloma$	Astroloma
+    1$_NO_HIGHERTAXON$Astrotricha$	Astrotricha
+   63$_NO_HIGHERTAXON$Atalaya hemiglauca$	Atalaya sp_ms_hemiglauca
+    4$_NO_HIGHERTAXON$Atriplex cinerea$	Atriplex sp_ms_cinerea
+   64$_NO_HIGHERTAXON$Avicennia marina$	Avicennia sp_ms_marina
+    9$_NO_HIGHERTAXON$Babingtonia behrii$	Babingtonia sp_ms_behrii
+    1$_NO_HIGHERTAXON$Backhousia myrtifolia$	Backhousia sp_ms_myrtifolia
+    4$_NO_HIGHERTAXON$Baeckea aff. pentagonantha$	Baeckea sp_aff_pentagonantha
+   26$_NO_HIGHERTAXON$Baeckea benthamii ms$	Baeckea sp_benthamii_ms
+   18$_NO_HIGHERTAXON$Baeckea elderiana$	Baeckea sp_ms_elderiana
+   21$_NO_HIGHERTAXON$Baeckea pachyphylla$	Baeckea sp_ms_pachyphylla
+   23$_NO_HIGHERTAXON$Baeckea pentagonantha$	Baeckea sp_ms_pentagonantha
+   40$_NO_HIGHERTAXON$Baeckea uncinella$	Baeckea sp_ms_uncinella
+    1$_NO_HIGHERTAXON$Baeckea utilis$	Baeckea sp_ms_utilis
+   23$_NO_HIGHERTAXON$Baeckea$	Baeckea
+   19$_NO_HIGHERTAXON$Banksia  squarrosa$	Banksia sp_ms_squarrosa
+   20$_NO_HIGHERTAXON$Banksia  var. melletica$	Banksia  var. melletica
+   28$_NO_HIGHERTAXON$Banksia attenuata$	Banksia sp_ms_attenuata
+    3$_NO_HIGHERTAXON$Banksia ericifolia$	Banksia sp_ms_ericifolia
+    7$_NO_HIGHERTAXON$Banksia leptophylla$	Banksia sp_ms_leptophylla
+    1$_NO_HIGHERTAXON$Banksia marginata$	Banksia sp_ms_marginata
+    1$_NO_HIGHERTAXON$Banksia occidentalis$	Banksia sp_ms_occidentalis
+    1$_NO_HIGHERTAXON$Banksia prionotes$	Banksia sp_ms_prionotes
+   52$_NO_HIGHERTAXON$Banksia$	Banksia
+    6$_NO_HIGHERTAXON$Bauera rubioides$	Bauera sp_ms_rubioides
+    4$_NO_HIGHERTAXON$Beaufortia elegans$	Beaufortia sp_ms_elegans
+   11$_NO_HIGHERTAXON$Beaufortia micrantha var. micrantha$	Beaufortia sp_ms_micrantha
+    1$_NO_HIGHERTAXON$Beaufortia micrantha$	Beaufortia sp_ms_micrantha
+    5$_NO_HIGHERTAXON$Beyeria  var. sulcata$	Beyeria  var. sulcata
+    3$_NO_HIGHERTAXON$Beyeria lechenaultii$	Beyeria sp_ms_lechenaultii
+   41$_NO_HIGHERTAXON$Beyeria$	Beyeria
+    6$_NO_HIGHERTAXON$Boehmeria nivea$	Boehmeria sp_ms_nivea
+   21$_NO_HIGHERTAXON$Bonamia$	Bonamia
+   17$_NO_HIGHERTAXON$Boronia  minima$	Boronia sp_ms_minima
+    2$_NO_HIGHERTAXON$Boronia alata$	Boronia sp_ms_alata
+   24$_NO_HIGHERTAXON$Bossiaea disticha$	Bossiaea sp_ms_disticha
+    3$_NO_HIGHERTAXON$Bothriochloa decipiens var. decipiens$	Bothriochloa sp_ms_decipiens
+    1$_NO_HIGHERTAXON$Bothriochloa$	Bothriochloa
+   13$_NO_HIGHERTAXON$Brachychiton sp.$	Brachychiton sp.
+  100$_NO_HIGHERTAXON$Brachyloma daphnoides$	Brachyloma sp_ms_daphnoides
+   61$_NO_HIGHERTAXON$Brachyscome ciliaris var. lanuginosa$	Brachyscome sp_ms_ciliaris
+   45$_NO_HIGHERTAXON$Bursaria occidentalis$	Bursaria sp_ms_occidentalis
+    9$_NO_HIGHERTAXON$Bursaria spinosa subsp. lasiophylla$	Bursaria sp_ms_spinosa
+    1$_NO_HIGHERTAXON$Bursaria$	Bursaria
+   80$_NO_HIGHERTAXON$Byblis gigantea$	Byblis sp_ms_gigantea
+   27$_NO_HIGHERTAXON$Byblis liniflora$	Byblis sp_ms_liniflora
+    4$_NO_HIGHERTAXON$Callistachys lanceolata$	Callistachys sp_ms_lanceolata
+    6$_NO_HIGHERTAXON$Callistachys$	Callistachys
+    1$_NO_HIGHERTAXON$Callitris canescens$	Callitris sp_ms_canescens
+   44$_NO_HIGHERTAXON$Callitris columellaris$	Callitris sp_ms_columellaris
+   32$_NO_HIGHERTAXON$Callitris glaucophylla$	Callitris sp_ms_glaucophylla
+   12$_NO_HIGHERTAXON$Callitris gracilis$	Callitris sp_ms_gracilis
+    9$_NO_HIGHERTAXON$Callitris intratropica$	Callitris sp_ms_intratropica
+    1$_NO_HIGHERTAXON$Callitris preissii$	Callitris sp_ms_preissii
+   18$_NO_HIGHERTAXON$Callitris sp.$	Callitris sp.
+    1$_NO_HIGHERTAXON$Callitris tuberculata$	Callitris sp_ms_tuberculata
+    4$_NO_HIGHERTAXON$Callitris$	Callitris
+   54$_NO_HIGHERTAXON$Calothamnus formosus subsp. formosus$	Calothamnus sp_ms_formosus
+    8$_NO_HIGHERTAXON$Calothamnus quadrifidus$	Calothamnus sp_ms_quadrifidus
+   40$_NO_HIGHERTAXON$Calotis erinacea$	Calotis sp_ms_erinacea
+   79$_NO_HIGHERTAXON$Calycopeplus paucifolius$	Calycopeplus sp_ms_paucifolius
+    5$_NO_HIGHERTAXON$Calystegia sepium$	Calystegia sp_ms_sepium
+   17$_NO_HIGHERTAXON$Calytrix achaeta$	Calytrix sp_ms_achaeta
+   10$_NO_HIGHERTAXON$Calytrix acutifolia$	Calytrix sp_ms_acutifolia
+    2$_NO_HIGHERTAXON$Calytrix amethystina$	Calytrix sp_ms_amethystina
+    8$_NO_HIGHERTAXON$Calytrix angulata$	Calytrix sp_ms_angulata
+   11$_NO_HIGHERTAXON$Calytrix exstipulata$	Calytrix sp_ms_exstipulata
+    4$_NO_HIGHERTAXON$Calytrix harvestiana$	Calytrix sp_ms_harvestiana
+    6$_NO_HIGHERTAXON$Calytrix strigosa$	Calytrix sp_ms_strigosa
+  120$_NO_HIGHERTAXON$Calytrix tetragona$	Calytrix sp_ms_tetragona
+   31$_NO_HIGHERTAXON$Calytrix$	Calytrix
+    2$_NO_HIGHERTAXON$Carallia brachiata$	Carallia sp_ms_brachiata
+    2$_NO_HIGHERTAXON$Carex incomitata$	Carex sp_ms_incomitata
+    2$_NO_HIGHERTAXON$Cassinia aculeata aculeata$	Cassinia sp_aculeata_aculeata
+   43$_NO_HIGHERTAXON$Cassinia longifolia$	Cassinia sp_ms_longifolia
+    1$_NO_HIGHERTAXON$Cassinia$	Cassinia
+    6$_NO_HIGHERTAXON$Cassytha  forma racemosa$	Cassytha sp_forma_racemosa
+    1$_NO_HIGHERTAXON$Cassytha pomiformis$	Cassytha sp_ms_pomiformis
+    1$_NO_HIGHERTAXON$Cassytha pubescens$	Cassytha sp_ms_pubescens
+    3$_NO_HIGHERTAXON$Cassytha racemosa forma racemosa$	Cassytha sp_racemosa_forma_racemosa
+   10$_NO_HIGHERTAXON$Cassytha racemosa$	Cassytha sp_ms_racemosa
+   10$_NO_HIGHERTAXON$Cassytha sp.$	Cassytha sp.
+   44$_NO_HIGHERTAXON$Cassytha$	Cassytha
+    8$_NO_HIGHERTAXON$Casuarina collina$	Casuarina sp_ms_collina
+   10$_NO_HIGHERTAXON$Casuarina cristata$	Casuarina sp_ms_cristata
+    5$_NO_HIGHERTAXON$Casuarina cunninghamiana subsp. cunninghamiana$	Casuarina sp_ms_cunninghamiana
+   31$_NO_HIGHERTAXON$Casuarina equisetifolia incana$	Casuarina sp_equisetifolia_incana
+    5$_NO_HIGHERTAXON$Casuarina equisetifolia subsp. equisetifolia$	Casuarina sp_ms_equisetifolia
+    7$_NO_HIGHERTAXON$Casuarina equisetifolia$	Casuarina sp_ms_equisetifolia
+  239$_NO_HIGHERTAXON$Casuarina pauper$	Casuarina sp_ms_pauper
+    8$_NO_HIGHERTAXON$Casuarina sp.$	Casuarina sp.
+   14$_NO_HIGHERTAXON$Casuarina$	Casuarina
+   33$_NO_HIGHERTAXON$Celtis philippensis$	Celtis sp_ms_philippensis
+    2$_NO_HIGHERTAXON$Cenchrus ciliaris$	Cenchrus sp_ms_ciliaris
+    1$_NO_HIGHERTAXON$Chamaelaucium uncinatum$	Chamaelaucium sp_ms_uncinatum
+    5$_NO_HIGHERTAXON$Chamaesyce$	Chamaesyce
+   25$_NO_HIGHERTAXON$Chamelaucium pauciflorum subsp. thryptomenioides$	Chamelaucium sp_ms_pauciflorum
+  139$_NO_HIGHERTAXON$Chamelaucium uncinatum$	Chamelaucium sp_ms_uncinatum
+    1$_NO_HIGHERTAXON$Chenopodium cf. hubbardii$	Chenopodium sp_cf_hubbardii
+   46$_NO_HIGHERTAXON$Chenopodium pumilio$	Chenopodium sp_ms_pumilio
+    1$_NO_HIGHERTAXON$Chionanthus ramiflorus$	Chionanthus sp_ms_ramiflorus
+    4$_NO_HIGHERTAXON$Chorilaena quercifolia$	Chorilaena sp_ms_quercifolia
+    1$_NO_HIGHERTAXON$Chrysanthemoides monilifera$	Chrysanthemoides sp_ms_monilifera
+   21$_NO_HIGHERTAXON$Chrysocephalum apiculatum$	Chrysocephalum sp_ms_apiculatum
+   13$_NO_HIGHERTAXON$Chrysocephalum eremaeum$	Chrysocephalum sp_ms_eremaeum
+   13$_NO_HIGHERTAXON$Chrysocephalum semipapposum$	Chrysocephalum sp_ms_semipapposum
+   13$_NO_HIGHERTAXON$Clerodendrum inerme$	Clerodendrum sp_ms_inerme
+    4$_NO_HIGHERTAXON$Clerodendrum tomentosum var. tomentosum$	Clerodendrum sp_ms_tomentosum
+    2$_NO_HIGHERTAXON$Clerodendrum tomentosum$	Clerodendrum sp_ms_tomentosum
+    9$_NO_HIGHERTAXON$Clerodendrum$	Clerodendrum
+    2$_NO_HIGHERTAXON$Conium maculatum$	Conium sp_ms_maculatum
+    9$_NO_HIGHERTAXON$Conospermum boreale$	Conospermum sp_ms_boreale
+    2$_NO_HIGHERTAXON$Conospermum canaliculatum$	Conospermum sp_ms_canaliculatum
+    4$_NO_HIGHERTAXON$Conospermum distichum$	Conospermum sp_ms_distichum
+   15$_NO_HIGHERTAXON$Conospermum microflorum$	Conospermum sp_ms_microflorum
+   16$_NO_HIGHERTAXON$Conospermum stoechadis$	Conospermum sp_ms_stoechadis
+    3$_NO_HIGHERTAXON$Conospermum$	Conospermum
+    3$_NO_HIGHERTAXON$Conostephium magnum$	Conostephium sp_ms_magnum
+    2$_NO_HIGHERTAXON$Coopernookia strophiolata$	Coopernookia sp_ms_strophiolata
+    4$_NO_HIGHERTAXON$Coprosma hirtella$	Coprosma sp_ms_hirtella
+    1$_NO_HIGHERTAXON$Corchorus crozophorifolius$	Corchorus sp_ms_crozophorifolius
+  298$_NO_HIGHERTAXON$Corchorus$	Corchorus
+    8$_NO_HIGHERTAXON$Correa reflexa$	Correa sp_ms_reflexa
+   32$_NO_HIGHERTAXON$Correa$	Correa
+    1$_NO_HIGHERTAXON$Corymbia calophylla$	Corymbia sp_ms_calophylla
+    2$_NO_HIGHERTAXON$Corymbia deserticola subsp. deserticola$	Corymbia sp_ms_deserticola
+    1$_NO_HIGHERTAXON$Corymbia leichardtii$	Corymbia sp_ms_leichardtii
+   12$_NO_HIGHERTAXON$Corymbia opaca$	Corymbia sp_ms_opaca
+    2$_NO_HIGHERTAXON$Corymbia$	Corymbia
+    1$_NO_HIGHERTAXON$Cratystylis conocephala$	Cratystylis sp_ms_conocephala
+   58$_NO_HIGHERTAXON$Cryptandra imbricata$	Cryptandra sp_ms_imbricata
+    1$_NO_HIGHERTAXON$Cryptocarya murrayi$	Cryptocarya sp_ms_murrayi
+    5$_NO_HIGHERTAXON$Cullen lachnostachys$	Cullen sp_ms_lachnostachys
+    6$_NO_HIGHERTAXON$Cullen leucochaites$	Cullen sp_ms_leucochaites
+    4$_NO_HIGHERTAXON$Cyperus gymnocaulos$	Cyperus sp_ms_gymnocaulos
+    1$_NO_HIGHERTAXON$Dampiera$	Dampiera
+   14$_NO_HIGHERTAXON$Darwinia capitellata$	Darwinia sp_ms_capitellata
+   13$_NO_HIGHERTAXON$Darwinia fascicularis subsp. fascicularis$	Darwinia sp_ms_fascicularis
+    1$_NO_HIGHERTAXON$Darwinia fascicularis$	Darwinia sp_ms_fascicularis
+   56$_NO_HIGHERTAXON$Darwinia vestita$	Darwinia sp_ms_vestita
+    2$_NO_HIGHERTAXON$Darwinia$	Darwinia
+    6$_NO_HIGHERTAXON$Daviesia mimosoides$	Daviesia sp_ms_mimosoides
+    2$_NO_HIGHERTAXON$Daviesia ulcifolia$	Daviesia sp_ms_ulcifolia
+    7$_NO_HIGHERTAXON$Dendrocnide excelsa$	Dendrocnide sp_ms_excelsa
+   20$_NO_HIGHERTAXON$Dicladanthera$	Dicladanthera
+    2$_NO_HIGHERTAXON$Dicrastylis beveridgei$	Dicrastylis sp_ms_beveridgei
+   18$_NO_HIGHERTAXON$Dicrastylis cordifolia$	Dicrastylis sp_ms_cordifolia
+    1$_NO_HIGHERTAXON$Dicrastylis doranii$	Dicrastylis sp_ms_doranii
+   41$_NO_HIGHERTAXON$Dicrastylis fulva$	Dicrastylis sp_ms_fulva
+    4$_NO_HIGHERTAXON$Dicrastylis gilesii var. gilesii$	Dicrastylis sp_ms_gilesii
+    1$_NO_HIGHERTAXON$Dillwynia elegans$	Dillwynia sp_ms_elegans
+    2$_NO_HIGHERTAXON$Dillwynia ericifolia$	Dillwynia sp_ms_ericifolia
+    2$_NO_HIGHERTAXON$Dillwynia glaberrima$	Dillwynia sp_ms_glaberrima
+    8$_NO_HIGHERTAXON$Dillwynia sericea rudis$	Dillwynia sp_sericea_rudis
+    9$_NO_HIGHERTAXON$Dillwynia$	Dillwynia
+    4$_NO_HIGHERTAXON$Dodonaea  subsp. spatulata$	Dodonaea  subsp. spatulata
+   25$_NO_HIGHERTAXON$Dodonaea inaequifolia$	Dodonaea sp_ms_inaequifolia
+   98$_NO_HIGHERTAXON$Dodonaea lobulata$	Dodonaea sp_ms_lobulata
+   28$_NO_HIGHERTAXON$Dodonaea viscosa subsp. angustissima$	Dodonaea sp_ms_viscosa
+   47$_NO_HIGHERTAXON$Dodonaea viscosa subsp. angustissima_delete$	Dodonaea sp_ms_viscosa
+   48$_NO_HIGHERTAXON$Dodonaea viscosa$	Dodonaea sp_ms_viscosa
+    8$_NO_HIGHERTAXON$Dodonaea$	Dodonaea
+   31$_NO_HIGHERTAXON$Drosera andersoniana$	Drosera sp_ms_andersoniana
+   32$_NO_HIGHERTAXON$Drosera auriculata$	Drosera sp_ms_auriculata
+   21$_NO_HIGHERTAXON$Drosera barbigera$	Drosera sp_ms_barbigera
+  273$_NO_HIGHERTAXON$Drosera binata$	Drosera sp_ms_binata
+    8$_NO_HIGHERTAXON$Drosera eneabba$	Drosera sp_ms_eneabba
+    1$_NO_HIGHERTAXON$Drosera enodes$	Drosera sp_ms_enodes
+    7$_NO_HIGHERTAXON$Drosera erythrorhiza magna$	Drosera sp_erythrorhiza_magna
+   26$_NO_HIGHERTAXON$Drosera erythrorhiza$	Drosera sp_ms_erythrorhiza
+    4$_NO_HIGHERTAXON$Drosera gigantea$	Drosera sp_ms_gigantea
+    8$_NO_HIGHERTAXON$Drosera heterophylla$	Drosera sp_ms_heterophylla
+  265$_NO_HIGHERTAXON$Drosera indica$	Drosera sp_ms_indica
+   38$_NO_HIGHERTAXON$Drosera macrantha macrantha$	Drosera sp_macrantha_macrantha
+    1$_NO_HIGHERTAXON$Drosera macrantha$	Drosera sp_ms_macrantha
+   85$_NO_HIGHERTAXON$Drosera macrophylla$	Drosera sp_ms_macrophylla
+    3$_NO_HIGHERTAXON$Drosera neesii borealis$	Drosera sp_neesii_borealis
+   48$_NO_HIGHERTAXON$Drosera pallida$	Drosera sp_ms_pallida
+   15$_NO_HIGHERTAXON$Drosera peltata$	Drosera sp_ms_peltata
+   32$_NO_HIGHERTAXON$Drosera petiolaris$	Drosera sp_ms_petiolaris
+    7$_NO_HIGHERTAXON$Drosera radicans$	Drosera sp_ms_radicans
+   46$_NO_HIGHERTAXON$Drosera scorpioides$	Drosera sp_ms_scorpioides
+   65$_NO_HIGHERTAXON$Drosera sp.$	Drosera sp.
+   72$_NO_HIGHERTAXON$Drosera stolonifera compacta$	Drosera sp_stolonifera_compacta
+   54$_NO_HIGHERTAXON$Drosera stolonifera$	Drosera sp_ms_stolonifera
+   12$_NO_HIGHERTAXON$Drosera subhirtella$	Drosera sp_ms_subhirtella
+   24$_NO_HIGHERTAXON$Drosera$	Drosera
+    1$_NO_HIGHERTAXON$Dryandra$	Dryandra
+    8$_NO_HIGHERTAXON$Duboisia hopwoodii$	Duboisia sp_ms_hopwoodii
+   25$_NO_HIGHERTAXON$Dysphania rhadinostachya subsp. rhadinostachya$	Dysphania sp_ms_rhadinostachya
+   23$_NO_HIGHERTAXON$Ectrosia schultzii$	Ectrosia sp_ms_schultzii
+   15$_NO_HIGHERTAXON$Ehrharta erecta$	Ehrharta sp_ms_erecta
+    3$_NO_HIGHERTAXON$Ehrharta$	Ehrharta
+    2$_NO_HIGHERTAXON$Elaeocarpus obovatus$	Elaeocarpus sp_ms_obovatus
+    2$_NO_HIGHERTAXON$Enchylaena$	Enchylaena
+   43$_NO_HIGHERTAXON$Enekbatus stowardii$	Enekbatus sp_ms_stowardii
+   19$_NO_HIGHERTAXON$Enekbatus$	Enekbatus
+   37$_NO_HIGHERTAXON$Enneapogon$	Enneapogon
+   20$_NO_HIGHERTAXON$Epacris gunnii$	Epacris sp_ms_gunnii
+    2$_NO_HIGHERTAXON$Epacris paludosa$	Epacris sp_ms_paludosa
+   18$_NO_HIGHERTAXON$Epacris$	Epacris
+    6$_NO_HIGHERTAXON$Eragrostis tenellula$	Eragrostis sp_ms_tenellula
+   15$_NO_HIGHERTAXON$Eremaea beaufortioides$	Eremaea sp_ms_beaufortioides
+    1$_NO_HIGHERTAXON$Eremaea pauciflora$	Eremaea sp_ms_pauciflora
+   33$_NO_HIGHERTAXON$Eremaea$	Eremaea
+   11$_NO_HIGHERTAXON$Eremophila  angustifolia$	Eremophila sp_ms_angustifolia
+    4$_NO_HIGHERTAXON$Eremophila  glabra$	Eremophila sp_ms_glabra
+    6$_NO_HIGHERTAXON$Eremophila caerulea$	Eremophila sp_ms_caerulea
+   19$_NO_HIGHERTAXON$Eremophila clarkei$	Eremophila sp_ms_clarkei
+    1$_NO_HIGHERTAXON$Eremophila cuneifolia$	Eremophila sp_ms_cuneifolia
+    1$_NO_HIGHERTAXON$Eremophila decipiens decipiens$	Eremophila sp_decipiens_decipiens
+    7$_NO_HIGHERTAXON$Eremophila decipiens subsp. decipiens$	Eremophila sp_ms_decipiens
+   16$_NO_HIGHERTAXON$Eremophila dempsteri$	Eremophila sp_ms_dempsteri
+   19$_NO_HIGHERTAXON$Eremophila forrestii subsp. forrestii_delete$	Eremophila sp_ms_forrestii
+    1$_NO_HIGHERTAXON$Eremophila forrestii$	Eremophila sp_ms_forrestii
+    1$_NO_HIGHERTAXON$Eremophila fraseri$	Eremophila sp_ms_fraseri
+   42$_NO_HIGHERTAXON$Eremophila freelingii$	Eremophila sp_ms_freelingii
+   15$_NO_HIGHERTAXON$Eremophila gilesii$	Eremophila sp_ms_gilesii
+    2$_NO_HIGHERTAXON$Eremophila glabra$	Eremophila sp_ms_glabra
+    1$_NO_HIGHERTAXON$Eremophila granitica$	Eremophila sp_ms_granitica
+   64$_NO_HIGHERTAXON$Eremophila interstans subsp. virgata$	Eremophila sp_ms_interstans
+   51$_NO_HIGHERTAXON$Eremophila interstans$	Eremophila sp_ms_interstans
+   30$_NO_HIGHERTAXON$Eremophila longifolia$	Eremophila sp_ms_longifolia
+    6$_NO_HIGHERTAXON$Eremophila miniata$	Eremophila sp_ms_miniata
+    3$_NO_HIGHERTAXON$Eremophila oppositifolia subsp. angustifolia$	Eremophila sp_ms_oppositifolia
+   10$_NO_HIGHERTAXON$Eremophila pustulata$	Eremophila sp_ms_pustulata
+   39$_NO_HIGHERTAXON$Eremophila scoparia$	Eremophila sp_ms_scoparia
+   30$_NO_HIGHERTAXON$Eremophila serrulata$	Eremophila sp_ms_serrulata
+   33$_NO_HIGHERTAXON$Eremophila sp.$	Eremophila sp.
+   30$_NO_HIGHERTAXON$Eremophila sturtii$	Eremophila sp_ms_sturtii
+    1$_NO_HIGHERTAXON$Eremophila willsii$	Eremophila sp_ms_willsii
+  104$_NO_HIGHERTAXON$Eremophila$	Eremophila
+   45$_NO_HIGHERTAXON$Eriachne$	Eriachne
+    1$_NO_HIGHERTAXON$Eucalyptus  elachantha$	Eucalyptus sp_ms_elachantha
+    6$_NO_HIGHERTAXON$Eucalyptus angulosa$	Eucalyptus sp_ms_angulosa
+    4$_NO_HIGHERTAXON$Eucalyptus camaldulensis$	Eucalyptus sp_ms_camaldulensis
+    1$_NO_HIGHERTAXON$Eucalyptus coccifera$	Eucalyptus sp_ms_coccifera
+   70$_NO_HIGHERTAXON$Eucalyptus cordata$	Eucalyptus sp_ms_cordata
+    1$_NO_HIGHERTAXON$Eucalyptus delegatensis &#40;possibly&#41;$	Eucalyptus sp_delegatensis_possibly
+    2$_NO_HIGHERTAXON$Eucalyptus gamophylla$	Eucalyptus sp_ms_gamophylla
+    1$_NO_HIGHERTAXON$Eucalyptus globulus$	Eucalyptus sp_ms_globulus
+   30$_NO_HIGHERTAXON$Eucalyptus gunnii$	Eucalyptus sp_ms_gunnii
+   12$_NO_HIGHERTAXON$Eucalyptus largiflorens$	Eucalyptus sp_ms_largiflorens
+    7$_NO_HIGHERTAXON$Eucalyptus macrocarpa$	Eucalyptus sp_ms_macrocarpa
+    2$_NO_HIGHERTAXON$Eucalyptus marginata$	Eucalyptus sp_ms_marginata
+    2$_NO_HIGHERTAXON$Eucalyptus melliodora$	Eucalyptus sp_ms_melliodora
+    3$_NO_HIGHERTAXON$Eucalyptus melliodoradelete$	Eucalyptus sp_ms_melliodoradelete
+    1$_NO_HIGHERTAXON$Eucalyptus moluccana$	Eucalyptus sp_ms_moluccana
+   12$_NO_HIGHERTAXON$Eucalyptus nitida$	Eucalyptus sp_ms_nitida
+    1$_NO_HIGHERTAXON$Eucalyptus odorata$	Eucalyptus sp_ms_odorata
+    1$_NO_HIGHERTAXON$Eucalyptus populnea$	Eucalyptus sp_ms_populnea
+   26$_NO_HIGHERTAXON$Eucalyptus salubris$	Eucalyptus sp_ms_salubris
+   16$_NO_HIGHERTAXON$Eucalyptus sp.$	Eucalyptus sp.
+   35$_NO_HIGHERTAXON$Eucalyptus stellulata$	Eucalyptus sp_ms_stellulata
+    3$_NO_HIGHERTAXON$Eucalyptus viminalis subsp. cygnetensis$	Eucalyptus sp_ms_viminalis
+   11$_NO_HIGHERTAXON$Eucalyptus viminalis$	Eucalyptus sp_ms_viminalis
+   16$_NO_HIGHERTAXON$Eucalyptus$	Eucalyptus
+   12$_NO_HIGHERTAXON$Euodia elleryana$	Euodia sp_ms_elleryana
+    6$_NO_HIGHERTAXON$Euodia sp$	Euodia sp
+    5$_NO_HIGHERTAXON$Euroschinus falcata$	Euroschinus sp_ms_falcata
+    9$_NO_HIGHERTAXON$Euroschinus$	Euroschinus
+  105$_NO_HIGHERTAXON$Exocarpos aphyllus$	Exocarpos sp_ms_aphyllus
+    6$_NO_HIGHERTAXON$Ficus opposita var. opposita$	Ficus sp_ms_opposita
+   12$_NO_HIGHERTAXON$Ficus rubiginosa$	Ficus sp_ms_rubiginosa
+   31$_NO_HIGHERTAXON$Ficus$	Ficus
+   31$_NO_HIGHERTAXON$Gahnia aspera$	Gahnia sp_ms_aspera
+    1$_NO_HIGHERTAXON$Gahnia grandis$	Gahnia sp_ms_grandis
+  144$_NO_HIGHERTAXON$Gahnia$	Gahnia
+    9$_NO_HIGHERTAXON$Gastrolobium microcarpum$	Gastrolobium sp_ms_microcarpum
+   29$_NO_HIGHERTAXON$Gastrolobium spinosum$	Gastrolobium sp_ms_spinosum
+    2$_NO_HIGHERTAXON$Geijera  var. salicifolia$	Geijera  var. salicifolia
+   13$_NO_HIGHERTAXON$Geijera parviflora$	Geijera sp_ms_parviflora
+    4$_NO_HIGHERTAXON$Geijera$	Geijera
+   10$_NO_HIGHERTAXON$Gleichenia dicarpa$	Gleichenia sp_ms_dicarpa
+    2$_NO_HIGHERTAXON$Gleichenia$	Gleichenia
+   22$_NO_HIGHERTAXON$Glycine canescens$	Glycine sp_ms_canescens
+    2$_NO_HIGHERTAXON$Gompholobium huegelii$	Gompholobium sp_ms_huegelii
+    1$_NO_HIGHERTAXON$Gomphrena canescens$	Gomphrena sp_ms_canescens
+   30$_NO_HIGHERTAXON$Goodenia quasilibera$	Goodenia sp_ms_quasilibera
+  170$_NO_HIGHERTAXON$Goodenia ramelii$	Goodenia sp_ms_ramelii
+    1$_NO_HIGHERTAXON$Goodenia stobbsiana$	Goodenia sp_ms_stobbsiana
+   18$_NO_HIGHERTAXON$Goodenia$	Goodenia
+    2$_NO_HIGHERTAXON$Gossypium robinsoni$	Gossypium sp_ms_robinsoni
+    2$_NO_HIGHERTAXON$Grevillea  macrodonta$	Grevillea sp_ms_macrodonta
+    1$_NO_HIGHERTAXON$Grevillea acacioides$	Grevillea sp_ms_acacioides
+   27$_NO_HIGHERTAXON$Grevillea agrifolia$	Grevillea sp_ms_agrifolia
+    3$_NO_HIGHERTAXON$Grevillea armigera$	Grevillea sp_ms_armigera
+   11$_NO_HIGHERTAXON$Grevillea cagiana$	Grevillea sp_ms_cagiana
+    5$_NO_HIGHERTAXON$Grevillea didymobotrya subsp. didymobotrya$	Grevillea sp_ms_didymobotrya
+   51$_NO_HIGHERTAXON$Grevillea eriostachya$	Grevillea sp_ms_eriostachya
+   25$_NO_HIGHERTAXON$Grevillea hookeriana subsp. apiciloba$	Grevillea sp_ms_hookeriana
+  299$_NO_HIGHERTAXON$Grevillea juncifolia subsp. juncifolia$	Grevillea sp_ms_juncifolia
+   27$_NO_HIGHERTAXON$Grevillea juncifolia$	Grevillea sp_ms_juncifolia
+   10$_NO_HIGHERTAXON$Grevillea leucopteris$	Grevillea sp_ms_leucopteris
+   74$_NO_HIGHERTAXON$Grevillea levis$	Grevillea sp_ms_levis
+    3$_NO_HIGHERTAXON$Grevillea obliquistigma subsp. obliquistigma$	Grevillea sp_ms_obliquistigma
+   15$_NO_HIGHERTAXON$Grevillea oligomera$	Grevillea sp_ms_oligomera
+    3$_NO_HIGHERTAXON$Grevillea paniculata$	Grevillea sp_ms_paniculata
+   22$_NO_HIGHERTAXON$Grevillea polybotrya$	Grevillea sp_ms_polybotrya
+    1$_NO_HIGHERTAXON$Grevillea pteridifolia$	Grevillea sp_ms_pteridifolia
+    2$_NO_HIGHERTAXON$Grevillea rosmarinifolia$	Grevillea sp_ms_rosmarinifolia
+   35$_NO_HIGHERTAXON$Grevillea stenobotrya$	Grevillea sp_ms_stenobotrya
+    9$_NO_HIGHERTAXON$Grevillea tetragonoloba$	Grevillea sp_ms_tetragonoloba
+    4$_NO_HIGHERTAXON$Grevillea$	Grevillea
+    2$_NO_HIGHERTAXON$Grewia breviflora$	Grewia sp_ms_breviflora
+   10$_NO_HIGHERTAXON$Grewia retusifolia$	Grewia sp_ms_retusifolia
+    2$_NO_HIGHERTAXON$Guioa semiglauca$	Guioa sp_ms_semiglauca
+    5$_NO_HIGHERTAXON$Gymnanthera$	Gymnanthera
+    1$_NO_HIGHERTAXON$Gymnostoma sp.$	Gymnostoma sp.
+   35$_NO_HIGHERTAXON$Gyrostemon ramulosus$	Gyrostemon sp_ms_ramulosus
+    2$_NO_HIGHERTAXON$Hakea  subsp. notialis$	Hakea  subsp. notialis
+    2$_NO_HIGHERTAXON$Hakea adnata$	Hakea sp_ms_adnata
+    1$_NO_HIGHERTAXON$Hakea horrida$	Hakea sp_ms_horrida
+    7$_NO_HIGHERTAXON$Hakea leucoptera$	Hakea sp_ms_leucoptera
+    8$_NO_HIGHERTAXON$Hakea lorea subsp. lorea$	Hakea sp_ms_lorea
+   17$_NO_HIGHERTAXON$Hakea mitchellii$	Hakea sp_ms_mitchellii
+    1$_NO_HIGHERTAXON$Hakea nodosa$	Hakea sp_ms_nodosa
+   26$_NO_HIGHERTAXON$Hakea oleifolia$	Hakea sp_ms_oleifolia
+    5$_NO_HIGHERTAXON$Hakea preissii$	Hakea sp_ms_preissii
+    1$_NO_HIGHERTAXON$Hakea prostrata$	Hakea sp_ms_prostrata
+    3$_NO_HIGHERTAXON$Hakea sericea$	Hakea sp_ms_sericea
+    2$_NO_HIGHERTAXON$Hakea trifurcata$	Hakea sp_ms_trifurcata
+    9$_NO_HIGHERTAXON$Hakea ulicina$	Hakea sp_ms_ulicina
+    3$_NO_HIGHERTAXON$Hakea$	Hakea
+    3$_NO_HIGHERTAXON$Halgania cyanea$	Halgania sp_ms_cyanea
+   30$_NO_HIGHERTAXON$Halgania viscosa$	Halgania sp_ms_viscosa
+    7$_NO_HIGHERTAXON$Halosarcia halocnemoides subsp. tenuis$	Halosarcia sp_ms_halocnemoides
+    1$_NO_HIGHERTAXON$Halosarcia halocnemoides$	Halosarcia sp_ms_halocnemoides
+   15$_NO_HIGHERTAXON$Halosarcia indica subsp. bidens$	Halosarcia sp_ms_indica
+    1$_NO_HIGHERTAXON$Halosarcia indica$	Halosarcia sp_ms_indica
+   59$_NO_HIGHERTAXON$Halosarcia pergranulata subsp. pergranulata$	Halosarcia sp_ms_pergranulata
+    2$_NO_HIGHERTAXON$Halosarcia pterygosperma$	Halosarcia sp_ms_pterygosperma
+    1$_NO_HIGHERTAXON$Halosarcia$	Halosarcia
+    1$_NO_HIGHERTAXON$Helichrysum sp.$	Helichrysum sp.
+    1$_NO_HIGHERTAXON$Heliotropium pleiopterum$	Heliotropium sp_ms_pleiopterum
+    2$_NO_HIGHERTAXON$Helminthotheca echioides$	Helminthotheca sp_ms_echioides
+    9$_NO_HIGHERTAXON$Hemigenia botryphylla$	Hemigenia sp_ms_botryphylla
+   54$_NO_HIGHERTAXON$Heteropogon contortus$	Heteropogon sp_ms_contortus
+   15$_NO_HIGHERTAXON$Hibbertia arcuata$	Hibbertia sp_ms_arcuata
+   71$_NO_HIGHERTAXON$Hibbertia cuneiformis$	Hibbertia sp_ms_cuneiformis
+    6$_NO_HIGHERTAXON$Hibbertia furfuracea$	Hibbertia sp_ms_furfuracea
+   32$_NO_HIGHERTAXON$Hibbertia hypericoides$	Hibbertia sp_ms_hypericoides
+    2$_NO_HIGHERTAXON$Hibbertia obtusifolia$	Hibbertia sp_ms_obtusifolia
+    6$_NO_HIGHERTAXON$Hibbertia riparia$	Hibbertia sp_ms_riparia
+   12$_NO_HIGHERTAXON$Hibbertia sericea var. sericea$	Hibbertia sp_ms_sericea
+    1$_NO_HIGHERTAXON$Hibbertia sericea$	Hibbertia sp_ms_sericea
+    1$_NO_HIGHERTAXON$Hibbertia serrata$	Hibbertia sp_ms_serrata
+    5$_NO_HIGHERTAXON$Hibbertia subvaginata$	Hibbertia sp_ms_subvaginata
+   76$_NO_HIGHERTAXON$Hibbertia$	Hibbertia
+   35$_NO_HIGHERTAXON$Hibiscus panduriformis$	Hibiscus sp_ms_panduriformis
+    9$_NO_HIGHERTAXON$Hibiscus sabdariffa$	Hibiscus sp_ms_sabdariffa
+    4$_NO_HIGHERTAXON$Hibiscus$	Hibiscus
+   15$_NO_HIGHERTAXON$Homalanthus sp.$	Homalanthus sp.
+    2$_NO_HIGHERTAXON$Homalium sp.$	Homalium sp.
+   21$_NO_HIGHERTAXON$Homalocalyx aureus$	Homalocalyx sp_ms_aureus
+   83$_NO_HIGHERTAXON$Homalocalyx thryptomenoides$	Homalocalyx sp_ms_thryptomenoides
+   23$_NO_HIGHERTAXON$Howeia fosteriana$	Howeia sp_ms_fosteriana
+   21$_NO_HIGHERTAXON$Hypolaena$	Hypolaena
+   11$_NO_HIGHERTAXON$Ipomoea$	Ipomoea
+   23$_NO_HIGHERTAXON$Ixiolaena leptolepis$	Ixiolaena sp_ms_leptolepis
+   20$_NO_HIGHERTAXON$Ixiolaena viscosa$	Ixiolaena sp_ms_viscosa
+    6$_NO_HIGHERTAXON$Jacksonia aculeata$	Jacksonia sp_ms_aculeata
+    5$_NO_HIGHERTAXON$Jacksonia arenicola$	Jacksonia sp_ms_arenicola
+   20$_NO_HIGHERTAXON$Jacksonia arida$	Jacksonia sp_ms_arida
+    9$_NO_HIGHERTAXON$Jacksonia calcicola$	Jacksonia sp_ms_calcicola
+    3$_NO_HIGHERTAXON$Jacksonia cupulifera$	Jacksonia sp_ms_cupulifera
+    7$_NO_HIGHERTAXON$Jacksonia furcellata$	Jacksonia sp_ms_furcellata
+   13$_NO_HIGHERTAXON$Jacksonia hakeoides$	Jacksonia sp_ms_hakeoides
+   51$_NO_HIGHERTAXON$Jacksonia horrida$	Jacksonia sp_ms_horrida
+   13$_NO_HIGHERTAXON$Jacksonia scoparia$	Jacksonia sp_ms_scoparia
+   12$_NO_HIGHERTAXON$Jacksonia sp.$	Jacksonia sp.
+    9$_NO_HIGHERTAXON$Jacquemontia paniculata$	Jacquemontia sp_ms_paniculata
+    1$_NO_HIGHERTAXON$Kailarsenia ochreata$	Kailarsenia sp_ms_ochreata
+   73$_NO_HIGHERTAXON$Keraudrenia cacaobrunnea$	Keraudrenia sp_ms_cacaobrunnea
+    1$_NO_HIGHERTAXON$Keraudrenia hermanniifolia$	Keraudrenia sp_ms_hermanniifolia
+    2$_NO_HIGHERTAXON$Keraudrenia integrifolia$	Keraudrenia sp_ms_integrifolia
+   31$_NO_HIGHERTAXON$Keraudrenia velutina velutina$	Keraudrenia sp_velutina_velutina
+    6$_NO_HIGHERTAXON$Keraudrenia$	Keraudrenia
+   53$_NO_HIGHERTAXON$Kunzea ambigua$	Kunzea sp_ms_ambigua
+    1$_NO_HIGHERTAXON$Kunzea ericoides$	Kunzea sp_ms_ericoides
+   48$_NO_HIGHERTAXON$Kunzea glabrescens$	Kunzea sp_ms_glabrescens
+  150$_NO_HIGHERTAXON$Kunzea$	Kunzea
+    1$_NO_HIGHERTAXON$Lachnostachys coolgardiensis$	Lachnostachys sp_ms_coolgardiensis
+    1$_NO_HIGHERTAXON$Lamarchea hakeifolia var. hakeifolia$	Lamarchea sp_ms_hakeifolia
+    1$_NO_HIGHERTAXON$Lambertia  inermis$	Lambertia sp_ms_inermis
+    3$_NO_HIGHERTAXON$Lambertia inermis var. inermis$	Lambertia sp_ms_inermis
+    3$_NO_HIGHERTAXON$Lambertia inermis$	Lambertia sp_ms_inermis
+    2$_NO_HIGHERTAXON$Lambertia$	Lambertia
+   12$_NO_HIGHERTAXON$Lasiopetalum floribundum$	Lasiopetalum sp_ms_floribundum
+   27$_NO_HIGHERTAXON$Lawrencia densiflora$	Lawrencia sp_ms_densiflora
+    2$_NO_HIGHERTAXON$Lechenaultia$	Lechenaultia
+    1$_NO_HIGHERTAXON$Lepidorrhachis mooreana$	Lepidorrhachis sp_ms_mooreana
+    4$_NO_HIGHERTAXON$Lepidosperma sp. &#40;ng &#38; mal 4907&#41;$	Lepidosperma sp_ng_mal_4907
+   55$_NO_HIGHERTAXON$Lepidosperma$	Lepidosperma
+    5$_NO_HIGHERTAXON$Leptecophylla juniperiana$	Leptecophylla sp_ms_juniperiana
+  162$_NO_HIGHERTAXON$Leptocarpus tenax$	Leptocarpus sp_ms_tenax
+    3$_NO_HIGHERTAXON$Leptomeria pachyclada$	Leptomeria sp_ms_pachyclada
+    1$_NO_HIGHERTAXON$Leptospermum brevipes$	Leptospermum sp_ms_brevipes
+    4$_NO_HIGHERTAXON$Leptospermum coriaceum$	Leptospermum sp_ms_coriaceum
+   22$_NO_HIGHERTAXON$Leptospermum fastigiatum$	Leptospermum sp_ms_fastigiatum
+   32$_NO_HIGHERTAXON$Leptospermum glaucescens$	Leptospermum sp_ms_glaucescens
+    1$_NO_HIGHERTAXON$Leptospermum laevigata$	Leptospermum sp_ms_laevigata
+   40$_NO_HIGHERTAXON$Leptospermum laevigatum$	Leptospermum sp_ms_laevigatum
+  105$_NO_HIGHERTAXON$Leptospermum lanigerum$	Leptospermum sp_ms_lanigerum
+   40$_NO_HIGHERTAXON$Leptospermum myrsinoides$	Leptospermum sp_ms_myrsinoides
+   35$_NO_HIGHERTAXON$Leptospermum myrtifolium$	Leptospermum sp_ms_myrtifolium
+    1$_NO_HIGHERTAXON$Leptospermum namadgiense$	Leptospermum sp_ms_namadgiense
+   14$_NO_HIGHERTAXON$Leptospermum nitidum$	Leptospermum sp_ms_nitidum
+    2$_NO_HIGHERTAXON$Leptospermum oligandrum$	Leptospermum sp_ms_oligandrum
+   12$_NO_HIGHERTAXON$Leptospermum parvifolium$	Leptospermum sp_ms_parvifolium
+    8$_NO_HIGHERTAXON$Leptospermum polygalifolium$	Leptospermum sp_ms_polygalifolium
+    3$_NO_HIGHERTAXON$Leptospermum rupestre$	Leptospermum sp_ms_rupestre
+   75$_NO_HIGHERTAXON$Leptospermum scoparium$	Leptospermum sp_ms_scoparium
+  133$_NO_HIGHERTAXON$Leptospermum sp.$	Leptospermum sp.
+    2$_NO_HIGHERTAXON$Leptospermum squarrosum$	Leptospermum sp_ms_squarrosum
+  130$_NO_HIGHERTAXON$Leptospermum$	Leptospermum
+    2$_NO_HIGHERTAXON$Leucophyta brownii$	Leucophyta sp_ms_brownii
+    9$_NO_HIGHERTAXON$Leucopogon muticus$	Leucopogon sp_ms_muticus
+  155$_NO_HIGHERTAXON$Leucopogon parviflorus$	Leucopogon sp_ms_parviflorus
+  125$_NO_HIGHERTAXON$Leucopogon$	Leucopogon
+    2$_NO_HIGHERTAXON$Lithomyrtus retusa$	Lithomyrtus sp_ms_retusa
+    2$_NO_HIGHERTAXON$Litsea glutinosa$	Litsea sp_ms_glutinosa
+    2$_NO_HIGHERTAXON$Litsea sp.$	Litsea sp.
+    1$_NO_HIGHERTAXON$Livistona$	Livistona
+   40$_NO_HIGHERTAXON$Lomandra longifolia$	Lomandra sp_ms_longifolia
+   76$_NO_HIGHERTAXON$Lomandra sp.$	Lomandra sp.
+   13$_NO_HIGHERTAXON$Lotus corniculatus$	Lotus sp_ms_corniculatus
+   13$_NO_HIGHERTAXON$Lyginia imberbis$	Lyginia sp_ms_imberbis
+   18$_NO_HIGHERTAXON$Lysinema ciliatum$	Lysinema sp_ms_ciliatum
+    4$_NO_HIGHERTAXON$Maireana pyramidata$	Maireana sp_ms_pyramidata
+    4$_NO_HIGHERTAXON$Maireana triptera$	Maireana sp_ms_triptera
+    6$_NO_HIGHERTAXON$Maireana villosa$	Maireana sp_ms_villosa
+   11$_NO_HIGHERTAXON$Maireana$	Maireana
+    1$_NO_HIGHERTAXON$Malleostemon hursthousei$	Malleostemon sp_ms_hursthousei
+    8$_NO_HIGHERTAXON$Malleostemon pedunculatus$	Malleostemon sp_ms_pedunculatus
+   58$_NO_HIGHERTAXON$Malleostemon roseus$	Malleostemon sp_ms_roseus
+  179$_NO_HIGHERTAXON$Malleostemon tuberculatus$	Malleostemon sp_ms_tuberculatus
+  332$_NO_HIGHERTAXON$Malleostemon$	Malleostemon
+    1$_NO_HIGHERTAXON$Mallotus mollissima$	Mallotus sp_ms_mollissima
+   10$_NO_HIGHERTAXON$Mallotus surculosus$	Mallotus sp_ms_surculosus
+   21$_NO_HIGHERTAXON$Mallotus$	Mallotus
+   31$_NO_HIGHERTAXON$Malva australiana$	Malva sp_ms_australiana
+    6$_NO_HIGHERTAXON$Malva$	Malva
+    6$_NO_HIGHERTAXON$Malvastrum$	Malvastrum
+    1$_NO_HIGHERTAXON$Mangifera indica$	Mangifera sp_ms_indica
+    1$_NO_HIGHERTAXON$Maytenus fournieri$	Maytenus sp_ms_fournieri
+   20$_NO_HIGHERTAXON$Maytenus$	Maytenus
+    7$_NO_HIGHERTAXON$Melaleuca  huegelii$	Melaleuca sp_ms_huegelii
+   20$_NO_HIGHERTAXON$Melaleuca brevifolia$	Melaleuca sp_ms_brevifolia
+   14$_NO_HIGHERTAXON$Melaleuca cardiophylla$	Melaleuca sp_ms_cardiophylla
+    3$_NO_HIGHERTAXON$Melaleuca conothamnoides$	Melaleuca sp_ms_conothamnoides
+    1$_NO_HIGHERTAXON$Melaleuca cucullata$	Melaleuca sp_ms_cucullata
+    5$_NO_HIGHERTAXON$Melaleuca cuticularis$	Melaleuca sp_ms_cuticularis
+   30$_NO_HIGHERTAXON$Melaleuca ericifolia$	Melaleuca sp_ms_ericifolia
+   39$_NO_HIGHERTAXON$Melaleuca gibbosa$	Melaleuca sp_ms_gibbosa
+    1$_NO_HIGHERTAXON$Melaleuca halmaturorum$	Melaleuca sp_ms_halmaturorum
+    2$_NO_HIGHERTAXON$Melaleuca hamata$	Melaleuca sp_ms_hamata
+   55$_NO_HIGHERTAXON$Melaleuca hamulosa$	Melaleuca sp_ms_hamulosa
+   30$_NO_HIGHERTAXON$Melaleuca huegelii subsp. huegelii$	Melaleuca sp_ms_huegelii
+   14$_NO_HIGHERTAXON$Melaleuca huegelii$	Melaleuca sp_ms_huegelii
+   22$_NO_HIGHERTAXON$Melaleuca lanceolata$	Melaleuca sp_ms_lanceolata
+    2$_NO_HIGHERTAXON$Melaleuca leiocarpa$	Melaleuca sp_ms_leiocarpa
+   35$_NO_HIGHERTAXON$Melaleuca monantha$	Melaleuca sp_ms_monantha
+    6$_NO_HIGHERTAXON$Melaleuca nematophylla$	Melaleuca sp_ms_nematophylla
+    2$_NO_HIGHERTAXON$Melaleuca nodosa$	Melaleuca sp_ms_nodosa
+    5$_NO_HIGHERTAXON$Melaleuca pauperiflora$	Melaleuca sp_ms_pauperiflora
+   12$_NO_HIGHERTAXON$Melaleuca phoidophylla$	Melaleuca sp_ms_phoidophylla
+   38$_NO_HIGHERTAXON$Melaleuca preissiana$	Melaleuca sp_ms_preissiana
+   27$_NO_HIGHERTAXON$Melaleuca pulchella$	Melaleuca sp_ms_pulchella
+    4$_NO_HIGHERTAXON$Melaleuca pustulata$	Melaleuca sp_ms_pustulata
+    3$_NO_HIGHERTAXON$Melaleuca quinquenervia$	Melaleuca sp_ms_quinquenervia
+   32$_NO_HIGHERTAXON$Melaleuca radula$	Melaleuca sp_ms_radula
+    7$_NO_HIGHERTAXON$Melaleuca raphiophylla$	Melaleuca sp_ms_raphiophylla
+   20$_NO_HIGHERTAXON$Melaleuca rhaphiophylla$	Melaleuca sp_ms_rhaphiophylla
+    1$_NO_HIGHERTAXON$Melaleuca sapientes$	Melaleuca sp_ms_sapientes
+   57$_NO_HIGHERTAXON$Melaleuca sheathiana$	Melaleuca sp_ms_sheathiana
+    6$_NO_HIGHERTAXON$Melaleuca sp.$	Melaleuca sp.
+    3$_NO_HIGHERTAXON$Melaleuca spathulata$	Melaleuca sp_ms_spathulata
+    4$_NO_HIGHERTAXON$Melaleuca squarrosa$	Melaleuca sp_ms_squarrosa
+   61$_NO_HIGHERTAXON$Melaleuca stereophloia$	Melaleuca sp_ms_stereophloia
+   56$_NO_HIGHERTAXON$Melaleuca systena$	Melaleuca sp_ms_systena
+    9$_NO_HIGHERTAXON$Melaleuca thymoides$	Melaleuca sp_ms_thymoides
+   37$_NO_HIGHERTAXON$Melaleuca uncinata$	Melaleuca sp_ms_uncinata
+   21$_NO_HIGHERTAXON$Melaleuca viminea$	Melaleuca sp_ms_viminea
+   32$_NO_HIGHERTAXON$Melaleuca viridiflora$	Melaleuca sp_ms_viridiflora
+   50$_NO_HIGHERTAXON$Melaleuca wilsonii$	Melaleuca sp_ms_wilsonii
+  172$_NO_HIGHERTAXON$Melaleuca$	Melaleuca
+   52$_NO_HIGHERTAXON$Melhania$	Melhania
+    8$_NO_HIGHERTAXON$Melicope elleryana$	Melicope sp_ms_elleryana
+    1$_NO_HIGHERTAXON$Metrosideros sclerocarpa$	Metrosideros sp_ms_sclerocarpa
+    5$_NO_HIGHERTAXON$Metrosideros sp.$	Metrosideros sp.
+    3$_NO_HIGHERTAXON$Micromyrtus acuta$	Micromyrtus sp_ms_acuta
+    5$_NO_HIGHERTAXON$Micromyrtus ciliata$	Micromyrtus sp_ms_ciliata
+   12$_NO_HIGHERTAXON$Micromyrtus hursthousei$	Micromyrtus sp_ms_hursthousei
+   37$_NO_HIGHERTAXON$Micromyrtus$	Micromyrtus
+    1$_NO_HIGHERTAXON$Mimosa pudica var. unijuga$	Mimosa sp_ms_pudica
+    3$_NO_HIGHERTAXON$Mirbelia dilatata$	Mirbelia sp_ms_dilatata
+    1$_NO_HIGHERTAXON$Mirbelia$	Mirbelia
+   50$_NO_HIGHERTAXON$Monotoca elliptica &#40;probably&#41;$	Monotoca sp_elliptica_probably
+    1$_NO_HIGHERTAXON$Monotoca elliptica$	Monotoca sp_ms_elliptica
+   42$_NO_HIGHERTAXON$Monotoca glauca$	Monotoca sp_ms_glauca
+   20$_NO_HIGHERTAXON$Monotoca submutica$	Monotoca sp_ms_submutica
+   10$_NO_HIGHERTAXON$Musa sp.$	Musa sp.
+    1$_NO_HIGHERTAXON$Myoporum insulare$	Myoporum sp_ms_insulare
+    1$_NO_HIGHERTAXON$Myoporum laetum$	Myoporum sp_ms_laetum
+    8$_NO_HIGHERTAXON$Myoporum platycarpum subsp. platycarpum$	Myoporum sp_ms_platycarpum
+    2$_NO_HIGHERTAXON$Myriocephalus guerinae$	Myriocephalus sp_ms_guerinae
+    7$_NO_HIGHERTAXON$Nicotiana  subsp. occidentalis$	Nicotiana  subsp. occidentalis
+   13$_NO_HIGHERTAXON$Nitraria billardierei$	Nitraria sp_ms_billardierei
+    1$_NO_HIGHERTAXON$Notelaea microcarpa$	Notelaea sp_ms_microcarpa
+    1$_NO_HIGHERTAXON$Nothofagus cunninghamii$	Nothofagus sp_ms_cunninghamii
+    1$_NO_HIGHERTAXON$Nothofagus gunni$	Nothofagus sp_ms_gunni
+    1$_NO_HIGHERTAXON$Nothofagus sp.$	Nothofagus sp.
+   12$_NO_HIGHERTAXON$Olearia axillaris$	Olearia sp_ms_axillaris
+   54$_NO_HIGHERTAXON$Olearia dampieri subsp. dampieri$	Olearia sp_ms_dampieri
+    9$_NO_HIGHERTAXON$Olearia dampieri subsp. eremicola$	Olearia sp_ms_dampieri
+   16$_NO_HIGHERTAXON$Olearia humilis$	Olearia sp_ms_humilis
+    9$_NO_HIGHERTAXON$Olearia lirata$	Olearia sp_ms_lirata
+    5$_NO_HIGHERTAXON$Olearia pimeleoides$	Olearia sp_ms_pimeleoides
+    2$_NO_HIGHERTAXON$Olearia ramulosa$	Olearia sp_ms_ramulosa
+    4$_NO_HIGHERTAXON$Olearia viscidula$	Olearia sp_ms_viscidula
+   54$_NO_HIGHERTAXON$Olearia$	Olearia
+    3$_NO_HIGHERTAXON$Osmoporus latus$	Osmoporus sp_ms_latus
+    8$_NO_HIGHERTAXON$Oxylobium ellipticum$	Oxylobium sp_ms_ellipticum
+    2$_NO_HIGHERTAXON$Ozothamnus diosmifolius$	Ozothamnus sp_ms_diosmifolius
+    4$_NO_HIGHERTAXON$Ozothamnus hookeri$	Ozothamnus sp_ms_hookeri
+  155$_NO_HIGHERTAXON$Pandanus spiralis$	Pandanus sp_ms_spiralis
+    6$_NO_HIGHERTAXON$Parsonsia$	Parsonsia
+    3$_NO_HIGHERTAXON$Passiflora$	Passiflora
+    4$_NO_HIGHERTAXON$Pelargonium  drummondii$	Pelargonium sp_ms_drummondii
+   27$_NO_HIGHERTAXON$Pelargonium australe subsp. drummondii$	Pelargonium sp_ms_australe
+    1$_NO_HIGHERTAXON$Pelargonium$	Pelargonium
+   11$_NO_HIGHERTAXON$Pericalymma ellipticum$	Pericalymma sp_ms_ellipticum
+    7$_NO_HIGHERTAXON$Pericalymma$	Pericalymma
+    2$_NO_HIGHERTAXON$Persicaria minus$	Persicaria sp_ms_minus
+    1$_NO_HIGHERTAXON$Persoonia bowgada$	Persoonia sp_ms_bowgada
+   17$_NO_HIGHERTAXON$Petalostigma pubescens$	Petalostigma sp_ms_pubescens
+  115$_NO_HIGHERTAXON$Petalostigma$	Petalostigma
+   20$_NO_HIGHERTAXON$Phebalium canaliculatum$	Phebalium sp_ms_canaliculatum
+   11$_NO_HIGHERTAXON$Phebalium filifolium$	Phebalium sp_ms_filifolium
+    1$_NO_HIGHERTAXON$Phebalium ovatifolium$	Phebalium sp_ms_ovatifolium
+   41$_NO_HIGHERTAXON$Phebalium$	Phebalium
+   13$_NO_HIGHERTAXON$Philotheca  deserti$	Philotheca sp_ms_deserti
+    2$_NO_HIGHERTAXON$Philotheca brucei$	Philotheca sp_ms_brucei
+    1$_NO_HIGHERTAXON$Philotheca deserti subsp. deserti$	Philotheca sp_ms_deserti
+    3$_NO_HIGHERTAXON$Philotheca glabra$	Philotheca sp_ms_glabra
+    3$_NO_HIGHERTAXON$Philotheca sericea$	Philotheca sp_ms_sericea
+    5$_NO_HIGHERTAXON$Philotheca tomentella$	Philotheca sp_ms_tomentella
+   22$_NO_HIGHERTAXON$Philotheca$	Philotheca
+   11$_NO_HIGHERTAXON$Phyllota phylicoides$	Phyllota sp_ms_phylicoides
+   11$_NO_HIGHERTAXON$Phymatocarpus porphyrocephalus$	Phymatocarpus sp_ms_porphyrocephalus
+    5$_NO_HIGHERTAXON$Physopsis$	Physopsis
+    8$_NO_HIGHERTAXON$Pileanthus peduncularis subsp. borealis$	Pileanthus sp_ms_peduncularis
+   52$_NO_HIGHERTAXON$Pileanthus vernicosus$	Pileanthus sp_ms_vernicosus
+    5$_NO_HIGHERTAXON$Pimelea  subsp. microcephala$	Pimelea  subsp. microcephala
+  198$_NO_HIGHERTAXON$Pimelea  subsp. serpyllifolia$	Pimelea  subsp. serpyllifolia
+   31$_NO_HIGHERTAXON$Pimelea clavata$	Pimelea sp_ms_clavata
+    8$_NO_HIGHERTAXON$Pimelea ferruginea$	Pimelea sp_ms_ferruginea
+    1$_NO_HIGHERTAXON$Pimelea rosea$	Pimelea sp_ms_rosea
+   15$_NO_HIGHERTAXON$Pimelea sp.$	Pimelea sp.
+    2$_NO_HIGHERTAXON$Pimelea sylvestris$	Pimelea sp_ms_sylvestris
+   19$_NO_HIGHERTAXON$Pimelea$	Pimelea
+   86$_NO_HIGHERTAXON$Pittosporum$	Pittosporum
+   15$_NO_HIGHERTAXON$Pityrodia atriplicina$	Pityrodia sp_ms_atriplicina
+    1$_NO_HIGHERTAXON$Pityrodia bartlingii$	Pityrodia sp_ms_bartlingii
+  144$_NO_HIGHERTAXON$Pityrodia cuneata$	Pityrodia sp_ms_cuneata
+   67$_NO_HIGHERTAXON$Pityrodia loxocarpa$	Pityrodia sp_ms_loxocarpa
+    3$_NO_HIGHERTAXON$Pityrodia paniculata$	Pityrodia sp_ms_paniculata
+   88$_NO_HIGHERTAXON$Pityrodia$	Pityrodia
+   94$_NO_HIGHERTAXON$Poa labillardierei$	Poa sp_ms_labillardierei
+    2$_NO_HIGHERTAXON$Podolobium alpestre$	Podolobium sp_ms_alpestre
+   35$_NO_HIGHERTAXON$Polycalymma stuartii$	Polycalymma sp_ms_stuartii
+   18$_NO_HIGHERTAXON$Polycalymma$	Polycalymma
+    3$_NO_HIGHERTAXON$Pomaderris apetala$	Pomaderris sp_ms_apetala
+    5$_NO_HIGHERTAXON$Pomaderris oraria subsp. calcicola$	Pomaderris sp_ms_oraria
+    1$_NO_HIGHERTAXON$Porana commixta$	Porana sp_ms_commixta
+   12$_NO_HIGHERTAXON$Pouteria sericea$	Pouteria sp_ms_sericea
+    5$_NO_HIGHERTAXON$Prostanthera campbellii$	Prostanthera sp_ms_campbellii
+   56$_NO_HIGHERTAXON$Prostanthera eckersleyana$	Prostanthera sp_ms_eckersleyana
+    7$_NO_HIGHERTAXON$Prostanthera grylloana$	Prostanthera sp_ms_grylloana
+    1$_NO_HIGHERTAXON$Prostanthera striatiflora$	Prostanthera sp_ms_striatiflora
+   16$_NO_HIGHERTAXON$Pteridium sp.$	Pteridium sp.
+   21$_NO_HIGHERTAXON$Ptilotus  var. grandiflorus$	Ptilotus  var. grandiflorus
+    1$_NO_HIGHERTAXON$Ptilotus grandiflorus$	Ptilotus sp_ms_grandiflorus
+    7$_NO_HIGHERTAXON$Ptilotus obovatus var. obovatus$	Ptilotus sp_ms_obovatus
+   46$_NO_HIGHERTAXON$Ptilotus obovatus$	Ptilotus sp_ms_obovatus
+    1$_NO_HIGHERTAXON$Ptilotus polystachyus var. polystachyus$	Ptilotus sp_ms_polystachyus
+   49$_NO_HIGHERTAXON$Ptilotus rotundifolius$	Ptilotus sp_ms_rotundifolius
+   22$_NO_HIGHERTAXON$Ptilotus$	Ptilotus
+    1$_NO_HIGHERTAXON$Pultenaea hispidula$	Pultenaea sp_ms_hispidula
+    9$_NO_HIGHERTAXON$Pultenaea juniperina$	Pultenaea sp_ms_juniperina
+   13$_NO_HIGHERTAXON$Pultenaea tenuifolia$	Pultenaea sp_ms_tenuifolia
+    1$_NO_HIGHERTAXON$Pyrethrum sp.$	Pyrethrum sp.
+    7$_NO_HIGHERTAXON$Rhagodia  subsp. obovata$	Rhagodia  subsp. obovata
+    1$_NO_HIGHERTAXON$Rhagodia baccata$	Rhagodia sp_ms_baccata
+   16$_NO_HIGHERTAXON$Rhagodia drummondii$	Rhagodia sp_ms_drummondii
+    2$_NO_HIGHERTAXON$Rhagodia latifolia subsp. latifolia$	Rhagodia sp_ms_latifolia
+    2$_NO_HIGHERTAXON$Rhagodia preissii subsp. preissii$	Rhagodia sp_ms_preissii
+    1$_NO_HIGHERTAXON$Rhagodia preissii$	Rhagodia sp_ms_preissii
+    6$_NO_HIGHERTAXON$Rhagodia$	Rhagodia
+   28$_NO_HIGHERTAXON$Rhodanthe chlorocephala subsp. rosea$	Rhodanthe sp_ms_chlorocephala
+    3$_NO_HIGHERTAXON$Rhodomyrtus psidioides$	Rhodomyrtus sp_ms_psidioides
+    2$_NO_HIGHERTAXON$Ricinocarpos tuberculatus$	Ricinocarpos sp_ms_tuberculatus
+   11$_NO_HIGHERTAXON$Rorippa nasturtium-aquaticum$	Rorippa sp_ms_nasturtium-aquaticum
+    3$_NO_HIGHERTAXON$Rostellularia$	Rostellularia
+    4$_NO_HIGHERTAXON$Rubus  var. moluccanus$	Rubus  var. moluccanus
+    4$_NO_HIGHERTAXON$Rulingia luteiflora$	Rulingia sp_ms_luteiflora
+    6$_NO_HIGHERTAXON$Rutidosis helichrysoides$	Rutidosis sp_ms_helichrysoides
+    7$_NO_HIGHERTAXON$Salsola kali subsp. tragus$	Salsola sp_ms_kali
+    5$_NO_HIGHERTAXON$Salsola kali$	Salsola sp_ms_kali
+    1$_NO_HIGHERTAXON$Salvia misella$	Salvia sp_ms_misella
+   22$_NO_HIGHERTAXON$Sarcostemma viminale australe$	Sarcostemma sp_viminale_australe
+   47$_NO_HIGHERTAXON$Scaevola basedowii$	Scaevola sp_ms_basedowii
+   52$_NO_HIGHERTAXON$Scaevola crassifolia$	Scaevola sp_ms_crassifolia
+   20$_NO_HIGHERTAXON$Scaevola nitida$	Scaevola sp_ms_nitida
+   28$_NO_HIGHERTAXON$Scaevola ovalifolia$	Scaevola sp_ms_ovalifolia
+    5$_NO_HIGHERTAXON$Scaevola parvifolia$	Scaevola sp_ms_parvifolia
+   10$_NO_HIGHERTAXON$Scaevola sericophylla$	Scaevola sp_ms_sericophylla
+   70$_NO_HIGHERTAXON$Scaevola spinescens$	Scaevola sp_ms_spinescens
+   49$_NO_HIGHERTAXON$Scaevola$	Scaevola
+   14$_NO_HIGHERTAXON$Schinus terebinthifolius$	Schinus sp_ms_terebinthifolius
+    6$_NO_HIGHERTAXON$Schizomeria ovata$	Schizomeria sp_ms_ovata
+   21$_NO_HIGHERTAXON$Schoenia cassiniana$	Schoenia sp_ms_cassiniana
+    1$_NO_HIGHERTAXON$Scholtzia cordata$	Scholtzia sp_ms_cordata
+   11$_NO_HIGHERTAXON$Scholtzia drummondii$	Scholtzia sp_ms_drummondii
+   62$_NO_HIGHERTAXON$Scholtzia leptantha$	Scholtzia sp_ms_leptantha
+   10$_NO_HIGHERTAXON$Scholtzia parviflora$	Scholtzia sp_ms_parviflora
+    4$_NO_HIGHERTAXON$Scholtzia umbellifera$	Scholtzia sp_ms_umbellifera
+  159$_NO_HIGHERTAXON$Scholtzia$	Scholtzia
+   18$_NO_HIGHERTAXON$Sclerolaena birchii$	Sclerolaena sp_ms_birchii
+    2$_NO_HIGHERTAXON$Sclerolaena cuneata$	Sclerolaena sp_ms_cuneata
+   11$_NO_HIGHERTAXON$Sclerolaena holtiana$	Sclerolaena sp_ms_holtiana
+    1$_NO_HIGHERTAXON$Sclerolaena lanicuspis$	Sclerolaena sp_ms_lanicuspis
+    2$_NO_HIGHERTAXON$Sclerostegia disarticulata$	Sclerostegia sp_ms_disarticulata
+    1$_NO_HIGHERTAXON$Scolopia braunii$	Scolopia sp_ms_braunii
+   62$_NO_HIGHERTAXON$Senecio lautus subsp. dissectifolius$	Senecio sp_ms_lautus
+    2$_NO_HIGHERTAXON$Senecio quadridentatus$	Senecio sp_ms_quadridentatus
+   44$_NO_HIGHERTAXON$Senecio sp.$	Senecio sp.
+    1$_NO_HIGHERTAXON$Senecio$	Senecio
+    2$_NO_HIGHERTAXON$Senna  var. pleurocarpa$	Senna  var. pleurocarpa
+    1$_NO_HIGHERTAXON$Senna artemisioides subsp. x artemisioides$	Senna sp_ms_artemisioides
+    2$_NO_HIGHERTAXON$Senna cardiosperma$	Senna sp_ms_cardiosperma
+    1$_NO_HIGHERTAXON$Senna form taxon 'alicia'$	Senna sp_form_taxon_alicia
+    3$_NO_HIGHERTAXON$Senna form taxon 'artemisioides'$	Senna sp_form_taxon_artemisioides
+    1$_NO_HIGHERTAXON$Senna$	Senna
+    6$_NO_HIGHERTAXON$Sesbania$	Sesbania
+   24$_NO_HIGHERTAXON$Sida clementii$	Sida sp_ms_clementii
+   23$_NO_HIGHERTAXON$Sida echinocarpa$	Sida sp_ms_echinocarpa
+   53$_NO_HIGHERTAXON$Sida fibulifera$	Sida sp_ms_fibulifera
+   16$_NO_HIGHERTAXON$Sida filiformis$	Sida sp_ms_filiformis
+    1$_NO_HIGHERTAXON$Sida phaeotricha$	Sida sp_ms_phaeotricha
+   57$_NO_HIGHERTAXON$Sida pilbarensis$	Sida sp_ms_pilbarensis
+  133$_NO_HIGHERTAXON$Sida rohlenae subsp. rohlenae$	Sida sp_ms_rohlenae
+    5$_NO_HIGHERTAXON$Sida sp. Pindar$	Sida sp_Pindar
+    7$_NO_HIGHERTAXON$Sida sp.$	Sida sp.
+   38$_NO_HIGHERTAXON$Sida spinosa$	Sida sp_ms_spinosa
+   83$_NO_HIGHERTAXON$Sida$	Sida
+   60$_NO_HIGHERTAXON$Solanum ashbyae$	Solanum sp_ms_ashbyae
+   13$_NO_HIGHERTAXON$Solanum coactiliferum$	Solanum sp_ms_coactiliferum
+   10$_NO_HIGHERTAXON$Solanum ellipticum$	Solanum sp_ms_ellipticum
+    1$_NO_HIGHERTAXON$Solanum lanceolatum$	Solanum sp_ms_lanceolatum
+  242$_NO_HIGHERTAXON$Solanum lasiophyllum$	Solanum sp_ms_lasiophyllum
+   16$_NO_HIGHERTAXON$Solanum orbiculatum subsp. orbiculatum$	Solanum sp_ms_orbiculatum
+    2$_NO_HIGHERTAXON$Solanum plicatile$	Solanum sp_ms_plicatile
+   62$_NO_HIGHERTAXON$Solanum seaforthianum$	Solanum sp_ms_seaforthianum
+    2$_NO_HIGHERTAXON$Solanum sp.$	Solanum sp.
+    1$_NO_HIGHERTAXON$Solanum$	Solanum
+   42$_NO_HIGHERTAXON$Sollya heterophylla$	Sollya sp_ms_heterophylla
+    1$_NO_HIGHERTAXON$Sollya$	Sollya
+   17$_NO_HIGHERTAXON$Sorghum plumosum$	Sorghum sp_ms_plumosum
+    5$_NO_HIGHERTAXON$Spartochloa scirpoidea$	Spartochloa sp_ms_scirpoidea
+   71$_NO_HIGHERTAXON$Spermacoce$	Spermacoce
+   11$_NO_HIGHERTAXON$Spinifex longifolius$	Spinifex sp_ms_longifolius
+   10$_NO_HIGHERTAXON$Sprengelia incarnata$	Sprengelia sp_ms_incarnata
+    8$_NO_HIGHERTAXON$Spyridium globulosum$	Spyridium sp_ms_globulosum
+    1$_NO_HIGHERTAXON$Spyridium sp.$	Spyridium sp.
+    7$_NO_HIGHERTAXON$Stemodia grossa$	Stemodia sp_ms_grossa
+    1$_NO_HIGHERTAXON$Stemodia sp. Onslow$	Stemodia sp_Onslow
+    2$_NO_HIGHERTAXON$Stemodia$	Stemodia
+   30$_NO_HIGHERTAXON$Stenanthemum complicatum$	Stenanthemum sp_ms_complicatum
+    6$_NO_HIGHERTAXON$Stenanthemum$	Stenanthemum
+    1$_NO_HIGHERTAXON$Strychnos$	Strychnos
+    2$_NO_HIGHERTAXON$Stylobasium$	Stylobasium
+    5$_NO_HIGHERTAXON$Tamarix$	Tamarix
+    1$_NO_HIGHERTAXON$Taxandria parviceps$	Taxandria sp_ms_parviceps
+    4$_NO_HIGHERTAXON$Tecticornia disarticulata$	Tecticornia sp_ms_disarticulata
+   22$_NO_HIGHERTAXON$Tephrosia aff.$	Tephrosia sp_aff
+    2$_NO_HIGHERTAXON$Terminalia canescens$	Terminalia sp_ms_canescens
+    1$_NO_HIGHERTAXON$Terminalia ferdinandiana$	Terminalia sp_ms_ferdinandiana
+    3$_NO_HIGHERTAXON$Tetragonia decumbens$	Tetragonia sp_ms_decumbens
+    6$_NO_HIGHERTAXON$Tetragonia implexicoma$	Tetragonia sp_ms_implexicoma
+   13$_NO_HIGHERTAXON$Thecanthes punicea$	Thecanthes sp_ms_punicea
+    2$_NO_HIGHERTAXON$Themeda triandra$	Themeda sp_ms_triandra
+   13$_NO_HIGHERTAXON$Themeda$	Themeda
+    2$_NO_HIGHERTAXON$Thomasia$	Thomasia
+    1$_NO_HIGHERTAXON$Threlkeldia$	Threlkeldia
+   16$_NO_HIGHERTAXON$Thryptomene aspera glabra$	Thryptomene sp_aspera_glabra
+    1$_NO_HIGHERTAXON$Thryptomene australis$	Thryptomene sp_ms_australis
+    2$_NO_HIGHERTAXON$Thryptomene hyporhytis$	Thryptomene sp_ms_hyporhytis
+    2$_NO_HIGHERTAXON$Thryptomene kochii$	Thryptomene sp_ms_kochii
+   43$_NO_HIGHERTAXON$Thryptomene sp. Eneabba$	Thryptomene sp_Eneabba
+   43$_NO_HIGHERTAXON$Thryptomene sp. lancelin &#40;m.e. trudgen 14000&#41;$	Thryptomene sp_lancelin_me_trudgen_14000
+    2$_NO_HIGHERTAXON$Thryptomene urceolaris$	Thryptomene sp_ms_urceolaris
+  119$_NO_HIGHERTAXON$Thryptomene$	Thryptomene
+   52$_NO_HIGHERTAXON$Trachymene coerulea$	Trachymene sp_ms_coerulea
+   13$_NO_HIGHERTAXON$Trachymene$	Trachymene
+    3$_NO_HIGHERTAXON$Triodia epactia$	Triodia sp_ms_epactia
+    3$_NO_HIGHERTAXON$Triumfetta chaetocarpa$	Triumfetta sp_ms_chaetocarpa
+    3$_NO_HIGHERTAXON$Trymalium$	Trymalium
+    1$_NO_HIGHERTAXON$Urochloa mutica$	Urochloa sp_ms_mutica
+   90$_NO_HIGHERTAXON$Urtica incisa$	Urtica sp_ms_incisa
+   26$_NO_HIGHERTAXON$Vachellia$	Vachellia
+    6$_NO_HIGHERTAXON$Verticordia  var. densiflora$	Verticordia  var. densiflora
+   27$_NO_HIGHERTAXON$Verticordia brownii$	Verticordia sp_ms_brownii
+   40$_NO_HIGHERTAXON$Verticordia chrysantha$	Verticordia sp_ms_chrysantha
+    4$_NO_HIGHERTAXON$Verticordia chrysanthella$	Verticordia sp_ms_chrysanthella
+    7$_NO_HIGHERTAXON$Verticordia densiflora$	Verticordia sp_ms_densiflora
+    1$_NO_HIGHERTAXON$Verticordia forrestii$	Verticordia sp_ms_forrestii
+    1$_NO_HIGHERTAXON$Verticordia plumosa var. plumosa$	Verticordia sp_ms_plumosa
+    2$_NO_HIGHERTAXON$Verticordia roei$	Verticordia sp_ms_roei
+    4$_NO_HIGHERTAXON$Verticordia$	Verticordia
+  113$_NO_HIGHERTAXON$Viminaria juncea$	Viminaria sp_ms_juncea
+    1$_NO_HIGHERTAXON$Viminaria$	Viminaria
+    2$_NO_HIGHERTAXON$Waitzia  var. albicans$	Waitzia  var. albicans
+  124$_NO_HIGHERTAXON$Waitzia acuminata$	Waitzia sp_ms_acuminata
+    2$_NO_HIGHERTAXON$Waitzia$	Waitzia
+    7$_NO_HIGHERTAXON$Waltheria indica$	Waltheria sp_ms_indica
+    4$_NO_HIGHERTAXON$Waterhousea floribunda$	Waterhousea sp_ms_floribunda
+   10$_NO_HIGHERTAXON$Westringia rigida$	Westringia sp_ms_rigida
+    3$_NO_HIGHERTAXON$Xanthium spinosum$	Xanthium sp_ms_spinosum
+    5$_NO_HIGHERTAXON$Xanthium$	Xanthium
+    6$_NO_HIGHERTAXON$Xenostegia$	Xenostegia
+   17$_NO_HIGHERTAXON$aethiopicum$	aethiopicum
+    1$_NO_HIGHERTAXON$albicans$	albicans
+    5$_NO_HIGHERTAXON$artemisioides subsp. helmsii$	artemisioides subsp. helmsii
+   16$_NO_HIGHERTAXON$artemisioides subsp. oligophylla$	artemisioides subsp. oligophylla
+    1$_NO_HIGHERTAXON$artemisioides subsp. oligophylla_delete$	artemisioides subsp. oligophylla_delete
+   24$_NO_HIGHERTAXON$auricomum$	auricomum
+   44$_NO_HIGHERTAXON$brevidens$	brevidens
+   27$_NO_HIGHERTAXON$cacaobrunnea$	cacaobrunnea
+   39$_NO_HIGHERTAXON$caperata$	caperata
+    6$_NO_HIGHERTAXON$cf. hubbardii$	cf. sp_ms_hubbardii
+    8$_NO_HIGHERTAXON$clarkei$	clarkei
+    1$_NO_HIGHERTAXON$clavata$	clavata
+    7$_NO_HIGHERTAXON$decipiens subsp. decipiens$	decipiens subsp. decipiens
+   10$_NO_HIGHERTAXON$disticha$	disticha
+    2$_NO_HIGHERTAXON$diversiflorum$	diversiflorum
+  406$_NO_HIGHERTAXON$duttonii$	duttonii
+   56$_NO_HIGHERTAXON$elachophylla$	elachophylla
+    2$_NO_HIGHERTAXON$eriobotrya$	eriobotrya
+   62$_NO_HIGHERTAXON$exilifolia$	exilifolia
+    1$_NO_HIGHERTAXON$forrestii subsp. forrestii_delete$	forrestii subsp. forrestii_delete
+    7$_NO_HIGHERTAXON$forrestii$	forrestii
+   72$_NO_HIGHERTAXON$freelingii$	freelingii
+   22$_NO_HIGHERTAXON$furcellata$	furcellata
+    6$_NO_HIGHERTAXON$ghesaembilla$	ghesaembilla
+   12$_NO_HIGHERTAXON$horrida$	horrida
+  219$_NO_HIGHERTAXON$insulare$	insulare
+    1$_NO_HIGHERTAXON$ionantha$	ionantha
+    6$_NO_HIGHERTAXON$isatidea$	isatidea
+    8$_NO_HIGHERTAXON$jerichoensis var. subopinulifera$	jerichoensis var. subopinulifera
+    5$_NO_HIGHERTAXON$kali$	kali
+   49$_NO_HIGHERTAXON$lasiophyllum$	lasiophyllum
+    2$_NO_HIGHERTAXON$latrobei latrobei$	latrobei sp_ms_latrobei
+    7$_NO_HIGHERTAXON$latrobei$	latrobei
+    1$_NO_HIGHERTAXON$leefeana$	leefeana
+   55$_NO_HIGHERTAXON$luteiflora$	luteiflora
+   46$_NO_HIGHERTAXON$macdonnellii$	macdonnellii
+   20$_NO_HIGHERTAXON$macrostachya$	macrostachya
+    3$_NO_HIGHERTAXON$maitlandii$	maitlandii
+    5$_NO_HIGHERTAXON$malabarica$	malabarica
+    1$_NO_HIGHERTAXON$miniata$	miniata
+    3$_NO_HIGHERTAXON$murale$	murale
+    5$_NO_HIGHERTAXON$nummularia subsp. omissa$	nummularia subsp. omissa
+    4$_NO_HIGHERTAXON$nummularia subsp. spathulata$	nummularia subsp. spathulata
+    2$_NO_HIGHERTAXON$nummularia$	nummularia
+    9$_NO_HIGHERTAXON$oldfieldii oldfieldii$	oldfieldii sp_ms_oldfieldii
+   43$_NO_HIGHERTAXON$platycarpum$	platycarpum
+   78$_NO_HIGHERTAXON$populneus subsp. populneus$	populneus subsp. populneus
+   19$_NO_HIGHERTAXON$serratifolia$	serratifolia
+    1$_NO_HIGHERTAXON$setacea$	setacea
+    2$_NO_HIGHERTAXON$spinosum$	spinosum
+    9$_NO_HIGHERTAXON$stenodonta$	stenodonta
+    1$_NO_HIGHERTAXON$stuartii$	stuartii
+  319$_NO_HIGHERTAXON$sturtii$	sturtii
+   20$_NO_HIGHERTAXON$subsp. fraseri$	subsp. sp_ms_fraseri
+    2$_NO_HIGHERTAXON$subsp. helmsii$	subsp. sp_ms_helmsii
+    1$_NO_HIGHERTAXON$subsp. omissa$	subsp. sp_ms_omissa
+    2$_NO_HIGHERTAXON$subsp. spathulata$	subsp. sp_ms_spathulata
+    9$_NO_HIGHERTAXON$subsp. tragus$	subsp. sp_ms_tragus
+    1$_NO_HIGHERTAXON$subsp. x luerssenii$	subsp. sp_x_luerssenii
+   19$_NO_HIGHERTAXON$supina$	supina
+    2$_NO_HIGHERTAXON$var. subopinulifera$	var. sp_ms_subopinulifera

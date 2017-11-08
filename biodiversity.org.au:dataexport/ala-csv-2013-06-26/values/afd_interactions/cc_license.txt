@@ -1,0 +1,5 @@
+rank	count	cc_license
+
+1	55963	http://creativecommons.org/licenses/by/3.0/
+
+55963	TOTAL

@@ -1,0 +1,19 @@
+count$path$bad_name$	suggested_name
+    3$Crustacea/Decapoda/Varunidae$Pseudohelice quadrata$	Pseudohelice sp_ms_quadrata
+    1$Insecta/Hymenoptera/Formicidae$Crematogaster sp1$	Crematogaster sp_sp1
+    1$Plantae/Dicotyledoneae/Rhizophoraceae$Ceriops pseudo$	Ceriops sp_ms_pseudo
+   19$Plantae/Dicotyledoneae/Rhizophoraceae$Rhizophora X lamarckii$	Rhizophora sp_X_lamarckii
+    6$Plantae/Monocotyledoneae/Cyperaceae$Gahnia filum$	Gahnia sp_ms_filum
+    2$Plantae/Monocotyledoneae/Poaceae$Spartina X townsendii$	Spartina sp_X_townsendii
+    5$_NO_HIGHERTAXON$Arhopara micale$	Arhopara sp_ms_micale
+    4$_NO_HIGHERTAXON$Baumea juncea$	Baumea sp_ms_juncea
+    4$_NO_HIGHERTAXON$Chelicerates$	Chelicerates
+    5$_NO_HIGHERTAXON$Crustaceans$	Crustaceans
+    1$_NO_HIGHERTAXON$Curculionoidea$	Curculionoidea
+    8$_NO_HIGHERTAXON$Insects$	Insects
+    2$_NO_HIGHERTAXON$Molluscs$	Molluscs
+    3$_NO_HIGHERTAXON$Nectorinia jugularis$	Nectorinia sp_ms_jugularis
+    1$_NO_HIGHERTAXON$Notiosomus$	Notiosomus
+    1$_NO_HIGHERTAXON$Stevens and Rogers 1979$	Stevens sp_and_Rogers_1979
+    1$_NO_HIGHERTAXON$Tryphocaria$	Tryphocaria
+   37$_NO_HIGHERTAXON$Vascular Plants$	Vascular sp_Plants

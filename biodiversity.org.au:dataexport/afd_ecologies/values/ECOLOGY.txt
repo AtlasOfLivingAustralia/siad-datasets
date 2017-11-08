@@ -1,0 +1,12 @@
+rank	count	ECOLOGY
+
+1	48226	Life History
+2	44947	Marine
+3	29152	User Defined
+4	25527	Feeding
+5	10820	Terrestrial & Misc.
+6	7381	Veg. Growth Forms
+7	5481	Freshwater
+8	2	NULL
+
+171536	TOTAL

@@ -1,0 +1,6 @@
+rank	count	TYPE
+
+1	34760	NULL
+2	21203	U
+
+55963	TOTAL

@@ -1,0 +1,505 @@
+rank	count	Collector
+
+1	2289	Cassis, Schuh, Schwartz, Silveira
+2	2241	C. Symonds
+3	2240	Cassis, Schuh, Schwartz, Silveira, Wall
+4	2213	R.T. Schuh, G. Cassis, and R. Silveira
+5	1607	G. Cassis
+6	1564	Schuh and Cassis
+7	1313	Cassis, Wall, Weirauch, Symonds
+8	1098	G.Cassis, R.Silveira
+9	1034	Cassis, Barrow, Finlay, and Symonds
+10	784	Cassis, Wall, Weirauch, Tatarnic, Symonds
+11	655	G. Cassis and J. Karras
+12	617	Cassis, Weirauch, Tatarnic, Symonds
+13	611	G. Cassis, S. Lassau, S. and G. Carter
+14	545	M. Cheng &#38; C. Symonds
+15	530	G. B. Monteith
+16	474	Schuh, Cassis, Silveira
+17	460	Cassis, Schuh, and Schwartz
+18	367	Schuh, Cassis, Brailovsky
+19	336	A. Namyatova
+20	325	M. Cheng
+21	256	M.D. Schwartz and P.P. Tinerella
+22	233	M. Cheng &#38; L. Durber
+23	182	M. Cheng &#38; M. Elias
+24	134	M. Cheng &#38; A. Namyatova
+25	132	G. Cassis, J. Karras &#38; N. Tatarnic
+26	131	Schuh, Cassis, Brailovsky, Asquith
+27	126	Terest. Ecol. Dept AM
+28	117	C. Symonds &#38; R. Leijs
+29	86	Monteith &#38; Thompson
+30=	83	Cassis, Silveira, Wall
+30=	83	M. Cheng &#38; G.S. Taylor
+32	75	Cassis, Wall, Tatarnic, Monteith
+33	73	Schuh, Cassis, and Gross
+34	69	L. Hill
+35	68	G. Monteith &#38; G. Thompson
+36	66	Monteith, Thompson &#38; Janetzki
+37=	65	C. Symonds &#38; B. Glasser
+37=	65	G Monteith
+37=	65	M. D. Schwartz
+40	62	Unknown
+41	57	M Cheng
+42	54	G. F. Gross
+43=	53	G. B. &#38; S. R. Monteith
+43=	53	T. A. Moulds
+45	51	R. Silveira and M. Elliott
+46	48	M. Cheng, S. Lam, G.S. Taylor &#38; T. Schmidt
+47	47	M. Elias &#38; A. Namyatova
+48	44	C. Symonds, B. Glasser, R. Leijs
+49	43	E. S. Ross &#38; D. Q. Cavagnaro
+50=	42	Earthwatch/QLD. Museum
+50=	42	R. Silveira
+52=	41	G. Monteith
+52=	41	QM party
+54=	39	M. Cheng, C. Symonds &#38; M. Jambrecina
+54=	39	Y. Basset
+56=	36	A. Lowrie
+56=	36	Aust. Mus. Terr. Ecol. Dept.
+58	35	M. Cheng, C. Symonds &#38; G.S. Taylor
+59=	32	G. Williams
+59=	32	T. E. Woodward
+61	31	M. Cheng &#38; T. Lebel
+62=	29	G.S. Taylor
+62=	29	M. Cheng &#38; C. Levy
+62=	29	T. Weir &#38; T. Angeles
+65	28	C. Young
+66	27	Monteith, Thompson &#38; ANZSES
+67=	26	P. S. Short
+67=	26	Upton &#38; Feehan
+69	25	M. Cheng, S. Perkins &#38; G.S. Taylor
+70=	24	C. Reid
+70=	24	G. Cassis &#38; K. Thiele
+70=	24	M. Cheng &#38; M. Ripcke
+73=	23	L. P. Kelsey
+73=	23	Monteith, Yeates, &#38; Cook
+75	22	D. H. Colless
+76=	21	A. Postle
+76=	21	Australian Museum
+76=	21	F. Christie
+76=	21	M. Driessen
+76=	21	Monteith &#38; Cook
+81=	20	N. B. Tindale
+81=	20	R. C. Nash
+83=	19	A. M. Lea
+83=	19	I. F. B. Common &#38; M. S. Upton
+85=	18	C. J. Burwell
+85=	18	G.F. Gross
+85=	18	S. Neser
+88=	17	A. Sundholm
+88=	17	I. Mason
+88=	17	J. F. Lawrence
+88=	17	M. B. Malipatil
+88=	17	Monteith, Thompson, Hamlet
+88=	17	T. Weir
+94=	16	E. G. Matthews &#38; J. A. Forrest
+94=	16	I. D. Naumann &#38; J. C. Cardale
+94=	16	P. B. McQuillan
+97=	15	A. Musgrave &#38; C. Geissmann
+97=	15	C. Lambkin
+97=	15	E. M. Exley
+97=	15	K. T. Richards
+97=	15	Monteith, Cook, Thompson
+97=	15	N. Tatarnic and D. C. Darling
+103=	14	B. Hanich &#38; T. F. Houston
+103=	14	C. Symonds, A. Molan, A. Wheeler, B. Yardley
+103=	14	G. Monteith &#38; H. Janetzki
+103=	14	G. Monteith and D. Cook
+103=	14	J. Armstrong
+103=	14	M. Cheng &#38; C. Duykers
+103=	14	N. Tatarnic &#38; A. Namyatova
+110=	13	C. Brockway
+110=	13	C. Symonds &#38; B. Wirf
+110=	13	D. S. Horning, Jr.
+110=	13	F. D. Page &#38; L. Rigby
+110=	13	M. Cheng, S. Lam &#38; G.S. Taylor
+110=	13	Monteith &#38; Janetzki
+110=	13	P. German
+117=	12	H. Hacker
+117=	12	K.A. Coward
+117=	12	M. Elias
+117=	12	T. G. Campbell
+121=	11	A. F. Newton, M. K. Thayer
+121=	11	D.K. Yeates &#38; G.I. Thompson
+121=	11	J. W. Evans
+121=	11	P. Aitken
+121=	11	R. L. Kitching
+121=	11	S. Clamesha
+127=	10	A. J. Turner
+127=	10	A. Terauds
+127=	10	I. F. B. Common
+127=	10	J. A. Slater
+127=	10	J. Grimshaw
+127=	10	L. Wilkie
+127=	10	M. Cheng &#38; K. Gillespie
+127=	10	M. Cheng &#38; R. Kittel
+127=	10	R. Harris &#38; T. Moulds
+127=	10	R. Patterson
+137=	9	A. Musgrave
+137=	9	Earthwatch
+137=	9	J. A. Forrest
+137=	9	J. F. Grimshaw
+137=	9	K. C. McKeown
+137=	9	K. K. Spence
+137=	9	M. Cheng, C. Symonds &#38; R. Kittel
+137=	9	Monteith, Thompson &#38; Sheridan
+137=	9	N. McFarland
+137=	9	T. J. Henry
+137=	9	W. C. Gagne
+148=	8	E. Britton
+148=	8	G. S. Taylor &#38; J. T. Jennings
+148=	8	H. Frauca
+148=	8	Lea
+148=	8	M. Cheng &#38; I. England
+148=	8	M. Cheng,  C. Gillies, R. Kittel &#38; G.S. Taylor,
+148=	8	M. Cheng, G.S. Taylor, R. Kittel, &#38; D. McLaughlin
+148=	8	M. Cheng, R. Kittel &#38; B. Baehr
+148=	8	Monteith, Yeates &#38; Thompson
+148=	8	N. Geary
+148=	8	P. J. M. Greenslade
+148=	8	R Patterson
+148=	8	R. V. Southcott
+148=	8	Upton &#38; McInnes
+162=	7	E. B. Britton
+162=	7	Evline Berger
+162=	7	Fiona Powell
+162=	7	Helms
+162=	7	J. A. Walker
+162=	7	Lea &#38; Carter
+162=	7	Monteith, Cook, Roberts
+162=	7	R. Leijs
+162=	7	Reid, Lassau &#38; Donnelly
+171=	6	C. E. Chadwick
+171=	6	C. Lambkin, B. Schiebaan &#38; N. Starick
+171=	6	DPI QLD
+171=	6	F. Mcdonald
+171=	6	G. &#38; T. Williams
+171=	6	G. Cassis and R. Silveira
+171=	6	H. M. Cane
+171=	6	K. J. Sandery
+171=	6	M. Cheng, G.S. Taylor &#38; D. McLaughlin
+171=	6	Monteith &#38; Russell
+171=	6	R. P. McMillan
+171=	6	V. V. Hickman
+183=	5	Anzses Exped
+183=	5	C. J. Burwell and G. B. Monteith
+183=	5	C. Kelly &#38; K.A. Coward
+183=	5	C. Lambkin, N. Starick &#38; R. Smith
+183=	5	C. W.  O'Brien
+183=	5	Carter &#38; Lea
+183=	5	E. Schmidt &#38; ANZSES
+183=	5	F. E. Wilson
+183=	5	F. P. Dodd
+183=	5	G. Cassis &#38; D. Bickel
+183=	5	I.D.Naumann &#38; P. Zborowski
+183=	5	J. J. H. Szent-Ivany
+183=	5	M. Cheng, L. Durber &#38; P. Simper
+183=	5	M. Gray &#38; G. Cassis
+183=	5	Monteith &#38; Wright
+183=	5	Monteith, Janetzki &#38; Cook
+183=	5	Monteith, Janetzki &#38; Sheridan
+183=	5	P. Aitken &#38; N. B. Tindale
+183=	5	R. Leijs &#38; R. King
+183=	5	T. F. Houston
+183=	5	V. Kessner
+183=	5	W. Heron
+205=	4	C. Johnstone
+205=	4	D. Seion& N. McFarland
+205=	4	G. H. Hardy
+205=	4	G. Monteith &#38; D. Yeates
+205=	4	H. F. Recher
+205=	4	H. J. Carter
+205=	4	J. C. Cardale
+205=	4	J. Evans
+205=	4	M. A. Williams
+205=	4	M.S. Harvey
+205=	4	McD
+205=	4	Monteith, Sheridan, Roberts
+205=	4	Monteith, Thompson, Cook
+205=	4	P. Brown
+205=	4	R.T. Schuh and Schwartz
+205=	4	S. Kniveton
+205=	4	W. Head
+205=	4	Z. Liepa
+223=	3	A. Sundholm and A. Scott
+223=	3	Blossom
+223=	3	D. Bickel
+223=	3	D. C. F. Rentz
+223=	3	D. K. McAlpine
+223=	3	D. S. Horning
+223=	3	D. Wright
+223=	3	D.S.Horning
+223=	3	E. M. Exley &#38; T. Low
+223=	3	G. B. Monteith, D. K. Yeates
+223=	3	G.A. Williams
+223=	3	H. E. P. Bracey
+223=	3	I. Naumann &#38; T. Weir
+223=	3	J. D. Majer
+223=	3	J. L. Cressitt
+223=	3	J.L Gressitt
+223=	3	K. R. Norris
+223=	3	M. A. Schneider
+223=	3	M. A. Stephenson
+223=	3	M. Cheng &#38; C. Nichols
+223=	3	M. Cheng &#38; D. Azzi
+223=	3	M. S. Upton
+223=	3	M.F. Braby
+223=	3	M.S. Upton
+223=	3	Monteith and Hasenpusch
+223=	3	Moulds, McEvey &#38; McAlpine
+223=	3	P. Honan
+223=	3	Qld. Mus. &#38; ANZSES
+223=	3	R. Kumar
+223=	3	R. Parr
+223=	3	S. &#38; J. Peck
+223=	3	T. F. Houston et al
+223=	3	T.Weir, J.F.Lawrence, M.L.Johnson
+223=	3	W.G. Ullrich
+257=	2	A. H. Elston
+257=	2	A. Postle and C. Brockway
+257=	2	A. Snell
+257=	2	A.M. CBCR
+257=	2	B. Cantrell
+257=	2	B. Cross
+257=	2	B. Schiebaan
+257=	2	C. Gibbons
+257=	2	C. N. Smithers
+257=	2	C. N. Smithers &#38; A.S. Smithers
+257=	2	C. P. Jhmact
+257=	2	C. P. Ohmart
+257=	2	C.F. Muir
+257=	2	D. Britton
+257=	2	D.K. McAlpine and M.A. Schneider
+257=	2	DE BEER
+257=	2	E. C. Dahms
+257=	2	E. C. Zimmerman
+257=	2	E. G. Matthews
+257=	2	E. Volschenk
+257=	2	E.G. Matthews
+257=	2	F. Muir
+257=	2	G. Gross
+257=	2	H. M. Hale
+257=	2	H. O. Fletcher
+257=	2	I. D. Naumann
+257=	2	I. Naumann, G. Clarke
+257=	2	I. W. Watson
+257=	2	I.C. Taplin
+257=	2	J. A. Cardale
+257=	2	J. A. Herridge
+257=	2	J. Balderson
+257=	2	J. Cardale &#38; S. Curtis
+257=	2	J. Cardale, P. Zborowski
+257=	2	J. F. Donaldson
+257=	2	J. G. Brooks
+257=	2	J. L. Gressitt
+257=	2	J. Majer
+257=	2	J. Sedlacek
+257=	2	J. Tarnawski &#38; S. Lassau
+257=	2	K.L. Anderson
+257=	2	Khashiyah
+257=	2	L. Franzen
+257=	2	L. G. Herron
+257=	2	L. Roberts
+257=	2	M. Cheng, C. Bayer, &#38; M. Colquhoun
+257=	2	M. Cheng, R. Kittel &#38; C. Levy
+257=	2	M. F. Day
+257=	2	M. Purcell
+257=	2	M. Simpson &#38; K.A. Coward
+257=	2	Monteith &#38; Seymour
+257=	2	Mr. A. Snell
+257=	2	N. Guthrie
+257=	2	P. Allsopp
+257=	2	P. B. M'Quillan
+257=	2	P. C. Hely
+257=	2	P. Cale
+257=	2	P. Flemons &#38; J. Tarnawski
+257=	2	R. Brieze-Stegeman
+257=	2	R. Harris &#38; H. Smith
+257=	2	S. G. Wright
+257=	2	S. Hamlet
+257=	2	S. Montague
+257=	2	T. D. Semmens &#38; P. B. McQuillan
+257=	2	T. F. Houston &#38; R. P. McMillan
+257=	2	T. Kingston
+257=	2	T. Low
+257=	2	T. Weir &#38; P. Bouchard
+257=	2	Terr. Ecol. Dept
+257=	2	W. P. Calvert
+257=	2	W.W.F
+328=	1	A. Calder &#38; J. Feehan
+328=	1	A. Hiller
+328=	1	A. Kaus
+328=	1	A. L. Tonnoir
+328=	1	A. Namyatova &#38; C. Byrne
+328=	1	A. R. B.
+328=	1	A. Sundholm &#38; F Douglas
+328=	1	A. Terauda
+328=	1	A. Tonnoir
+328=	1	A. V.
+328=	1	A. Wilson
+328=	1	B. K. Cantrell
+328=	1	B. K. Hubbard
+328=	1	B. Malkin
+328=	1	Boy Scout Jamboree
+328=	1	C. H. Watts
+328=	1	C. J. Burwell &#38; C. M. Rodriguez
+328=	1	C. Symonds &#38; K. Bonham
+328=	1	C. Symonds &#38; R. Raven
+328=	1	C. W. Frazier
+328=	1	C.Young
+328=	1	CVA volunteers
+328=	1	Carvalho
+328=	1	Currumbin
+328=	1	D &#38; I Cook
+328=	1	D. Bicker &#38; G. Cassis
+328=	1	D. DeLittle
+328=	1	D. F. Waterhouse
+328=	1	D. Hain
+328=	1	D. Hockings
+328=	1	D. K. McAlpine &#38; B. J. Day
+328=	1	D. K. McAlpine &#38; G. A. Holloway
+328=	1	D. Lester
+328=	1	D. R. Britton, S. G. Ginn, D. J. Bickel
+328=	1	D. Smith
+328=	1	D. V. Lacis
+328=	1	D. Williams
+328=	1	D.C.F. Rentz &#38; J. Balderson
+328=	1	D.K. Yeats &#38; G.I. Thompson
+328=	1	D.S. Kent
+328=	1	Darlington
+328=	1	E. F. Riek
+328=	1	E. Sutton
+328=	1	G Monteith, D Cook and C Burwell
+328=	1	G. A. Holloway
+328=	1	G. F. Hill
+328=	1	G. Hangay
+328=	1	G. Holloway
+328=	1	G. J. Baker
+328=	1	G. S. Hardy
+328=	1	G. S. Taylor
+328=	1	G. Thompson
+328=	1	G. Thompson &#38; C. Fewtrell
+328=	1	G. and A. Daniels
+328=	1	Gray, Milledge, Smith
+328=	1	H. A. Rose
+328=	1	H. Fry
+328=	1	H. Hacken
+328=	1	H. Heatwole
+328=	1	H. M. Cooper
+328=	1	H. M. K.O
+328=	1	Hale &#38; Tindale
+328=	1	I. Archibald
+328=	1	I. C. Rowanko
+328=	1	I. D. Galloway
+328=	1	I. G. Fnlmer
+328=	1	J. &#38; A. Skevington
+328=	1	J. A. Mckenna
+328=	1	J. Armstrong &#38; A. Musgrave
+328=	1	J. Cardale
+328=	1	J. Doyen
+328=	1	J. Forrest
+328=	1	J. Gollan
+328=	1	J. Karras &#38; N. Tatarnic
+328=	1	J. Kimber
+328=	1	J. Lawrence
+328=	1	J. M. Walker
+328=	1	J. Prendergast
+328=	1	J. Waldock
+328=	1	J. de Long
+328=	1	J.J.H. Szent-Ivany and W.A. van der Berk
+328=	1	J.L. and M. Gressitt
+328=	1	K. &#38; E. Carnaby
+328=	1	K. H. L. Key &#38; P. B. Carne
+328=	1	K. J. Lambkin
+328=	1	K. Korboot
+328=	1	K. Newport
+328=	1	K. Pullen
+328=	1	K. R. Norrb
+328=	1	K. W. Dillon
+328=	1	K.J. Sandehy
+328=	1	K.L.S. Harley
+328=	1	L. &#38; M. Gressit
+328=	1	L. &#38; M. Gressitt
+328=	1	L. Kelsey
+328=	1	L. Paleari
+328=	1	L. R. Fox
+328=	1	L. Reese
+328=	1	L. Wilkie, R. Harris &#38; H. Smith
+328=	1	Lawrence &#38; Weir
+328=	1	M.  McDonald
+328=	1	M. &#38; J. Shaw
+328=	1	M. Bulbert, N. Tatarnic and S. Lassau
+328=	1	M. Cheng, N.W. Longmore &#38; A. Messina
+328=	1	M. Elshafie
+328=	1	M. Hewish, D. Hewish
+328=	1	M. J. Fletcher
+328=	1	M. J. Watt
+328=	1	M. Lowman
+328=	1	M. M. HWallace
+328=	1	M. Malipatil
+328=	1	M. Matsuki
+328=	1	M. Newell
+328=	1	M. Steinbauer
+328=	1	M. Stevens
+328=	1	M.C. Lloyd
+328=	1	M.G. Elliot
+328=	1	M.S. Harvey &#38; D.C.F. Rentz
+328=	1	McAlpine &#38; Lossin
+328=	1	Monteith &#38; ANZSES
+328=	1	Monteith &#38; Sheridan
+328=	1	Monteith and Escalona
+328=	1	Monteith and Gough
+328=	1	Monteith, Thompson and Cook
+328=	1	Müller
+328=	1	N. Velez
+328=	1	N. W. Forrester
+328=	1	N. Wilson
+328=	1	NLH Krauss
+328=	1	Neboiss
+328=	1	O. Griffiths
+328=	1	P. B. Carne
+328=	1	P. E. Rapley
+328=	1	P. Ferrar
+328=	1	P. Goyne
+328=	1	P. Lawless
+328=	1	P. Marriott, J. Crabb
+328=	1	Pitjantjatjara Lands Survey
+328=	1	R. A. McLachlan
+328=	1	R. Harvey
+328=	1	R. Hazali
+328=	1	R. I. Storey
+328=	1	R. J. Burton
+328=	1	R. Kittel
+328=	1	R. Leijs, K. Hogendoorn, M. Colquhoun &#38; B. Wilkin
+328=	1	R. Lindsay
+328=	1	R. Marchant, S. Hinkley
+328=	1	R. Menzres
+328=	1	R. Metcahfe
+328=	1	R. Monroe
+328=	1	R. W. Taylor &#38; R. J. Bartell
+328=	1	R. de Keyzer
+328=	1	R. de Keyzor
+328=	1	S. Evans
+328=	1	S. G. Grimmett
+328=	1	S.M. Postmus
+328=	1	Signoret
+328=	1	T. Brooks
+328=	1	T. F. Houston &#38; B. P. Hanich
+328=	1	T. G. Campbell, J. &#38; A. Harslett
+328=	1	T. Gush
+328=	1	T. Vinnicombe
+328=	1	T.D. Semmens
+328=	1	T.Weir &#38; A.Calder
+328=	1	Taylor Feehan
+328=	1	Tom Gush
+328=	1	Upton &#38; Mound
+328=	1	W. D. Dodd
+328=	1	W. J. D. White
+328=	1	W. J. Wanjura
+328=	1	W. N. Lock
+328=	1	W. Vestjens
+328=	1	W. W. Froggatt
+328=	1	Y. Risk
+
+26555	TOTAL

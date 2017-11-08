@@ -1,0 +1,11 @@
+rank	count	DESCRIPTOR_CATEGORY
+
+1	30837	Feeding
+2	12985	User Defined
+3	12028	Life History
+4	71	Marine
+5	27	Terrestrial & Misc.
+6	11	Freshwater
+7	4	Veg. Growth Forms
+
+55963	TOTAL

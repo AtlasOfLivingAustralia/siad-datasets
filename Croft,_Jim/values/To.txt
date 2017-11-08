@@ -1,0 +1,171 @@
+rank	count	To
+
+1	185	Avicennia marina
+2	121	Rhizophora stylosa
+3	80	Bruguiera gymnorhiza
+4	75	Aegiceras corniculatum
+5	62	Rhizophora
+6	61	Excoecaria agallocha
+7	60	Ceriops tagal
+8	44	Avicennia
+9=	37	Bruguiera
+9=	37	Vascular Plants
+11=	34	Bruguiera exaristata
+11=	34	Lumnitzera racemosa
+13=	33	Heritiera littoralis
+13=	33	Xylocarpus granatum
+15=	31	Acrostichum speciosum
+15=	31	Rhizophora apiculata
+17	29	Bruguiera parviflora
+18=	28	Excoecaria
+18=	28	Lumnitzera littorea
+18=	28	Sonneratia alba
+18=	28	Xylocarpus moluccensis
+22	27	Acanthus ilicifolius
+23	26	Ceriops pseudodecandra
+24=	25	Ceriops
+24=	25	Cynometra iripa
+24=	25	Hibiscus tiliaceus
+27=	24	Casuarina glauca
+27=	24	Rhizophora mucronata
+27=	24	Sporobolus virginicus
+30	23	Aegialitis annulata
+31=	22	Camptostemon schultzii
+31=	22	Osbornia octodonta
+33	20	Bruguiera sexangula
+34=	19	Nypa fruticans
+34=	19	Rhizophora X lamarckii
+34=	19	Samolus repens
+37	18	Scyphiphora hydrophylacea
+38	17	Diospyros geminata
+39=	16	Sarcocornia quinqueflora
+39=	16	Sonneratia caseolaris
+39=	16	Tecticornia halocnemoides
+42	13	Juncus kraussii
+43=	11	Austrostipa stipoides
+43=	11	Bruguiera cylindrica
+43=	11	Suaeda australis
+46	10	Ceriops australis
+47	9	Hemichroa diandra
+48=	8	Amyema mackayensis
+48=	8	Hymenoptera
+48=	8	Insects
+51=	7	Barringtonia
+51=	7	Hemichroa pentandra
+53=	6	Apodasmia brownii
+53=	6	Batis argillicola
+53=	6	Gahnia filum
+53=	6	Muellerolimon salicorniaceum
+53=	6	Spergularia media
+53=	6	Tecticornia arbuscula
+53=	6	Tecticornia indica
+53=	6	Threlkeldia diffusa
+61=	5	Acrodipsas illidgei
+61=	5	Acrolejeunea aulacophora
+61=	5	Arhopara micale
+61=	5	Coleoptera
+61=	5	Crustaceans
+61=	5	Lumnitzera
+61=	5	Metopograpsus latifrons
+61=	5	Metopograpsus thukuhar
+61=	5	Neosarmatium trispinosum
+61=	5	Parasesarma moluccensis
+61=	5	Perisesarma messa
+61=	5	Tecticornia australasica
+61=	5	Triglochin striata
+74=	4	Baumea juncea
+74=	4	Cheilolejeunea intertexta
+74=	4	Chelicerates
+74=	4	Dalbergia candenatensis
+74=	4	Frullania subtropica
+74=	4	Leptolejeunea maculata
+74=	4	Pemphis acidula
+74=	4	Sesuvium portulacastrum
+74=	4	Tecticornia pterygosperma
+83=	3	Casuarina
+83=	3	Cathormion
+83=	3	Distichlis distichophylla
+83=	3	Frullania ericoides
+83=	3	Lejeunea flava
+83=	3	Lepidoptera
+83=	3	Macromitrium aurescens
+83=	3	Nectorinia jugularis
+83=	3	Ogyris amaryllis
+83=	3	Pseudohelice quadrata
+83=	3	Rhizoclonium
+83=	3	Xylocarpus
+95=	2	Amarygmus
+95=	2	Amyema cambagei
+95=	2	Bactronophorus thoracites
+95=	2	Chiloscyphus semiteres
+95=	2	Cololejeunea lanciloba
+95=	2	Crematogaster
+95=	2	Diospyros littorea
+95=	2	Excoecaria ovalis
+95=	2	Fimbristylis ferruginea
+95=	2	Fissidens linearis
+95=	2	Frullania ferdinandi-muelleri
+95=	2	Molluscs
+95=	2	Panicum paludosum
+95=	2	Parkinsonia aculeata
+95=	2	Polyrhachis
+95=	2	Rhagodia candolleana
+95=	2	Salsola australis
+95=	2	Sematophyllum
+95=	2	Spartina X townsendii
+114=	1	Acacia polystachya
+114=	1	Acalolepta holotephra
+114=	1	Acanthus ebracteatus
+114=	1	Amyema thalassia
+114=	1	Araecerus bicristatus
+114=	1	Aridaeus thoracicus
+114=	1	Atriplex semibaccata
+114=	1	Avicennia integra
+114=	1	Baccharis halimifolia
+114=	1	Barringtonia racemosa
+114=	1	Calophyllum
+114=	1	Cenoloba obliteralis
+114=	1	Ceriops pseudo
+114=	1	Cordia dichotoma
+114=	1	Crematogaster sp1
+114=	1	Curculionoidea
+114=	1	Cynanchum carnosum
+114=	1	Derris
+114=	1	Derris trifoliata
+114=	1	Dicaeum hirundinaceum
+114=	1	Diospyros compacta
+114=	1	Euphranta marina
+114=	1	Eupoecila
+114=	1	Frullania rostrata
+114=	1	Haematomma accolens
+114=	1	Haematomma africanum
+114=	1	Haematomma persoonii
+114=	1	Haematomma stevensiae
+114=	1	Hemiptera
+114=	1	Hypochrysops delicia
+114=	1	Lecanora caesiorubella
+114=	1	Lobelia anceps
+114=	1	Metzgeria furcata
+114=	1	Myzomela erythrocephala
+114=	1	Notiosomus
+114=	1	Oecophylla smaragdina
+114=	1	Phragmites australis
+114=	1	Platyomopsis
+114=	1	Polymesoda erosa
+114=	1	Pseudoplites
+114=	1	Sabatieria wieseri
+114=	1	Sarcocornia blackiana
+114=	1	Schiffneriolejeunea tumida
+114=	1	Selliera radicans
+114=	1	Sonneratia lanceolata
+114=	1	Sphaerolaimus papillatus
+114=	1	Stevens and Rogers 1979
+114=	1	Tapinoma
+114=	1	Terschellingia longicaudata
+114=	1	Theclinesthes sulpitius
+114=	1	Thespesia
+114=	1	Tryphocaria
+114=	1	Uca
+114=	1	Xylocopa
+
+1906	TOTAL

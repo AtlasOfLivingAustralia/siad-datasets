@@ -1,0 +1,110 @@
+rank	number	interaction
+4	8489	predator
+11	2703	herbivore
+14	2441	filter-feeder
+16	2043	sap-feeder
+19	1993	parasitic
+21	1739	mellivore
+31	1336	phloem feeder
+32	1269	ectoparasitic
+34	1205	wood-borer
+36	1176	arthropod-feeder
+39	1051	endoparasitic
+50	811	coprophagous
+51	795	florivore
+52	691	omnivore
+53=	674	folivore
+53=	674	granivore
+70	412	carnivorous
+73	399	plant parasite
+78	369	myrmecophilous
+79	359	sap-sucker
+83	318	fungivore
+98	246	sanguinivore
+102	221	deposit feeder
+107=	208	suspension feeder
+114	201	inquiline
+117	197	necrophagous
+130	167	scavenger
+133	165	algal-feeder
+137	158	root-feeder
+145=	139	detritus-feeder
+145=	139	gall-inducer
+153	131	detritus feeder
+154	130	detritivore
+157	122	commensal
+166=	101	xylem feeder
+168	97	carnivore
+171	91	sporophagous
+174=	83	frugivore
+188=	66	piscivore
+198	57	parenchyma feeder
+206=	52	pest
+209=	49	parasitoid
+244=	34	non-feeder
+251=	31	endocommensal
+251=	31	phyllode gluer
+260=	30	attendant ants
+268=	29	insectivorous
+285=	24	ectocommensal
+285=	24	plant associated
+293=	23	probably suspension feeder
+298=	21	frugivorous
+303=	19	miner
+303=	19	polyphagous
+311=	17	gall-former
+311=	17	graminivore
+311=	17	symbiotic
+333=	13	epizoic
+333=	13	kleptoparasite
+333=	13	mollusc feeder
+360=	11	ectoparasite
+360=	11	vector
+367=	10	shredder
+377=	9	pit-gall inducer
+390=	7	planktovore
+402=	6	grazer
+402=	6	myrmecophagous
+444=	4	bacteria-feeder
+444=	4	ctenovore
+444=	4	deposit-feeding
+444=	4	fructivore
+444=	4	planktivore
+444=	4	saprophagous
+483=	3	active predator
+483=	3	carrion feeder
+483=	3	caterpillar feeder
+483=	3	cnidarivore
+483=	3	copropahgous
+483=	3	gallicolous
+483=	3	insect associated
+483=	3	mesoparasitic
+543=	2	algal feeder
+543=	2	flower gall associate
+543=	2	fungus associated
+543=	2	leaf deformer
+543=	2	leaf edge roll-inducer
+543=	2	leaf-curl inducer
+543=	2	lichen-feeder
+543=	2	moss-feeder
+543=	2	mymecophagous
+543=	2	necropahgous
+543=	2	piscivorous
+543=	2	root feeder
+543=	2	wood-mining
+639=	1	acariphage
+639=	1	ant attended
+639=	1	coprophagus
+639=	1	ectocomensal
+639=	1	facultative predator
+639=	1	fungal-feeder
+639=	1	funnel feeder
+639=	1	hyperparasitic
+639=	1	leaf-edge gall inducer
+639=	1	microepiphytes
+639=	1	mite associated
+639=	1	nectivorous
+639=	1	nomadic predator
+639=	1	phytophagous
+639=	1	plankton feeder
+639=	1	twig-gall inducer
